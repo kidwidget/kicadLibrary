@@ -1,0 +1,5355 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# 150uF
+#
+DEF 150uF CP 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN	
+F1 "150uF" 10 -80 50 H V L CNN
+F2 "Capacitor_THT:CP_Radial_D5.0mm_P2.00mm" -90 -30 50 H I C CNN
+F3 "https://www.nichicon.co.jp/english/products/pdfs/e-uhe.pdf"  10 70 50 H I C CNN
+F4 "6.3 V" 310 370 50 H I C CNN "Voltage"
+F5 "±20%" 410 470 50 H I C CNN "Tolerance"
+F6 "493-1463-ND" 110 170 50 H I C CNN "Digi-Key_PN"
+F7 "UHE0J151MDD" 210 270 50 H I C CNN "MPN"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+S -60 -12 60 -27 0 1 0 F
+S -60 27 60 12 0 1 0 N
+P 2 0 1 0 -50 60 -30 60 N
+P 2 0 1 0 -40 50 -40 70 N
+X ~ 1 0 100 73 D 50 50 1 1 P
+X ~ 2 0 -100 73 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 47uF
+#
+DEF 47uF CP 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN	
+F1 "47uF" 10 -80 50 H V L CNN
+F2 "Capacitor_THT:CP_Radial_D5.0mm_P2.00mm" -90 -30 50 H I C CNN
+F3 "https://www.nichicon.co.jp/english/products/pdfs/e-upw.pdf"  10 70 50 H I C CNN
+F4 "6.3 V" 310 370 50 H I C CNN "Voltage"
+F5 "±20%" 410 470 50 H I C CNN "Tolerance"
+F6 "493-1691-ND" 110 170 50 H I C CNN "Digi-Key_PN"
+F7 "UPW0J470MDD" 210 270 50 H I C CNN "MPN"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+S -60 -12 60 -27 0 1 0 F
+S -60 27 60 12 0 1 0 N
+P 2 0 1 0 -50 60 -30 60 N
+P 2 0 1 0 -40 50 -40 70 N
+X ~ 1 0 100 73 D 50 50 1 1 P
+X ~ 2 0 -100 73 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 220uF
+#
+DEF 220uF CP 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN	
+F1 "220uF" 10 -80 50 H V L CNN
+F2 "Capacitor_THT:CP_Radial_D5.0mm_P2.00mm" -90 -30 50 H I C CNN
+F3 "https://www.nichicon.co.jp/english/products/pdfs/e-uhv.pdf"  10 70 50 H I C CNN
+F4 "6.3 V" 310 370 50 H I C CNN "Voltage"
+F5 "±20%" 410 470 50 H I C CNN "Tolerance"
+F6 "493-15274-ND" 110 170 50 H I C CNN "Digi-Key_PN"
+F7 "UHV0J221MDD" 210 270 50 H I C CNN "MPN"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+S -60 -12 60 -27 0 1 0 F
+S -60 27 60 12 0 1 0 N
+P 2 0 1 0 -50 60 -30 60 N
+P 2 0 1 0 -40 50 -40 70 N
+X ~ 1 0 100 73 D 50 50 1 1 P
+X ~ 2 0 -100 73 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 33uF
+#
+DEF 33uF CP 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN	
+F1 "33uF" 10 -80 50 H V L CNN
+F2 "Capacitor_THT:CP_Radial_D5.0mm_P2.00mm" -90 -30 50 H I C CNN
+F3 "https://www.nichicon.co.jp/english/products/pdfs/e-uka.pdf"  10 70 50 H I C CNN
+F4 "6.3 V" 310 370 50 H I C CNN "Voltage"
+F5 "±20%" 410 470 50 H I C CNN "Tolerance"
+F6 "493-16808-ND" 110 170 50 H I C CNN "Digi-Key_PN"
+F7 "UKA0J330MDD" 210 270 50 H I C CNN "MPN"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+S -60 -12 60 -27 0 1 0 F
+S -60 27 60 12 0 1 0 N
+P 2 0 1 0 -50 60 -30 60 N
+P 2 0 1 0 -40 50 -40 70 N
+X ~ 1 0 100 73 D 50 50 1 1 P
+X ~ 2 0 -100 73 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 47uF
+#
+DEF 47uF CP 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN	
+F1 "47uF" 10 -80 50 H V L CNN
+F2 "Capacitor_THT:CP_Radial_D5.0mm_P2.00mm" -90 -30 50 H I C CNN
+F3 "https://www.nichicon.co.jp/english/products/pdfs/e-ukt.pdf"  10 70 50 H I C CNN
+F4 "6.3 V" 310 370 50 H I C CNN "Voltage"
+F5 "±20%" 410 470 50 H I C CNN "Tolerance"
+F6 "493-16897-ND" 110 170 50 H I C CNN "Digi-Key_PN"
+F7 "UKT0J470MDD" 210 270 50 H I C CNN "MPN"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+S -60 -12 60 -27 0 1 0 F
+S -60 27 60 12 0 1 0 N
+P 2 0 1 0 -50 60 -30 60 N
+P 2 0 1 0 -40 50 -40 70 N
+X ~ 1 0 100 73 D 50 50 1 1 P
+X ~ 2 0 -100 73 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 47uF
+#
+DEF 47uF CP 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN	
+F1 "47uF" 10 -80 50 H V L CNN
+F2 "Capacitor_THT:CP_Radial_D5.0mm_P2.00mm" -90 -30 50 H I C CNN
+F3 "https://www.nichicon.co.jp/english/products/pdfs/e-ups.pdf"  10 70 50 H I C CNN
+F4 "6.3 V" 310 370 50 H I C CNN "Voltage"
+F5 "±20%" 410 470 50 H I C CNN "Tolerance"
+F6 "493-17141-ND" 110 170 50 H I C CNN "Digi-Key_PN"
+F7 "UPS0J470MDD" 210 270 50 H I C CNN "MPN"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+S -60 -12 60 -27 0 1 0 F
+S -60 27 60 12 0 1 0 N
+P 2 0 1 0 -50 60 -30 60 N
+P 2 0 1 0 -40 50 -40 70 N
+X ~ 1 0 100 73 D 50 50 1 1 P
+X ~ 2 0 -100 73 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 100uF
+#
+DEF 100uF CP 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN	
+F1 "100uF" 10 -80 50 H V L CNN
+F2 "Capacitor_THT:CP_Radial_D5.0mm_P2.00mm" -90 -30 50 H I C CNN
+F3 "https://www.nichicon.co.jp/english/products/pdfs/e-upw.pdf"  10 70 50 H I C CNN
+F4 "6.3 V" 310 370 50 H I C CNN "Voltage"
+F5 "±20%" 410 470 50 H I C CNN "Tolerance"
+F6 "493-1695-ND" 110 170 50 H I C CNN "Digi-Key_PN"
+F7 "UPW0J101MDD" 210 270 50 H I C CNN "MPN"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+S -60 -12 60 -27 0 1 0 F
+S -60 27 60 12 0 1 0 N
+P 2 0 1 0 -50 60 -30 60 N
+P 2 0 1 0 -40 50 -40 70 N
+X ~ 1 0 100 73 D 50 50 1 1 P
+X ~ 2 0 -100 73 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 120uF
+#
+DEF 120uF CP 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN	
+F1 "120uF" 10 -80 50 H V L CNN
+F2 "Capacitor_THT:CP_Radial_D5.0mm_P2.00mm" -90 -30 50 H I C CNN
+F3 "https://www.nichicon.co.jp/english/products/pdfs/e-upj.pdf"  10 70 50 H I C CNN
+F4 "6.3 V" 310 370 50 H I C CNN "Voltage"
+F5 "±20%" 410 470 50 H I C CNN "Tolerance"
+F6 "493-17002-ND" 110 170 50 H I C CNN "Digi-Key_PN"
+F7 "UPJ0J121MDD" 210 270 50 H I C CNN "MPN"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+S -60 -12 60 -27 0 1 0 F
+S -60 27 60 12 0 1 0 N
+P 2 0 1 0 -50 60 -30 60 N
+P 2 0 1 0 -40 50 -40 70 N
+X ~ 1 0 100 73 D 50 50 1 1 P
+X ~ 2 0 -100 73 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 150uF
+#
+DEF 150uF CP 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN	
+F1 "150uF" 10 -80 50 H V L CNN
+F2 "Capacitor_THT:CP_Radial_D5.0mm_P2.00mm" -90 -30 50 H I C CNN
+F3 "https://www.nichicon.co.jp/english/products/pdfs/e-uhd.pdf"  10 70 50 H I C CNN
+F4 "6.3 V" 310 370 50 H I C CNN "Voltage"
+F5 "±20%" 410 470 50 H I C CNN "Tolerance"
+F6 "493-15174-ND" 110 170 50 H I C CNN "Digi-Key_PN"
+F7 "UHD0J151MDD" 210 270 50 H I C CNN "MPN"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+S -60 -12 60 -27 0 1 0 F
+S -60 27 60 12 0 1 0 N
+P 2 0 1 0 -50 60 -30 60 N
+P 2 0 1 0 -40 50 -40 70 N
+X ~ 1 0 100 73 D 50 50 1 1 P
+X ~ 2 0 -100 73 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 33uF
+#
+DEF 33uF CP 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN	
+F1 "33uF" 10 -80 50 H V L CNN
+F2 "Capacitor_THT:CP_Radial_D5.0mm_P2.00mm" -90 -30 50 H I C CNN
+F3 "https://www.nichicon.co.jp/english/products/pdfs/e-uvz.pdf"  10 70 50 H I C CNN
+F4 "6.3 V" 310 370 50 H I C CNN "Voltage"
+F5 "±20%" 410 470 50 H I C CNN "Tolerance"
+F6 "493-1248-ND" 110 170 50 H I C CNN "Digi-Key_PN"
+F7 "UVZ0J330MDD" 210 270 50 H I C CNN "MPN"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+S -60 -12 60 -27 0 1 0 F
+S -60 27 60 12 0 1 0 N
+P 2 0 1 0 -50 60 -30 60 N
+P 2 0 1 0 -40 50 -40 70 N
+X ~ 1 0 100 73 D 50 50 1 1 P
+X ~ 2 0 -100 73 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 22uF
+#
+DEF 22uF CP 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN	
+F1 "22uF" 10 -80 50 H V L CNN
+F2 "Capacitor_THT:CP_Radial_D5.0mm_P2.00mm" -90 -30 50 H I C CNN
+F3 "https://www.nichicon.co.jp/english/products/pdfs/e-upw.pdf"  10 70 50 H I C CNN
+F4 "6.3 V" 310 370 50 H I C CNN "Voltage"
+F5 "±20%" 410 470 50 H I C CNN "Tolerance"
+F6 "493-1687-ND" 110 170 50 H I C CNN "Digi-Key_PN"
+F7 "UPW0J220MDD" 210 270 50 H I C CNN "MPN"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+S -60 -12 60 -27 0 1 0 F
+S -60 27 60 12 0 1 0 N
+P 2 0 1 0 -50 60 -30 60 N
+P 2 0 1 0 -40 50 -40 70 N
+X ~ 1 0 100 73 D 50 50 1 1 P
+X ~ 2 0 -100 73 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 100uF
+#
+DEF 100uF CP 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN	
+F1 "100uF" 10 -80 50 H V L CNN
+F2 "Capacitor_THT:CP_Radial_D5.0mm_P2.00mm" -90 -30 50 H I C CNN
+F3 "https://www.nichicon.co.jp/english/products/pdfs/e-uvr.pdf"  10 70 50 H I C CNN
+F4 "6.3 V" 310 370 50 H I C CNN "Voltage"
+F5 "±20%" 410 470 50 H I C CNN "Tolerance"
+F6 "493-1003-ND" 110 170 50 H I C CNN "Digi-Key_PN"
+F7 "UVR0J101MDD" 210 270 50 H I C CNN "MPN"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+S -60 -12 60 -27 0 1 0 F
+S -60 27 60 12 0 1 0 N
+P 2 0 1 0 -50 60 -30 60 N
+P 2 0 1 0 -40 50 -40 70 N
+X ~ 1 0 100 73 D 50 50 1 1 P
+X ~ 2 0 -100 73 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 100uF
+#
+DEF 100uF CP 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN	
+F1 "100uF" 10 -80 50 H V L CNN
+F2 "Capacitor_THT:CP_Radial_D5.0mm_P2.00mm" -90 -30 50 H I C CNN
+F3 "https://www.nichicon.co.jp/english/products/pdfs/e-ukt.pdf"  10 70 50 H I C CNN
+F4 "6.3 V" 310 370 50 H I C CNN "Voltage"
+F5 "±20%" 410 470 50 H I C CNN "Tolerance"
+F6 "493-15412-ND" 110 170 50 H I C CNN "Digi-Key_PN"
+F7 "UKT0J101MDD" 210 270 50 H I C CNN "MPN"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+S -60 -12 60 -27 0 1 0 F
+S -60 27 60 12 0 1 0 N
+P 2 0 1 0 -50 60 -30 60 N
+P 2 0 1 0 -40 50 -40 70 N
+X ~ 1 0 100 73 D 50 50 1 1 P
+X ~ 2 0 -100 73 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 33uF
+#
+DEF 33uF CP 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN	
+F1 "33uF" 10 -80 50 H V L CNN
+F2 "Capacitor_THT:CP_Radial_D5.0mm_P2.00mm" -90 -30 50 H I C CNN
+F3 "https://www.nichicon.co.jp/english/products/pdfs/e-uvr.pdf"  10 70 50 H I C CNN
+F4 "6.3 V" 310 370 50 H I C CNN "Voltage"
+F5 "±20%" 410 470 50 H I C CNN "Tolerance"
+F6 "493-1001-ND" 110 170 50 H I C CNN "Digi-Key_PN"
+F7 "UVR0J330MDD" 210 270 50 H I C CNN "MPN"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+S -60 -12 60 -27 0 1 0 F
+S -60 27 60 12 0 1 0 N
+P 2 0 1 0 -50 60 -30 60 N
+P 2 0 1 0 -40 50 -40 70 N
+X ~ 1 0 100 73 D 50 50 1 1 P
+X ~ 2 0 -100 73 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 22uF
+#
+DEF 22uF CP 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN	
+F1 "22uF" 10 -80 50 H V L CNN
+F2 "Capacitor_THT:CP_Radial_D5.0mm_P2.00mm" -90 -30 50 H I C CNN
+F3 "https://www.nichicon.co.jp/english/products/pdfs/e-uvr.pdf"  10 70 50 H I C CNN
+F4 "6.3 V" 310 370 50 H I C CNN "Voltage"
+F5 "±20%" 410 470 50 H I C CNN "Tolerance"
+F6 "493-1000-ND" 110 170 50 H I C CNN "Digi-Key_PN"
+F7 "UVR0J220MDD" 210 270 50 H I C CNN "MPN"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+S -60 -12 60 -27 0 1 0 F
+S -60 27 60 12 0 1 0 N
+P 2 0 1 0 -50 60 -30 60 N
+P 2 0 1 0 -40 50 -40 70 N
+X ~ 1 0 100 73 D 50 50 1 1 P
+X ~ 2 0 -100 73 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 220uF
+#
+DEF 220uF CP 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN	
+F1 "220uF" 10 -80 50 H V L CNN
+F2 "Capacitor_THT:CP_Radial_D5.0mm_P2.00mm" -90 -30 50 H I C CNN
+F3 "https://www.nichicon.co.jp/english/products/pdfs/e-uvr.pdf"  10 70 50 H I C CNN
+F4 "6.3 V" 310 370 50 H I C CNN "Voltage"
+F5 "±20%" 410 470 50 H I C CNN "Tolerance"
+F6 "493-1004-ND" 110 170 50 H I C CNN "Digi-Key_PN"
+F7 "UVR0J221MDD" 210 270 50 H I C CNN "MPN"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+S -60 -12 60 -27 0 1 0 F
+S -60 27 60 12 0 1 0 N
+P 2 0 1 0 -50 60 -30 60 N
+P 2 0 1 0 -40 50 -40 70 N
+X ~ 1 0 100 73 D 50 50 1 1 P
+X ~ 2 0 -100 73 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 100uF
+#
+DEF 100uF CP 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN	
+F1 "100uF" 10 -80 50 H V L CNN
+F2 "Capacitor_THT:CP_Radial_D5.0mm_P2.00mm" -90 -30 50 H I C CNN
+F3 "https://www.nichicon.co.jp/english/products/pdfs/e-uvz.pdf"  10 70 50 H I C CNN
+F4 "6.3 V" 310 370 50 H I C CNN "Voltage"
+F5 "±20%" 410 470 50 H I C CNN "Tolerance"
+F6 "493-1250-ND" 110 170 50 H I C CNN "Digi-Key_PN"
+F7 "UVZ0J101MDD" 210 270 50 H I C CNN "MPN"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+S -60 -12 60 -27 0 1 0 F
+S -60 27 60 12 0 1 0 N
+P 2 0 1 0 -50 60 -30 60 N
+P 2 0 1 0 -40 50 -40 70 N
+X ~ 1 0 100 73 D 50 50 1 1 P
+X ~ 2 0 -100 73 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 100uF
+#
+DEF 100uF CP 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN	
+F1 "100uF" 10 -80 50 H V L CNN
+F2 "Capacitor_THT:CP_Radial_D5.0mm_P2.00mm" -90 -30 50 H I C CNN
+F3 "https://www.nichicon.co.jp/english/products/pdfs/e-uka.pdf"  10 70 50 H I C CNN
+F4 "6.3 V" 310 370 50 H I C CNN "Voltage"
+F5 "±20%" 410 470 50 H I C CNN "Tolerance"
+F6 "493-15316-ND" 110 170 50 H I C CNN "Digi-Key_PN"
+F7 "UKA0J101MDD" 210 270 50 H I C CNN "MPN"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+S -60 -12 60 -27 0 1 0 F
+S -60 27 60 12 0 1 0 N
+P 2 0 1 0 -50 60 -30 60 N
+P 2 0 1 0 -40 50 -40 70 N
+X ~ 1 0 100 73 D 50 50 1 1 P
+X ~ 2 0 -100 73 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 47uF
+#
+DEF 47uF CP 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN	
+F1 "47uF" 10 -80 50 H V L CNN
+F2 "Capacitor_THT:CP_Radial_D5.0mm_P2.00mm" -90 -30 50 H I C CNN
+F3 "https://www.nichicon.co.jp/english/products/pdfs/e-uka.pdf"  10 70 50 H I C CNN
+F4 "6.3 V" 310 370 50 H I C CNN "Voltage"
+F5 "±20%" 410 470 50 H I C CNN "Tolerance"
+F6 "493-15318-ND" 110 170 50 H I C CNN "Digi-Key_PN"
+F7 "UKA0J470MDD" 210 270 50 H I C CNN "MPN"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+S -60 -12 60 -27 0 1 0 F
+S -60 27 60 12 0 1 0 N
+P 2 0 1 0 -50 60 -30 60 N
+P 2 0 1 0 -40 50 -40 70 N
+X ~ 1 0 100 73 D 50 50 1 1 P
+X ~ 2 0 -100 73 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 47uF
+#
+DEF 47uF CP 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN	
+F1 "47uF" 10 -80 50 H V L CNN
+F2 "Capacitor_THT:CP_Radial_D5.0mm_P2.00mm" -90 -30 50 H I C CNN
+F3 "https://www.nichicon.co.jp/english/products/pdfs/e-uvr.pdf"  10 70 50 H I C CNN
+F4 "6.3 V" 310 370 50 H I C CNN "Voltage"
+F5 "±20%" 410 470 50 H I C CNN "Tolerance"
+F6 "493-1002-ND" 110 170 50 H I C CNN "Digi-Key_PN"
+F7 "UVR0J470MDD" 210 270 50 H I C CNN "MPN"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+S -60 -12 60 -27 0 1 0 F
+S -60 27 60 12 0 1 0 N
+P 2 0 1 0 -50 60 -30 60 N
+P 2 0 1 0 -40 50 -40 70 N
+X ~ 1 0 100 73 D 50 50 1 1 P
+X ~ 2 0 -100 73 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 22uF
+#
+DEF 22uF CP 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN	
+F1 "22uF" 10 -80 50 H V L CNN
+F2 "Capacitor_THT:CP_Radial_D5.0mm_P2.00mm" -90 -30 50 H I C CNN
+F3 "https://www.nichicon.co.jp/english/products/pdfs/e-uka.pdf"  10 70 50 H I C CNN
+F4 "6.3 V" 310 370 50 H I C CNN "Voltage"
+F5 "±20%" 410 470 50 H I C CNN "Tolerance"
+F6 "493-16806-ND" 110 170 50 H I C CNN "Digi-Key_PN"
+F7 "UKA0J220MDD" 210 270 50 H I C CNN "MPN"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+S -60 -12 60 -27 0 1 0 F
+S -60 27 60 12 0 1 0 N
+P 2 0 1 0 -50 60 -30 60 N
+P 2 0 1 0 -40 50 -40 70 N
+X ~ 1 0 100 73 D 50 50 1 1 P
+X ~ 2 0 -100 73 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 33uF
+#
+DEF 33uF CP 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN	
+F1 "33uF" 10 -80 50 H V L CNN
+F2 "Capacitor_THT:CP_Radial_D5.0mm_P2.00mm" -90 -30 50 H I C CNN
+F3 "https://www.nichicon.co.jp/english/products/pdfs/e-ukt.pdf"  10 70 50 H I C CNN
+F4 "6.3 V" 310 370 50 H I C CNN "Voltage"
+F5 "±20%" 410 470 50 H I C CNN "Tolerance"
+F6 "493-15414-ND" 110 170 50 H I C CNN "Digi-Key_PN"
+F7 "UKT0J330MDD" 210 270 50 H I C CNN "MPN"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+S -60 -12 60 -27 0 1 0 F
+S -60 27 60 12 0 1 0 N
+P 2 0 1 0 -50 60 -30 60 N
+P 2 0 1 0 -40 50 -40 70 N
+X ~ 1 0 100 73 D 50 50 1 1 P
+X ~ 2 0 -100 73 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 220uF
+#
+DEF 220uF CP 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN	
+F1 "220uF" 10 -80 50 H V L CNN
+F2 "Capacitor_THT:CP_Radial_D5.0mm_P2.00mm" -90 -30 50 H I C CNN
+F3 "https://www.nichicon.co.jp/english/products/pdfs/e-uvz.pdf"  10 70 50 H I C CNN
+F4 "6.3 V" 310 370 50 H I C CNN "Voltage"
+F5 "±20%" 410 470 50 H I C CNN "Tolerance"
+F6 "493-1251-ND" 110 170 50 H I C CNN "Digi-Key_PN"
+F7 "UVZ0J221MDD" 210 270 50 H I C CNN "MPN"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+S -60 -12 60 -27 0 1 0 F
+S -60 27 60 12 0 1 0 N
+P 2 0 1 0 -50 60 -30 60 N
+P 2 0 1 0 -40 50 -40 70 N
+X ~ 1 0 100 73 D 50 50 1 1 P
+X ~ 2 0 -100 73 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 330uF
+#
+DEF 330uF CP 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN	
+F1 "330uF" 10 -80 50 H V L CNN
+F2 "Capacitor_THT:CP_Radial_D6.3mm_P2.50mm" -90 -30 50 H I C CNN
+F3 "https://www.nichicon.co.jp/english/products/pdfs/e-upw.pdf"  10 70 50 H I C CNN
+F4 "6.3 V" 310 370 50 H I C CNN "Voltage"
+F5 "±20%" 410 470 50 H I C CNN "Tolerance"
+F6 "493-1700-ND" 110 170 50 H I C CNN "Digi-Key_PN"
+F7 "UPW0J331MED" 210 270 50 H I C CNN "MPN"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+S -60 -12 60 -27 0 1 0 F
+S -60 27 60 12 0 1 0 N
+P 2 0 1 0 -50 60 -30 60 N
+P 2 0 1 0 -40 50 -40 70 N
+X ~ 1 0 100 73 D 50 50 1 1 P
+X ~ 2 0 -100 73 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 330uF
+#
+DEF 330uF CP 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN	
+F1 "330uF" 10 -80 50 H V L CNN
+F2 "Capacitor_THT:CP_Radial_D6.3mm_P2.50mm" -90 -30 50 H I C CNN
+F3 "https://www.nichicon.co.jp/english/products/pdfs/e-upj.pdf"  10 70 50 H I C CNN
+F4 "6.3 V" 310 370 50 H I C CNN "Voltage"
+F5 "±20%" 410 470 50 H I C CNN "Tolerance"
+F6 "493-17005-ND" 110 170 50 H I C CNN "Digi-Key_PN"
+F7 "UPJ0J331MED" 210 270 50 H I C CNN "MPN"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+S -60 -12 60 -27 0 1 0 F
+S -60 27 60 12 0 1 0 N
+P 2 0 1 0 -50 60 -30 60 N
+P 2 0 1 0 -40 50 -40 70 N
+X ~ 1 0 100 73 D 50 50 1 1 P
+X ~ 2 0 -100 73 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 330uF
+#
+DEF 330uF CP 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN	
+F1 "330uF" 10 -80 50 H V L CNN
+F2 "Capacitor_THT:CP_Radial_D6.3mm_P2.50mm" -90 -30 50 H I C CNN
+F3 "https://www.nichicon.co.jp/english/products/pdfs/e-uhv.pdf"  10 70 50 H I C CNN
+F4 "6.3 V" 310 370 50 H I C CNN "Voltage"
+F5 "±20%" 410 470 50 H I C CNN "Tolerance"
+F6 "493-15277-ND" 110 170 50 H I C CNN "Digi-Key_PN"
+F7 "UHV0J331MED" 210 270 50 H I C CNN "MPN"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+S -60 -12 60 -27 0 1 0 F
+S -60 27 60 12 0 1 0 N
+P 2 0 1 0 -50 60 -30 60 N
+P 2 0 1 0 -40 50 -40 70 N
+X ~ 1 0 100 73 D 50 50 1 1 P
+X ~ 2 0 -100 73 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 330uF
+#
+DEF 330uF CP 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN	
+F1 "330uF" 10 -80 50 H V L CNN
+F2 "Capacitor_THT:CP_Radial_D6.3mm_P2.50mm" -90 -30 50 H I C CNN
+F3 "https://www.nichicon.co.jp/english/products/pdfs/e-uhe.pdf"  10 70 50 H I C CNN
+F4 "6.3 V" 310 370 50 H I C CNN "Voltage"
+F5 "±20%" 410 470 50 H I C CNN "Tolerance"
+F6 "493-1464-ND" 110 170 50 H I C CNN "Digi-Key_PN"
+F7 "UHE0J331MED" 210 270 50 H I C CNN "MPN"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+S -60 -12 60 -27 0 1 0 F
+S -60 27 60 12 0 1 0 N
+P 2 0 1 0 -50 60 -30 60 N
+P 2 0 1 0 -40 50 -40 70 N
+X ~ 1 0 100 73 D 50 50 1 1 P
+X ~ 2 0 -100 73 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 330uF
+#
+DEF 330uF CP 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN	
+F1 "330uF" 10 -80 50 H V L CNN
+F2 "Capacitor_THT:CP_Radial_D6.3mm_P2.50mm" -90 -30 50 H I C CNN
+F3 "https://www.nichicon.co.jp/english/products/pdfs/e-upw.pdf"  10 70 50 H I C CNN
+F4 "6.3 V" 310 370 50 H I C CNN "Voltage"
+F5 "±20%" 410 470 50 H I C CNN "Tolerance"
+F6 "493-1701-ND" 110 170 50 H I C CNN "Digi-Key_PN"
+F7 "UPW0J331MED6" 210 270 50 H I C CNN "MPN"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+S -60 -12 60 -27 0 1 0 F
+S -60 27 60 12 0 1 0 N
+P 2 0 1 0 -50 60 -30 60 N
+P 2 0 1 0 -40 50 -40 70 N
+X ~ 1 0 100 73 D 50 50 1 1 P
+X ~ 2 0 -100 73 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 220uF
+#
+DEF 220uF CP 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN	
+F1 "220uF" 10 -80 50 H V L CNN
+F2 "Capacitor_THT:CP_Radial_D6.3mm_P2.50mm" -90 -30 50 H I C CNN
+F3 "https://www.nichicon.co.jp/english/products/pdfs/e-upw.pdf"  10 70 50 H I C CNN
+F4 "6.3 V" 310 370 50 H I C CNN "Voltage"
+F5 "±20%" 410 470 50 H I C CNN "Tolerance"
+F6 "493-1699-ND" 110 170 50 H I C CNN "Digi-Key_PN"
+F7 "UPW0J221MED" 210 270 50 H I C CNN "MPN"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+S -60 -12 60 -27 0 1 0 F
+S -60 27 60 12 0 1 0 N
+P 2 0 1 0 -50 60 -30 60 N
+P 2 0 1 0 -40 50 -40 70 N
+X ~ 1 0 100 73 D 50 50 1 1 P
+X ~ 2 0 -100 73 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 220uF
+#
+DEF 220uF CP 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN	
+F1 "220uF" 10 -80 50 H V L CNN
+F2 "Capacitor_THT:CP_Radial_D6.3mm_P2.50mm" -90 -30 50 H I C CNN
+F3 "https://www.nichicon.co.jp/english/products/pdfs/e-upj.pdf"  10 70 50 H I C CNN
+F4 "6.3 V" 310 370 50 H I C CNN "Voltage"
+F5 "±20%" 410 470 50 H I C CNN "Tolerance"
+F6 "493-17004-ND" 110 170 50 H I C CNN "Digi-Key_PN"
+F7 "UPJ0J221MED" 210 270 50 H I C CNN "MPN"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+S -60 -12 60 -27 0 1 0 F
+S -60 27 60 12 0 1 0 N
+P 2 0 1 0 -50 60 -30 60 N
+P 2 0 1 0 -40 50 -40 70 N
+X ~ 1 0 100 73 D 50 50 1 1 P
+X ~ 2 0 -100 73 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 150uF
+#
+DEF 150uF CP 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN	
+F1 "150uF" 10 -80 50 H V L CNN
+F2 "Capacitor_THT:CP_Radial_D6.3mm_P2.50mm" -90 -30 50 H I C CNN
+F3 "https://www.nichicon.co.jp/english/products/pdfs/e-upw.pdf"  10 70 50 H I C CNN
+F4 "6.3 V" 310 370 50 H I C CNN "Voltage"
+F5 "±20%" 410 470 50 H I C CNN "Tolerance"
+F6 "493-1698-ND" 110 170 50 H I C CNN "Digi-Key_PN"
+F7 "UPW0J151MED" 210 270 50 H I C CNN "MPN"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+S -60 -12 60 -27 0 1 0 F
+S -60 27 60 12 0 1 0 N
+P 2 0 1 0 -50 60 -30 60 N
+P 2 0 1 0 -40 50 -40 70 N
+X ~ 1 0 100 73 D 50 50 1 1 P
+X ~ 2 0 -100 73 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 470uF
+#
+DEF 470uF CP 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN	
+F1 "470uF" 10 -80 50 H V L CNN
+F2 "Capacitor_THT:CP_Radial_D6.3mm_P2.50mm" -90 -30 50 H I C CNN
+F3 "https://www.nichicon.co.jp/english/products/pdfs/e-ufw.pdf"  10 70 50 H I C CNN
+F4 "6.3 V" 310 370 50 H I C CNN "Voltage"
+F5 "±20%" 410 470 50 H I C CNN "Tolerance"
+F6 "493-15113-ND" 110 170 50 H I C CNN "Digi-Key_PN"
+F7 "UFW0J471MED" 210 270 50 H I C CNN "MPN"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+S -60 -12 60 -27 0 1 0 F
+S -60 27 60 12 0 1 0 N
+P 2 0 1 0 -50 60 -30 60 N
+P 2 0 1 0 -40 50 -40 70 N
+X ~ 1 0 100 73 D 50 50 1 1 P
+X ~ 2 0 -100 73 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 470uF
+#
+DEF 470uF CP 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN	
+F1 "470uF" 10 -80 50 H V L CNN
+F2 "Capacitor_THT:CP_Radial_D6.3mm_P2.50mm" -90 -30 50 H I C CNN
+F3 "https://www.nichicon.co.jp/english/products/pdfs/e-uvz.pdf"  10 70 50 H I C CNN
+F4 "6.3 V" 310 370 50 H I C CNN "Voltage"
+F5 "±20%" 410 470 50 H I C CNN "Tolerance"
+F6 "493-1253-ND" 110 170 50 H I C CNN "Digi-Key_PN"
+F7 "UVZ0J471MED" 210 270 50 H I C CNN "MPN"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+S -60 -12 60 -27 0 1 0 F
+S -60 27 60 12 0 1 0 N
+P 2 0 1 0 -50 60 -30 60 N
+P 2 0 1 0 -40 50 -40 70 N
+X ~ 1 0 100 73 D 50 50 1 1 P
+X ~ 2 0 -100 73 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 330uF
+#
+DEF 330uF CP 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN	
+F1 "330uF" 10 -80 50 H V L CNN
+F2 "Capacitor_THT:CP_Radial_D6.3mm_P2.50mm" -90 -30 50 H I C CNN
+F3 "https://www.nichicon.co.jp/english/products/pdfs/e-uka.pdf"  10 70 50 H I C CNN
+F4 "6.3 V" 310 370 50 H I C CNN "Voltage"
+F5 "±20%" 410 470 50 H I C CNN "Tolerance"
+F6 "493-16809-ND" 110 170 50 H I C CNN "Digi-Key_PN"
+F7 "UKA0J331MED" 210 270 50 H I C CNN "MPN"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+S -60 -12 60 -27 0 1 0 F
+S -60 27 60 12 0 1 0 N
+P 2 0 1 0 -50 60 -30 60 N
+P 2 0 1 0 -40 50 -40 70 N
+X ~ 1 0 100 73 D 50 50 1 1 P
+X ~ 2 0 -100 73 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 330uF
+#
+DEF 330uF CP 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN	
+F1 "330uF" 10 -80 50 H V L CNN
+F2 "Capacitor_THT:CP_Radial_D6.3mm_P2.50mm" -90 -30 50 H I C CNN
+F3 "https://www.nichicon.co.jp/english/products/pdfs/e-ufw.pdf"  10 70 50 H I C CNN
+F4 "6.3 V" 310 370 50 H I C CNN "Voltage"
+F5 "±20%" 410 470 50 H I C CNN "Tolerance"
+F6 "493-16761-ND" 110 170 50 H I C CNN "Digi-Key_PN"
+F7 "UFW0J331MED" 210 270 50 H I C CNN "MPN"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+S -60 -12 60 -27 0 1 0 F
+S -60 27 60 12 0 1 0 N
+P 2 0 1 0 -50 60 -30 60 N
+P 2 0 1 0 -40 50 -40 70 N
+X ~ 1 0 100 73 D 50 50 1 1 P
+X ~ 2 0 -100 73 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 330uF
+#
+DEF 330uF CP 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN	
+F1 "330uF" 10 -80 50 H V L CNN
+F2 "Capacitor_THT:CP_Radial_D6.3mm_P2.50mm" -90 -30 50 H I C CNN
+F3 "https://www.nichicon.co.jp/english/products/pdfs/e-ukt.pdf"  10 70 50 H I C CNN
+F4 "6.3 V" 310 370 50 H I C CNN "Voltage"
+F5 "±20%" 410 470 50 H I C CNN "Tolerance"
+F6 "493-16896-ND" 110 170 50 H I C CNN "Digi-Key_PN"
+F7 "UKT0J331MED" 210 270 50 H I C CNN "MPN"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+S -60 -12 60 -27 0 1 0 F
+S -60 27 60 12 0 1 0 N
+P 2 0 1 0 -50 60 -30 60 N
+P 2 0 1 0 -40 50 -40 70 N
+X ~ 1 0 100 73 D 50 50 1 1 P
+X ~ 2 0 -100 73 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 330uF
+#
+DEF 330uF CP 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN	
+F1 "330uF" 10 -80 50 H V L CNN
+F2 "Capacitor_THT:CP_Radial_D6.3mm_P2.50mm" -90 -30 50 H I C CNN
+F3 "https://www.nichicon.co.jp/english/products/pdfs/e-uvr.pdf"  10 70 50 H I C CNN
+F4 "6.3 V" 310 370 50 H I C CNN "Voltage"
+F5 "±20%" 410 470 50 H I C CNN "Tolerance"
+F6 "493-1005-ND" 110 170 50 H I C CNN "Digi-Key_PN"
+F7 "UVR0J331MED" 210 270 50 H I C CNN "MPN"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+S -60 -12 60 -27 0 1 0 F
+S -60 27 60 12 0 1 0 N
+P 2 0 1 0 -50 60 -30 60 N
+P 2 0 1 0 -40 50 -40 70 N
+X ~ 1 0 100 73 D 50 50 1 1 P
+X ~ 2 0 -100 73 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 470uF
+#
+DEF 470uF CP 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN	
+F1 "470uF" 10 -80 50 H V L CNN
+F2 "Capacitor_THT:CP_Radial_D6.3mm_P2.50mm" -90 -30 50 H I C CNN
+F3 "https://www.nichicon.co.jp/english/products/pdfs/e-ukw.pdf"  10 70 50 H I C CNN
+F4 "6.3 V" 310 370 50 H I C CNN "Voltage"
+F5 "±20%" 410 470 50 H I C CNN "Tolerance"
+F6 "493-15459-ND" 110 170 50 H I C CNN "Digi-Key_PN"
+F7 "UKW0J471MED" 210 270 50 H I C CNN "MPN"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+S -60 -12 60 -27 0 1 0 F
+S -60 27 60 12 0 1 0 N
+P 2 0 1 0 -50 60 -30 60 N
+P 2 0 1 0 -40 50 -40 70 N
+X ~ 1 0 100 73 D 50 50 1 1 P
+X ~ 2 0 -100 73 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 330uF
+#
+DEF 330uF CP 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN	
+F1 "330uF" 10 -80 50 H V L CNN
+F2 "Capacitor_THT:CP_Radial_D6.3mm_P2.50mm" -90 -30 50 H I C CNN
+F3 "https://www.nichicon.co.jp/english/products/pdfs/e-uvz.pdf"  10 70 50 H I C CNN
+F4 "6.3 V" 310 370 50 H I C CNN "Voltage"
+F5 "±20%" 410 470 50 H I C CNN "Tolerance"
+F6 "493-1252-ND" 110 170 50 H I C CNN "Digi-Key_PN"
+F7 "UVZ0J331MED" 210 270 50 H I C CNN "MPN"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+S -60 -12 60 -27 0 1 0 F
+S -60 27 60 12 0 1 0 N
+P 2 0 1 0 -50 60 -30 60 N
+P 2 0 1 0 -40 50 -40 70 N
+X ~ 1 0 100 73 D 50 50 1 1 P
+X ~ 2 0 -100 73 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 220uF
+#
+DEF 220uF CP 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN	
+F1 "220uF" 10 -80 50 H V L CNN
+F2 "Capacitor_THT:CP_Radial_D6.3mm_P2.50mm" -90 -30 50 H I C CNN
+F3 "https://www.nichicon.co.jp/english/products/pdfs/e-uka.pdf"  10 70 50 H I C CNN
+F4 "6.3 V" 310 370 50 H I C CNN "Voltage"
+F5 "±20%" 410 470 50 H I C CNN "Tolerance"
+F6 "493-15317-ND" 110 170 50 H I C CNN "Digi-Key_PN"
+F7 "UKA0J221MED" 210 270 50 H I C CNN "MPN"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+S -60 -12 60 -27 0 1 0 F
+S -60 27 60 12 0 1 0 N
+P 2 0 1 0 -50 60 -30 60 N
+P 2 0 1 0 -40 50 -40 70 N
+X ~ 1 0 100 73 D 50 50 1 1 P
+X ~ 2 0 -100 73 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 220uF
+#
+DEF 220uF CP 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN	
+F1 "220uF" 10 -80 50 H V L CNN
+F2 "Capacitor_THT:CP_Radial_D6.3mm_P2.50mm" -90 -30 50 H I C CNN
+F3 "https://www.nichicon.co.jp/english/products/pdfs/e-ukt.pdf"  10 70 50 H I C CNN
+F4 "6.3 V" 310 370 50 H I C CNN "Voltage"
+F5 "±20%" 410 470 50 H I C CNN "Tolerance"
+F6 "493-15413-ND" 110 170 50 H I C CNN "Digi-Key_PN"
+F7 "UKT0J221MED" 210 270 50 H I C CNN "MPN"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+S -60 -12 60 -27 0 1 0 F
+S -60 27 60 12 0 1 0 N
+P 2 0 1 0 -50 60 -30 60 N
+P 2 0 1 0 -40 50 -40 70 N
+X ~ 1 0 100 73 D 50 50 1 1 P
+X ~ 2 0 -100 73 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 330uF
+#
+DEF 330uF CP 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN	
+F1 "330uF" 10 -80 50 H V L CNN
+F2 "Capacitor_THT:CP_Radial_D6.3mm_P2.50mm" -90 -30 50 H I C CNN
+F3 "https://www.nichicon.co.jp/english/products/pdfs/e-ukw.pdf"  10 70 50 H I C CNN
+F4 "6.3 V" 310 370 50 H I C CNN "Voltage"
+F5 "±20%" 410 470 50 H I C CNN "Tolerance"
+F6 "493-15458-ND" 110 170 50 H I C CNN "Digi-Key_PN"
+F7 "UKW0J331MED" 210 270 50 H I C CNN "MPN"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+S -60 -12 60 -27 0 1 0 F
+S -60 27 60 12 0 1 0 N
+P 2 0 1 0 -50 60 -30 60 N
+P 2 0 1 0 -40 50 -40 70 N
+X ~ 1 0 100 73 D 50 50 1 1 P
+X ~ 2 0 -100 73 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 330uF
+#
+DEF 330uF CP 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN	
+F1 "330uF" 10 -80 50 H V L CNN
+F2 "Capacitor_THT:CP_Radial_D6.3mm_P2.50mm" -90 -30 50 H I C CNN
+F3 "https://www.nichicon.co.jp/english/products/pdfs/e-uhd.pdf"  10 70 50 H I C CNN
+F4 "6.3 V" 310 370 50 H I C CNN "Voltage"
+F5 "±20%" 410 470 50 H I C CNN "Tolerance"
+F6 "493-15177-ND" 110 170 50 H I C CNN "Digi-Key_PN"
+F7 "UHD0J331MED" 210 270 50 H I C CNN "MPN"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+S -60 -12 60 -27 0 1 0 F
+S -60 27 60 12 0 1 0 N
+P 2 0 1 0 -50 60 -30 60 N
+P 2 0 1 0 -40 50 -40 70 N
+X ~ 1 0 100 73 D 50 50 1 1 P
+X ~ 2 0 -100 73 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 470uF
+#
+DEF 470uF CP 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN	
+F1 "470uF" 10 -80 50 H V L CNN
+F2 "Capacitor_THT:CP_Radial_D6.3mm_P2.50mm" -90 -30 50 H I C CNN
+F3 "https://www.nichicon.co.jp/english/products/pdfs/e-uhv.pdf"  10 70 50 H I C CNN
+F4 "6.3 V" 310 370 50 H I C CNN "Voltage"
+F5 "±20%" 410 470 50 H I C CNN "Tolerance"
+F6 "493-15279-ND" 110 170 50 H I C CNN "Digi-Key_PN"
+F7 "UHV0J471MED" 210 270 50 H I C CNN "MPN"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+S -60 -12 60 -27 0 1 0 F
+S -60 27 60 12 0 1 0 N
+P 2 0 1 0 -50 60 -30 60 N
+P 2 0 1 0 -40 50 -40 70 N
+X ~ 1 0 100 73 D 50 50 1 1 P
+X ~ 2 0 -100 73 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 470uF
+#
+DEF 470uF CP 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN	
+F1 "470uF" 10 -80 50 H V L CNN
+F2 "Capacitor_THT:CP_Radial_D6.3mm_P2.50mm" -90 -30 50 H I C CNN
+F3 "https://www.nichicon.co.jp/english/products/pdfs/e-uvr.pdf"  10 70 50 H I C CNN
+F4 "6.3 V" 310 370 50 H I C CNN "Voltage"
+F5 "±20%" 410 470 50 H I C CNN "Tolerance"
+F6 "493-1006-ND" 110 170 50 H I C CNN "Digi-Key_PN"
+F7 "UVR0J471MED" 210 270 50 H I C CNN "MPN"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+S -60 -12 60 -27 0 1 0 F
+S -60 27 60 12 0 1 0 N
+P 2 0 1 0 -50 60 -30 60 N
+P 2 0 1 0 -40 50 -40 70 N
+X ~ 1 0 100 73 D 50 50 1 1 P
+X ~ 2 0 -100 73 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 1200uF
+#
+DEF 1200uF CP 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN	
+F1 "1200uF" 10 -80 50 H V L CNN
+F2 "Capacitor_THT:CP_Radial_D8.0mm_P3.50mm" -90 -30 50 H I C CNN
+F3 "https://www.nichicon.co.jp/english/products/pdfs/e-uhd.pdf"  10 70 50 H I C CNN
+F4 "6.3 V" 310 370 50 H I C CNN "Voltage"
+F5 "±20%" 410 470 50 H I C CNN "Tolerance"
+F6 "493-15173-ND" 110 170 50 H I C CNN "Digi-Key_PN"
+F7 "UHD0J122MPD" 210 270 50 H I C CNN "MPN"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+S -60 -12 60 -27 0 1 0 F
+S -60 27 60 12 0 1 0 N
+P 2 0 1 0 -50 60 -30 60 N
+P 2 0 1 0 -40 50 -40 70 N
+X ~ 1 0 100 73 D 50 50 1 1 P
+X ~ 2 0 -100 73 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 680uF
+#
+DEF 680uF CP 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN	
+F1 "680uF" 10 -80 50 H V L CNN
+F2 "Capacitor_THT:CP_Radial_D8.0mm_P3.50mm" -90 -30 50 H I C CNN
+F3 "https://www.nichicon.co.jp/english/products/pdfs/e-uhe.pdf"  10 70 50 H I C CNN
+F4 "6.3 V" 310 370 50 H I C CNN "Voltage"
+F5 "±20%" 410 470 50 H I C CNN "Tolerance"
+F6 "493-1465-ND" 110 170 50 H I C CNN "Digi-Key_PN"
+F7 "UHE0J681MPD" 210 270 50 H I C CNN "MPN"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+S -60 -12 60 -27 0 1 0 F
+S -60 27 60 12 0 1 0 N
+P 2 0 1 0 -50 60 -30 60 N
+P 2 0 1 0 -40 50 -40 70 N
+X ~ 1 0 100 73 D 50 50 1 1 P
+X ~ 2 0 -100 73 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 820uF
+#
+DEF 820uF CP 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN	
+F1 "820uF" 10 -80 50 H V L CNN
+F2 "Capacitor_THT:CP_Radial_D8.0mm_P3.50mm" -90 -30 50 H I C CNN
+F3 "https://www.nichicon.co.jp/english/products/pdfs/e-uhv.pdf"  10 70 50 H I C CNN
+F4 "6.3 V" 310 370 50 H I C CNN "Voltage"
+F5 "±20%" 410 470 50 H I C CNN "Tolerance"
+F6 "493-15280-ND" 110 170 50 H I C CNN "Digi-Key_PN"
+F7 "UHV0J821MPD" 210 270 50 H I C CNN "MPN"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+S -60 -12 60 -27 0 1 0 F
+S -60 27 60 12 0 1 0 N
+P 2 0 1 0 -50 60 -30 60 N
+P 2 0 1 0 -40 50 -40 70 N
+X ~ 1 0 100 73 D 50 50 1 1 P
+X ~ 2 0 -100 73 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 1500uF
+#
+DEF 1500uF CP 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN	
+F1 "1500uF" 10 -80 50 H V L CNN
+F2 "Capacitor_THT:CP_Radial_D8.0mm_P3.50mm" -90 -30 50 H I C CNN
+F3 "https://www.nichicon.co.jp/english/products/pdfs/e-uhv.pdf"  10 70 50 H I C CNN
+F4 "6.3 V" 310 370 50 H I C CNN "Voltage"
+F5 "±20%" 410 470 50 H I C CNN "Tolerance"
+F6 "493-15272-ND" 110 170 50 H I C CNN "Digi-Key_PN"
+F7 "UHV0J152MPD" 210 270 50 H I C CNN "MPN"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+S -60 -12 60 -27 0 1 0 F
+S -60 27 60 12 0 1 0 N
+P 2 0 1 0 -50 60 -30 60 N
+P 2 0 1 0 -40 50 -40 70 N
+X ~ 1 0 100 73 D 50 50 1 1 P
+X ~ 2 0 -100 73 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 820uF
+#
+DEF 820uF CP 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN	
+F1 "820uF" 10 -80 50 H V L CNN
+F2 "Capacitor_THT:CP_Radial_D8.0mm_P3.50mm" -90 -30 50 H I C CNN
+F3 "https://www.nichicon.co.jp/english/products/pdfs/e-upm.pdf"  10 70 50 H I C CNN
+F4 "6.3 V" 310 370 50 H I C CNN "Voltage"
+F5 "±20%" 410 470 50 H I C CNN "Tolerance"
+F6 "493-15692-ND" 110 170 50 H I C CNN "Digi-Key_PN"
+F7 "UPM0J821MPD" 210 270 50 H I C CNN "MPN"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+S -60 -12 60 -27 0 1 0 F
+S -60 27 60 12 0 1 0 N
+P 2 0 1 0 -50 60 -30 60 N
+P 2 0 1 0 -40 50 -40 70 N
+X ~ 1 0 100 73 D 50 50 1 1 P
+X ~ 2 0 -100 73 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 1000uF
+#
+DEF 1000uF CP 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN	
+F1 "1000uF" 10 -80 50 H V L CNN
+F2 "Capacitor_THT:CP_Radial_D8.0mm_P3.50mm" -90 -30 50 H I C CNN
+F3 "https://www.nichicon.co.jp/english/products/pdfs/e-uhe.pdf"  10 70 50 H I C CNN
+F4 "6.3 V" 310 370 50 H I C CNN "Voltage"
+F5 "±20%" 410 470 50 H I C CNN "Tolerance"
+F6 "493-1467-ND" 110 170 50 H I C CNN "Digi-Key_PN"
+F7 "UHE0J102MPD" 210 270 50 H I C CNN "MPN"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+S -60 -12 60 -27 0 1 0 F
+S -60 27 60 12 0 1 0 N
+P 2 0 1 0 -50 60 -30 60 N
+P 2 0 1 0 -40 50 -40 70 N
+X ~ 1 0 100 73 D 50 50 1 1 P
+X ~ 2 0 -100 73 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 820uF
+#
+DEF 820uF CP 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN	
+F1 "820uF" 10 -80 50 H V L CNN
+F2 "Capacitor_THT:CP_Radial_D8.0mm_P3.50mm" -90 -30 50 H I C CNN
+F3 "https://www.nichicon.co.jp/english/products/pdfs/e-upw.pdf"  10 70 50 H I C CNN
+F4 "6.3 V" 310 370 50 H I C CNN "Voltage"
+F5 "±20%" 410 470 50 H I C CNN "Tolerance"
+F6 "493-1705-ND" 110 170 50 H I C CNN "Digi-Key_PN"
+F7 "UPW0J821MPD" 210 270 50 H I C CNN "MPN"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+S -60 -12 60 -27 0 1 0 F
+S -60 27 60 12 0 1 0 N
+P 2 0 1 0 -50 60 -30 60 N
+P 2 0 1 0 -40 50 -40 70 N
+X ~ 1 0 100 73 D 50 50 1 1 P
+X ~ 2 0 -100 73 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 680uF
+#
+DEF 680uF CP 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN	
+F1 "680uF" 10 -80 50 H V L CNN
+F2 "Capacitor_THT:CP_Radial_D8.0mm_P3.50mm" -90 -30 50 H I C CNN
+F3 "https://www.nichicon.co.jp/english/products/pdfs/e-uhv.pdf"  10 70 50 H I C CNN
+F4 "6.3 V" 310 370 50 H I C CNN "Voltage"
+F5 "±20%" 410 470 50 H I C CNN "Tolerance"
+F6 "493-16312-ND" 110 170 50 H I C CNN "Digi-Key_PN"
+F7 "UHV0J681MPD" 210 270 50 H I C CNN "MPN"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+S -60 -12 60 -27 0 1 0 F
+S -60 27 60 12 0 1 0 N
+P 2 0 1 0 -50 60 -30 60 N
+P 2 0 1 0 -40 50 -40 70 N
+X ~ 1 0 100 73 D 50 50 1 1 P
+X ~ 2 0 -100 73 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 470uF
+#
+DEF 470uF CP 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN	
+F1 "470uF" 10 -80 50 H V L CNN
+F2 "Capacitor_THT:CP_Radial_D8.0mm_P3.50mm" -90 -30 50 H I C CNN
+F3 "https://www.nichicon.co.jp/english/products/pdfs/e-ukt.pdf"  10 70 50 H I C CNN
+F4 "6.3 V" 310 370 50 H I C CNN "Voltage"
+F5 "±20%" 410 470 50 H I C CNN "Tolerance"
+F6 "493-16898-ND" 110 170 50 H I C CNN "Digi-Key_PN"
+F7 "UKT0J471MPD" 210 270 50 H I C CNN "MPN"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+S -60 -12 60 -27 0 1 0 F
+S -60 27 60 12 0 1 0 N
+P 2 0 1 0 -50 60 -30 60 N
+P 2 0 1 0 -40 50 -40 70 N
+X ~ 1 0 100 73 D 50 50 1 1 P
+X ~ 2 0 -100 73 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 1000uF
+#
+DEF 1000uF CP 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN	
+F1 "1000uF" 10 -80 50 H V L CNN
+F2 "Capacitor_THT:CP_Radial_D8.0mm_P3.50mm" -90 -30 50 H I C CNN
+F3 "https://www.nichicon.co.jp/english/products/pdfs/e-uvy.pdf"  10 70 50 H I C CNN
+F4 "6.3 V" 310 370 50 H I C CNN "Voltage"
+F5 "±20%" 410 470 50 H I C CNN "Tolerance"
+F6 "493-16153-ND" 110 170 50 H I C CNN "Digi-Key_PN"
+F7 "UVY0J102MPD" 210 270 50 H I C CNN "MPN"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+S -60 -12 60 -27 0 1 0 F
+S -60 27 60 12 0 1 0 N
+P 2 0 1 0 -50 60 -30 60 N
+P 2 0 1 0 -40 50 -40 70 N
+X ~ 1 0 100 73 D 50 50 1 1 P
+X ~ 2 0 -100 73 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 1000uF
+#
+DEF 1000uF CP 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN	
+F1 "1000uF" 10 -80 50 H V L CNN
+F2 "Capacitor_THT:CP_Radial_D8.0mm_P3.50mm" -90 -30 50 H I C CNN
+F3 "https://www.nichicon.co.jp/english/products/pdfs/e-uvz.pdf"  10 70 50 H I C CNN
+F4 "6.3 V" 310 370 50 H I C CNN "Voltage"
+F5 "±20%" 410 470 50 H I C CNN "Tolerance"
+F6 "493-1254-ND" 110 170 50 H I C CNN "Digi-Key_PN"
+F7 "UVZ0J102MPD" 210 270 50 H I C CNN "MPN"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+S -60 -12 60 -27 0 1 0 F
+S -60 27 60 12 0 1 0 N
+P 2 0 1 0 -50 60 -30 60 N
+P 2 0 1 0 -40 50 -40 70 N
+X ~ 1 0 100 73 D 50 50 1 1 P
+X ~ 2 0 -100 73 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 1200uF
+#
+DEF 1200uF CP 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN	
+F1 "1200uF" 10 -80 50 H V L CNN
+F2 "Capacitor_THT:CP_Radial_D8.0mm_P3.50mm" -90 -30 50 H I C CNN
+F3 "https://www.nichicon.co.jp/english/products/pdfs/e-upw.pdf"  10 70 50 H I C CNN
+F4 "6.3 V" 310 370 50 H I C CNN "Voltage"
+F5 "±20%" 410 470 50 H I C CNN "Tolerance"
+F6 "493-1708-ND" 110 170 50 H I C CNN "Digi-Key_PN"
+F7 "UPW0J122MPD" 210 270 50 H I C CNN "MPN"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+S -60 -12 60 -27 0 1 0 F
+S -60 27 60 12 0 1 0 N
+P 2 0 1 0 -50 60 -30 60 N
+P 2 0 1 0 -40 50 -40 70 N
+X ~ 1 0 100 73 D 50 50 1 1 P
+X ~ 2 0 -100 73 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 470uF
+#
+DEF 470uF CP 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN	
+F1 "470uF" 10 -80 50 H V L CNN
+F2 "Capacitor_THT:CP_Radial_D8.0mm_P3.50mm" -90 -30 50 H I C CNN
+F3 "https://www.nichicon.co.jp/english/products/pdfs/e-ups.pdf"  10 70 50 H I C CNN
+F4 "6.3 V" 310 370 50 H I C CNN "Voltage"
+F5 "±20%" 410 470 50 H I C CNN "Tolerance"
+F6 "493-17142-ND" 110 170 50 H I C CNN "Digi-Key_PN"
+F7 "UPS0J471MPD" 210 270 50 H I C CNN "MPN"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+S -60 -12 60 -27 0 1 0 F
+S -60 27 60 12 0 1 0 N
+P 2 0 1 0 -50 60 -30 60 N
+P 2 0 1 0 -40 50 -40 70 N
+X ~ 1 0 100 73 D 50 50 1 1 P
+X ~ 2 0 -100 73 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 560uF
+#
+DEF 560uF CP 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN	
+F1 "560uF" 10 -80 50 H V L CNN
+F2 "Capacitor_THT:CP_Radial_D8.0mm_P3.50mm" -90 -30 50 H I C CNN
+F3 "https://www.nichicon.co.jp/english/products/pdfs/e-upw.pdf"  10 70 50 H I C CNN
+F4 "6.3 V" 310 370 50 H I C CNN "Voltage"
+F5 "±20%" 410 470 50 H I C CNN "Tolerance"
+F6 "493-1703-ND" 110 170 50 H I C CNN "Digi-Key_PN"
+F7 "UPW0J561MPD" 210 270 50 H I C CNN "MPN"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+S -60 -12 60 -27 0 1 0 F
+S -60 27 60 12 0 1 0 N
+P 2 0 1 0 -50 60 -30 60 N
+P 2 0 1 0 -40 50 -40 70 N
+X ~ 1 0 100 73 D 50 50 1 1 P
+X ~ 2 0 -100 73 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 1000uF
+#
+DEF 1000uF CP 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN	
+F1 "1000uF" 10 -80 50 H V L CNN
+F2 "Capacitor_THT:CP_Radial_D8.0mm_P3.50mm" -90 -30 50 H I C CNN
+F3 "https://www.nichicon.co.jp/english/products/pdfs/e-ukw.pdf"  10 70 50 H I C CNN
+F4 "6.3 V" 310 370 50 H I C CNN "Voltage"
+F5 "±20%" 410 470 50 H I C CNN "Tolerance"
+F6 "493-15457-ND" 110 170 50 H I C CNN "Digi-Key_PN"
+F7 "UKW0J102MPD" 210 270 50 H I C CNN "MPN"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+S -60 -12 60 -27 0 1 0 F
+S -60 27 60 12 0 1 0 N
+P 2 0 1 0 -50 60 -30 60 N
+P 2 0 1 0 -40 50 -40 70 N
+X ~ 1 0 100 73 D 50 50 1 1 P
+X ~ 2 0 -100 73 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 470uF
+#
+DEF 470uF CP 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN	
+F1 "470uF" 10 -80 50 H V L CNN
+F2 "Capacitor_THT:CP_Radial_D8.0mm_P3.50mm" -90 -30 50 H I C CNN
+F3 "https://www.nichicon.co.jp/english/products/pdfs/e-upw.pdf"  10 70 50 H I C CNN
+F4 "6.3 V" 310 370 50 H I C CNN "Voltage"
+F5 "±20%" 410 470 50 H I C CNN "Tolerance"
+F6 "493-1702-ND" 110 170 50 H I C CNN "Digi-Key_PN"
+F7 "UPW0J471MPD" 210 270 50 H I C CNN "MPN"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+S -60 -12 60 -27 0 1 0 F
+S -60 27 60 12 0 1 0 N
+P 2 0 1 0 -50 60 -30 60 N
+P 2 0 1 0 -40 50 -40 70 N
+X ~ 1 0 100 73 D 50 50 1 1 P
+X ~ 2 0 -100 73 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 470uF
+#
+DEF 470uF CP 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN	
+F1 "470uF" 10 -80 50 H V L CNN
+F2 "Capacitor_THT:CP_Radial_D8.0mm_P3.50mm" -90 -30 50 H I C CNN
+F3 "https://www.nichicon.co.jp/english/products/pdfs/e-uka.pdf"  10 70 50 H I C CNN
+F4 "6.3 V" 310 370 50 H I C CNN "Voltage"
+F5 "±20%" 410 470 50 H I C CNN "Tolerance"
+F6 "493-16811-ND" 110 170 50 H I C CNN "Digi-Key_PN"
+F7 "UKA0J471MPD" 210 270 50 H I C CNN "MPN"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+S -60 -12 60 -27 0 1 0 F
+S -60 27 60 12 0 1 0 N
+P 2 0 1 0 -50 60 -30 60 N
+P 2 0 1 0 -40 50 -40 70 N
+X ~ 1 0 100 73 D 50 50 1 1 P
+X ~ 2 0 -100 73 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 1000uF
+#
+DEF 1000uF CP 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN	
+F1 "1000uF" 10 -80 50 H V L CNN
+F2 "Capacitor_THT:CP_Radial_D8.0mm_P3.50mm" -90 -30 50 H I C CNN
+F3 "https://www.nichicon.co.jp/english/products/pdfs/e-uvr.pdf"  10 70 50 H I C CNN
+F4 "6.3 V" 310 370 50 H I C CNN "Voltage"
+F5 "±20%" 410 470 50 H I C CNN "Tolerance"
+F6 "493-1007-ND" 110 170 50 H I C CNN "Digi-Key_PN"
+F7 "UVR0J102MPD" 210 270 50 H I C CNN "MPN"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+S -60 -12 60 -27 0 1 0 F
+S -60 27 60 12 0 1 0 N
+P 2 0 1 0 -50 60 -30 60 N
+P 2 0 1 0 -40 50 -40 70 N
+X ~ 1 0 100 73 D 50 50 1 1 P
+X ~ 2 0 -100 73 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 390uF
+#
+DEF 390uF CP 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN	
+F1 "390uF" 10 -80 50 H V L CNN
+F2 "Capacitor_THT:CP_Radial_D8.0mm_P3.50mm" -90 -30 50 H I C CNN
+F3 "https://www.nichicon.co.jp/english/products/pdfs/e-upj.pdf"  10 70 50 H I C CNN
+F4 "6.3 V" 310 370 50 H I C CNN "Voltage"
+F5 "±20%" 410 470 50 H I C CNN "Tolerance"
+F6 "493-17006-ND" 110 170 50 H I C CNN "Digi-Key_PN"
+F7 "UPJ0J391MPD" 210 270 50 H I C CNN "MPN"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+S -60 -12 60 -27 0 1 0 F
+S -60 27 60 12 0 1 0 N
+P 2 0 1 0 -50 60 -30 60 N
+P 2 0 1 0 -40 50 -40 70 N
+X ~ 1 0 100 73 D 50 50 1 1 P
+X ~ 2 0 -100 73 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 1200uF
+#
+DEF 1200uF CP 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN	
+F1 "1200uF" 10 -80 50 H V L CNN
+F2 "Capacitor_THT:CP_Radial_D8.0mm_P3.50mm" -90 -30 50 H I C CNN
+F3 "https://www.nichicon.co.jp/english/products/pdfs/e-uhe.pdf"  10 70 50 H I C CNN
+F4 "6.3 V" 310 370 50 H I C CNN "Voltage"
+F5 "±20%" 410 470 50 H I C CNN "Tolerance"
+F6 "493-1468-ND" 110 170 50 H I C CNN "Digi-Key_PN"
+F7 "UHE0J122MPD" 210 270 50 H I C CNN "MPN"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+S -60 -12 60 -27 0 1 0 F
+S -60 27 60 12 0 1 0 N
+P 2 0 1 0 -50 60 -30 60 N
+P 2 0 1 0 -40 50 -40 70 N
+X ~ 1 0 100 73 D 50 50 1 1 P
+X ~ 2 0 -100 73 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 560uF
+#
+DEF 560uF CP 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN	
+F1 "560uF" 10 -80 50 H V L CNN
+F2 "Capacitor_THT:CP_Radial_D8.0mm_P3.50mm" -90 -30 50 H I C CNN
+F3 "https://www.nichicon.co.jp/english/products/pdfs/e-uhd.pdf"  10 70 50 H I C CNN
+F4 "6.3 V" 310 370 50 H I C CNN "Voltage"
+F5 "±20%" 410 470 50 H I C CNN "Tolerance"
+F6 "493-15181-ND" 110 170 50 H I C CNN "Digi-Key_PN"
+F7 "UHD0J561MPD" 210 270 50 H I C CNN "MPN"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+S -60 -12 60 -27 0 1 0 F
+S -60 27 60 12 0 1 0 N
+P 2 0 1 0 -50 60 -30 60 N
+P 2 0 1 0 -40 50 -40 70 N
+X ~ 1 0 100 73 D 50 50 1 1 P
+X ~ 2 0 -100 73 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 1000uF
+#
+DEF 1000uF CP 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN	
+F1 "1000uF" 10 -80 50 H V L CNN
+F2 "Capacitor_THT:CP_Radial_D8.0mm_P3.50mm" -90 -30 50 H I C CNN
+F3 "https://www.nichicon.co.jp/english/products/pdfs/e-ufw.pdf"  10 70 50 H I C CNN
+F4 "6.3 V" 310 370 50 H I C CNN "Voltage"
+F5 "±20%" 410 470 50 H I C CNN "Tolerance"
+F6 "493-15109-ND" 110 170 50 H I C CNN "Digi-Key_PN"
+F7 "UFW0J102MPD" 210 270 50 H I C CNN "MPN"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+S -60 -12 60 -27 0 1 0 F
+S -60 27 60 12 0 1 0 N
+P 2 0 1 0 -50 60 -30 60 N
+P 2 0 1 0 -40 50 -40 70 N
+X ~ 1 0 100 73 D 50 50 1 1 P
+X ~ 2 0 -100 73 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 1000uF
+#
+DEF 1000uF CP 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN	
+F1 "1000uF" 10 -80 50 H V L CNN
+F2 "Capacitor_THT:CP_Radial_D10.0mm_P5.00mm" -90 -30 50 H I C CNN
+F3 "https://www.nichicon.co.jp/english/products/pdfs/e-ukl.pdf"  10 70 50 H I C CNN
+F4 "6.3 V" 310 370 50 H I C CNN "Voltage"
+F5 "±10%" 410 470 50 H I C CNN "Tolerance"
+F6 "493-15340-ND" 110 170 50 H I C CNN "Digi-Key_PN"
+F7 "UKL0J102KPD" 210 270 50 H I C CNN "MPN"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+S -60 -12 60 -27 0 1 0 F
+S -60 27 60 12 0 1 0 N
+P 2 0 1 0 -50 60 -30 60 N
+P 2 0 1 0 -40 50 -40 70 N
+X ~ 1 0 100 73 D 50 50 1 1 P
+X ~ 2 0 -100 73 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 1500uF
+#
+DEF 1500uF CP 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN	
+F1 "1500uF" 10 -80 50 H V L CNN
+F2 "Capacitor_THT:CP_Radial_D12.5mm_P5.00mm" -90 -30 50 H I C CNN
+F3 "https://www.nichicon.co.jp/english/products/pdfs/e-ukl.pdf"  10 70 50 H I C CNN
+F4 "6.3 V" 310 370 50 H I C CNN "Voltage"
+F5 "±10%" 410 470 50 H I C CNN "Tolerance"
+F6 "493-16830-ND" 110 170 50 H I C CNN "Digi-Key_PN"
+F7 "UKL0J152KHD" 210 270 50 H I C CNN "MPN"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+S -60 -12 60 -27 0 1 0 F
+S -60 27 60 12 0 1 0 N
+P 2 0 1 0 -50 60 -30 60 N
+P 2 0 1 0 -40 50 -40 70 N
+X ~ 1 0 100 73 D 50 50 1 1 P
+X ~ 2 0 -100 73 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 2200uF
+#
+DEF 2200uF CP 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN	
+F1 "2200uF" 10 -80 50 H V L CNN
+F2 "Capacitor_THT:CP_Radial_D12.5mm_P5.00mm" -90 -30 50 H I C CNN
+F3 "https://www.nichicon.co.jp/english/products/pdfs/e-ukl.pdf"  10 70 50 H I C CNN
+F4 "6.3 V" 310 370 50 H I C CNN "Voltage"
+F5 "±10%" 410 470 50 H I C CNN "Tolerance"
+F6 "493-16832-ND" 110 170 50 H I C CNN "Digi-Key_PN"
+F7 "UKL0J222KHD" 210 270 50 H I C CNN "MPN"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+S -60 -12 60 -27 0 1 0 F
+S -60 27 60 12 0 1 0 N
+P 2 0 1 0 -50 60 -30 60 N
+P 2 0 1 0 -40 50 -40 70 N
+X ~ 1 0 100 73 D 50 50 1 1 P
+X ~ 2 0 -100 73 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 470uF
+#
+DEF 470uF CP 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN	
+F1 "470uF" 10 -80 50 H V L CNN
+F2 "Capacitor_THT:CP_Radial_D10.0mm_P5.00mm" -90 -30 50 H I C CNN
+F3 "https://www.nichicon.co.jp/english/products/pdfs/e-ukl.pdf"  10 70 50 H I C CNN
+F4 "6.3 V" 310 370 50 H I C CNN "Voltage"
+F5 "±10%" 410 470 50 H I C CNN "Tolerance"
+F6 "493-15341-ND" 110 170 50 H I C CNN "Digi-Key_PN"
+F7 "UKL0J471KPD" 210 270 50 H I C CNN "MPN"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+S -60 -12 60 -27 0 1 0 F
+S -60 27 60 12 0 1 0 N
+P 2 0 1 0 -50 60 -30 60 N
+P 2 0 1 0 -40 50 -40 70 N
+X ~ 1 0 100 73 D 50 50 1 1 P
+X ~ 2 0 -100 73 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 5600uF
+#
+DEF 5600uF CP 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN	
+F1 "5600uF" 10 -80 50 H V L CNN
+F2 "Capacitor_THT:CP_Radial_D12.5mm_P5.00mm" -90 -30 50 H I C CNN
+F3 "https://www.nichicon.co.jp/english/products/pdfs/e-upw.pdf"  10 70 50 H I C CNN
+F4 "6.3 V" 310 370 50 H I C CNN "Voltage"
+F5 "±20%" 410 470 50 H I C CNN "Tolerance"
+F6 "493-1718-ND" 110 170 50 H I C CNN "Digi-Key_PN"
+F7 "UPW0J562MHD" 210 270 50 H I C CNN "MPN"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+S -60 -12 60 -27 0 1 0 F
+S -60 27 60 12 0 1 0 N
+P 2 0 1 0 -50 60 -30 60 N
+P 2 0 1 0 -40 50 -40 70 N
+X ~ 1 0 100 73 D 50 50 1 1 P
+X ~ 2 0 -100 73 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 5600uF
+#
+DEF 5600uF CP 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN	
+F1 "5600uF" 10 -80 50 H V L CNN
+F2 "Capacitor_THT:CP_Radial_D12.5mm_P5.00mm" -90 -30 50 H I C CNN
+F3 "https://www.nichicon.co.jp/english/products/pdfs/e-uhw.pdf"  10 70 50 H I C CNN
+F4 "6.3 V" 310 370 50 H I C CNN "Voltage"
+F5 "±20%" 410 470 50 H I C CNN "Tolerance"
+F6 "493-6827-ND" 110 170 50 H I C CNN "Digi-Key_PN"
+F7 "UHW0J562MHD" 210 270 50 H I C CNN "MPN"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+S -60 -12 60 -27 0 1 0 F
+S -60 27 60 12 0 1 0 N
+P 2 0 1 0 -50 60 -30 60 N
+P 2 0 1 0 -40 50 -40 70 N
+X ~ 1 0 100 73 D 50 50 1 1 P
+X ~ 2 0 -100 73 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 1000uF
+#
+DEF 1000uF CP 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN	
+F1 "1000uF" 10 -80 50 H V L CNN
+F2 "Capacitor_THT:CP_Radial_D10.0mm_P5.00mm" -90 -30 50 H I C CNN
+F3 "https://www.nichicon.co.jp/english/products/pdfs/e-upm.pdf"  10 70 50 H I C CNN
+F4 "6.3 V" 310 370 50 H I C CNN "Voltage"
+F5 "±20%" 410 470 50 H I C CNN "Tolerance"
+F6 "493-14373-ND" 110 170 50 H I C CNN "Digi-Key_PN"
+F7 "UPM0J102MPD" 210 270 50 H I C CNN "MPN"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+S -60 -12 60 -27 0 1 0 F
+S -60 27 60 12 0 1 0 N
+P 2 0 1 0 -50 60 -30 60 N
+P 2 0 1 0 -40 50 -40 70 N
+X ~ 1 0 100 73 D 50 50 1 1 P
+X ~ 2 0 -100 73 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 6800uF
+#
+DEF 6800uF CP 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN	
+F1 "6800uF" 10 -80 50 H V L CNN
+F2 "Capacitor_THT:CP_Radial_D12.5mm_P5.00mm" -90 -30 50 H I C CNN
+F3 "https://www.nichicon.co.jp/english/products/pdfs/e-uhw.pdf"  10 70 50 H I C CNN
+F4 "6.3 V" 310 370 50 H I C CNN "Voltage"
+F5 "±20%" 410 470 50 H I C CNN "Tolerance"
+F6 "493-6927-ND" 110 170 50 H I C CNN "Digi-Key_PN"
+F7 "UHW0J682MHD" 210 270 50 H I C CNN "MPN"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+S -60 -12 60 -27 0 1 0 F
+S -60 27 60 12 0 1 0 N
+P 2 0 1 0 -50 60 -30 60 N
+P 2 0 1 0 -40 50 -40 70 N
+X ~ 1 0 100 73 D 50 50 1 1 P
+X ~ 2 0 -100 73 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 4700uF
+#
+DEF 4700uF CP 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN	
+F1 "4700uF" 10 -80 50 H V L CNN
+F2 "Capacitor_THT:CP_Radial_D12.5mm_P5.00mm" -90 -30 50 H I C CNN
+F3 "https://www.nichicon.co.jp/english/products/pdfs/e-uhe.pdf"  10 70 50 H I C CNN
+F4 "6.3 V" 310 370 50 H I C CNN "Voltage"
+F5 "±20%" 410 470 50 H I C CNN "Tolerance"
+F6 "493-1478-ND" 110 170 50 H I C CNN "Digi-Key_PN"
+F7 "UHE0J472MHD" 210 270 50 H I C CNN "MPN"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+S -60 -12 60 -27 0 1 0 F
+S -60 27 60 12 0 1 0 N
+P 2 0 1 0 -50 60 -30 60 N
+P 2 0 1 0 -40 50 -40 70 N
+X ~ 1 0 100 73 D 50 50 1 1 P
+X ~ 2 0 -100 73 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 2700uF
+#
+DEF 2700uF CP 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN	
+F1 "2700uF" 10 -80 50 H V L CNN
+F2 "Capacitor_THT:CP_Radial_D10.0mm_P5.00mm" -90 -30 50 H I C CNN
+F3 "https://www.nichicon.co.jp/english/products/pdfs/e-uhe.pdf"  10 70 50 H I C CNN
+F4 "6.3 V" 310 370 50 H I C CNN "Voltage"
+F5 "±20%" 410 470 50 H I C CNN "Tolerance"
+F6 "493-1473-ND" 110 170 50 H I C CNN "Digi-Key_PN"
+F7 "UHE0J272MPD6" 210 270 50 H I C CNN "MPN"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+S -60 -12 60 -27 0 1 0 F
+S -60 27 60 12 0 1 0 N
+P 2 0 1 0 -50 60 -30 60 N
+P 2 0 1 0 -40 50 -40 70 N
+X ~ 1 0 100 73 D 50 50 1 1 P
+X ~ 2 0 -100 73 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 1200uF
+#
+DEF 1200uF CP 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN	
+F1 "1200uF" 10 -80 50 H V L CNN
+F2 "Capacitor_THT:CP_Radial_D10.0mm_P5.00mm" -90 -30 50 H I C CNN
+F3 "https://www.nichicon.co.jp/english/products/pdfs/e-upw.pdf"  10 70 50 H I C CNN
+F4 "6.3 V" 310 370 50 H I C CNN "Voltage"
+F5 "±20%" 410 470 50 H I C CNN "Tolerance"
+F6 "493-1709-ND" 110 170 50 H I C CNN "Digi-Key_PN"
+F7 "UPW0J122MPD6" 210 270 50 H I C CNN "MPN"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+S -60 -12 60 -27 0 1 0 F
+S -60 27 60 12 0 1 0 N
+P 2 0 1 0 -50 60 -30 60 N
+P 2 0 1 0 -40 50 -40 70 N
+X ~ 1 0 100 73 D 50 50 1 1 P
+X ~ 2 0 -100 73 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 1200uF
+#
+DEF 1200uF CP 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN	
+F1 "1200uF" 10 -80 50 H V L CNN
+F2 "Capacitor_THT:CP_Radial_D10.0mm_P5.00mm" -90 -30 50 H I C CNN
+F3 "https://www.nichicon.co.jp/english/products/pdfs/e-uhe.pdf"  10 70 50 H I C CNN
+F4 "6.3 V" 310 370 50 H I C CNN "Voltage"
+F5 "±20%" 410 470 50 H I C CNN "Tolerance"
+F6 "493-1469-ND" 110 170 50 H I C CNN "Digi-Key_PN"
+F7 "UHE0J122MPD6" 210 270 50 H I C CNN "MPN"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+S -60 -12 60 -27 0 1 0 F
+S -60 27 60 12 0 1 0 N
+P 2 0 1 0 -50 60 -30 60 N
+P 2 0 1 0 -40 50 -40 70 N
+X ~ 1 0 100 73 D 50 50 1 1 P
+X ~ 2 0 -100 73 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 2200uF
+#
+DEF 2200uF CP 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN	
+F1 "2200uF" 10 -80 50 H V L CNN
+F2 "Capacitor_THT:CP_Radial_D10.0mm_P5.00mm" -90 -30 50 H I C CNN
+F3 "https://www.nichicon.co.jp/english/products/pdfs/e-upm.pdf"  10 70 50 H I C CNN
+F4 "6.3 V" 310 370 50 H I C CNN "Voltage"
+F5 "±20%" 410 470 50 H I C CNN "Tolerance"
+F6 "493-11112-ND" 110 170 50 H I C CNN "Digi-Key_PN"
+F7 "UPM0J222MPD" 210 270 50 H I C CNN "MPN"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+S -60 -12 60 -27 0 1 0 F
+S -60 27 60 12 0 1 0 N
+P 2 0 1 0 -50 60 -30 60 N
+P 2 0 1 0 -40 50 -40 70 N
+X ~ 1 0 100 73 D 50 50 1 1 P
+X ~ 2 0 -100 73 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 5600uF
+#
+DEF 5600uF CP 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN	
+F1 "5600uF" 10 -80 50 H V L CNN
+F2 "Capacitor_THT:CP_Radial_D12.5mm_P5.00mm" -90 -30 50 H I C CNN
+F3 "https://www.nichicon.co.jp/english/products/pdfs/e-upj.pdf"  10 70 50 H I C CNN
+F4 "6.3 V" 310 370 50 H I C CNN "Voltage"
+F5 "±20%" 410 470 50 H I C CNN "Tolerance"
+F6 "493-11069-ND" 110 170 50 H I C CNN "Digi-Key_PN"
+F7 "UPJ0J562MHD" 210 270 50 H I C CNN "MPN"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+S -60 -12 60 -27 0 1 0 F
+S -60 27 60 12 0 1 0 N
+P 2 0 1 0 -50 60 -30 60 N
+P 2 0 1 0 -40 50 -40 70 N
+X ~ 1 0 100 73 D 50 50 1 1 P
+X ~ 2 0 -100 73 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 1500uF
+#
+DEF 1500uF CP 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN	
+F1 "1500uF" 10 -80 50 H V L CNN
+F2 "Capacitor_THT:CP_Radial_D10.0mm_P5.00mm" -90 -30 50 H I C CNN
+F3 "https://www.nichicon.co.jp/english/products/pdfs/e-uhd.pdf"  10 70 50 H I C CNN
+F4 "6.3 V" 310 370 50 H I C CNN "Voltage"
+F5 "±20%" 410 470 50 H I C CNN "Tolerance"
+F6 "493-15175-ND" 110 170 50 H I C CNN "Digi-Key_PN"
+F7 "UHD0J152MPD" 210 270 50 H I C CNN "MPN"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+S -60 -12 60 -27 0 1 0 F
+S -60 27 60 12 0 1 0 N
+P 2 0 1 0 -50 60 -30 60 N
+P 2 0 1 0 -40 50 -40 70 N
+X ~ 1 0 100 73 D 50 50 1 1 P
+X ~ 2 0 -100 73 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 1000uF
+#
+DEF 1000uF CP 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN	
+F1 "1000uF" 10 -80 50 H V L CNN
+F2 "Capacitor_THT:CP_Radial_D10.0mm_P5.00mm" -90 -30 50 H I C CNN
+F3 "https://www.nichicon.co.jp/english/products/pdfs/e-uhd.pdf"  10 70 50 H I C CNN
+F4 "6.3 V" 310 370 50 H I C CNN "Voltage"
+F5 "±20%" 410 470 50 H I C CNN "Tolerance"
+F6 "493-15172-ND" 110 170 50 H I C CNN "Digi-Key_PN"
+F7 "UHD0J102MPD" 210 270 50 H I C CNN "MPN"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+S -60 -12 60 -27 0 1 0 F
+S -60 27 60 12 0 1 0 N
+P 2 0 1 0 -50 60 -30 60 N
+P 2 0 1 0 -40 50 -40 70 N
+X ~ 1 0 100 73 D 50 50 1 1 P
+X ~ 2 0 -100 73 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 1200uF
+#
+DEF 1200uF CP 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN	
+F1 "1200uF" 10 -80 50 H V L CNN
+F2 "Capacitor_THT:CP_Radial_D10.0mm_P5.00mm" -90 -30 50 H I C CNN
+F3 "https://www.nichicon.co.jp/english/products/pdfs/e-upj.pdf"  10 70 50 H I C CNN
+F4 "6.3 V" 310 370 50 H I C CNN "Voltage"
+F5 "±20%" 410 470 50 H I C CNN "Tolerance"
+F6 "493-17003-ND" 110 170 50 H I C CNN "Digi-Key_PN"
+F7 "UPJ0J122MPD" 210 270 50 H I C CNN "MPN"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+S -60 -12 60 -27 0 1 0 F
+S -60 27 60 12 0 1 0 N
+P 2 0 1 0 -50 60 -30 60 N
+P 2 0 1 0 -40 50 -40 70 N
+X ~ 1 0 100 73 D 50 50 1 1 P
+X ~ 2 0 -100 73 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 2200uF
+#
+DEF 2200uF CP 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN	
+F1 "2200uF" 10 -80 50 H V L CNN
+F2 "Capacitor_THT:CP_Radial_D12.5mm_P5.00mm" -90 -30 50 H I C CNN
+F3 "https://www.nichicon.co.jp/english/products/pdfs/e-ups.pdf"  10 70 50 H I C CNN
+F4 "6.3 V" 310 370 50 H I C CNN "Voltage"
+F5 "±20%" 410 470 50 H I C CNN "Tolerance"
+F6 "493-17140-ND" 110 170 50 H I C CNN "Digi-Key_PN"
+F7 "UPS0J222MHD" 210 270 50 H I C CNN "MPN"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+S -60 -12 60 -27 0 1 0 F
+S -60 27 60 12 0 1 0 N
+P 2 0 1 0 -50 60 -30 60 N
+P 2 0 1 0 -40 50 -40 70 N
+X ~ 1 0 100 73 D 50 50 1 1 P
+X ~ 2 0 -100 73 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 1000uF
+#
+DEF 1000uF CP 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN	
+F1 "1000uF" 10 -80 50 H V L CNN
+F2 "Capacitor_THT:CP_Radial_D10.0mm_P5.00mm" -90 -30 50 H I C CNN
+F3 "https://www.nichicon.co.jp/english/products/pdfs/e-ups.pdf"  10 70 50 H I C CNN
+F4 "6.3 V" 310 370 50 H I C CNN "Voltage"
+F5 "±20%" 410 470 50 H I C CNN "Tolerance"
+F6 "493-17137-ND" 110 170 50 H I C CNN "Digi-Key_PN"
+F7 "UPS0J102MPD" 210 270 50 H I C CNN "MPN"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+S -60 -12 60 -27 0 1 0 F
+S -60 27 60 12 0 1 0 N
+P 2 0 1 0 -50 60 -30 60 N
+P 2 0 1 0 -40 50 -40 70 N
+X ~ 1 0 100 73 D 50 50 1 1 P
+X ~ 2 0 -100 73 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 820uF
+#
+DEF 820uF CP 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN	
+F1 "820uF" 10 -80 50 H V L CNN
+F2 "Capacitor_THT:CP_Radial_D10.0mm_P5.00mm" -90 -30 50 H I C CNN
+F3 "https://www.nichicon.co.jp/english/products/pdfs/e-upj.pdf"  10 70 50 H I C CNN
+F4 "6.3 V" 310 370 50 H I C CNN "Voltage"
+F5 "±20%" 410 470 50 H I C CNN "Tolerance"
+F6 "493-15604-ND" 110 170 50 H I C CNN "Digi-Key_PN"
+F7 "UPJ0J821MPD6" 210 270 50 H I C CNN "MPN"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+S -60 -12 60 -27 0 1 0 F
+S -60 27 60 12 0 1 0 N
+P 2 0 1 0 -50 60 -30 60 N
+P 2 0 1 0 -40 50 -40 70 N
+X ~ 1 0 100 73 D 50 50 1 1 P
+X ~ 2 0 -100 73 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 2700uF
+#
+DEF 2700uF CP 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN	
+F1 "2700uF" 10 -80 50 H V L CNN
+F2 "Capacitor_THT:CP_Radial_D10.0mm_P5.00mm" -90 -30 50 H I C CNN
+F3 "https://www.nichicon.co.jp/english/products/pdfs/e-uhw.pdf"  10 70 50 H I C CNN
+F4 "6.3 V" 310 370 50 H I C CNN "Voltage"
+F5 "±20%" 410 470 50 H I C CNN "Tolerance"
+F6 "493-6973-ND" 110 170 50 H I C CNN "Digi-Key_PN"
+F7 "UHW0J272MPD" 210 270 50 H I C CNN "MPN"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+S -60 -12 60 -27 0 1 0 F
+S -60 27 60 12 0 1 0 N
+P 2 0 1 0 -50 60 -30 60 N
+P 2 0 1 0 -40 50 -40 70 N
+X ~ 1 0 100 73 D 50 50 1 1 P
+X ~ 2 0 -100 73 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 820uF
+#
+DEF 820uF CP 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN	
+F1 "820uF" 10 -80 50 H V L CNN
+F2 "Capacitor_THT:CP_Radial_D10.0mm_P5.00mm" -90 -30 50 H I C CNN
+F3 "https://www.nichicon.co.jp/english/products/pdfs/e-upm.pdf"  10 70 50 H I C CNN
+F4 "6.3 V" 310 370 50 H I C CNN "Voltage"
+F5 "±20%" 410 470 50 H I C CNN "Tolerance"
+F6 "493-17085-ND" 110 170 50 H I C CNN "Digi-Key_PN"
+F7 "UPM0J821MPD6" 210 270 50 H I C CNN "MPN"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+S -60 -12 60 -27 0 1 0 F
+S -60 27 60 12 0 1 0 N
+P 2 0 1 0 -50 60 -30 60 N
+P 2 0 1 0 -40 50 -40 70 N
+X ~ 1 0 100 73 D 50 50 1 1 P
+X ~ 2 0 -100 73 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 1500uF
+#
+DEF 1500uF CP 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN	
+F1 "1500uF" 10 -80 50 H V L CNN
+F2 "Capacitor_THT:CP_Radial_D10.0mm_P5.00mm" -90 -30 50 H I C CNN
+F3 "https://www.nichicon.co.jp/english/products/pdfs/e-ups.pdf"  10 70 50 H I C CNN
+F4 "6.3 V" 310 370 50 H I C CNN "Voltage"
+F5 "±20%" 410 470 50 H I C CNN "Tolerance"
+F6 "493-17139-ND" 110 170 50 H I C CNN "Digi-Key_PN"
+F7 "UPS0J152MPD" 210 270 50 H I C CNN "MPN"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+S -60 -12 60 -27 0 1 0 F
+S -60 27 60 12 0 1 0 N
+P 2 0 1 0 -50 60 -30 60 N
+P 2 0 1 0 -40 50 -40 70 N
+X ~ 1 0 100 73 D 50 50 1 1 P
+X ~ 2 0 -100 73 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 1500uF
+#
+DEF 1500uF CP 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN	
+F1 "1500uF" 10 -80 50 H V L CNN
+F2 "Capacitor_THT:CP_Radial_D10.0mm_P5.00mm" -90 -30 50 H I C CNN
+F3 "https://www.nichicon.co.jp/english/products/pdfs/e-upj.pdf"  10 70 50 H I C CNN
+F4 "6.3 V" 310 370 50 H I C CNN "Voltage"
+F5 "±20%" 410 470 50 H I C CNN "Tolerance"
+F6 "493-14368-ND" 110 170 50 H I C CNN "Digi-Key_PN"
+F7 "UPJ0J152MPD" 210 270 50 H I C CNN "MPN"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+S -60 -12 60 -27 0 1 0 F
+S -60 27 60 12 0 1 0 N
+P 2 0 1 0 -50 60 -30 60 N
+P 2 0 1 0 -40 50 -40 70 N
+X ~ 1 0 100 73 D 50 50 1 1 P
+X ~ 2 0 -100 73 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 3300uF
+#
+DEF 3300uF CP 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN	
+F1 "3300uF" 10 -80 50 H V L CNN
+F2 "Capacitor_THT:CP_Radial_D12.5mm_P5.00mm" -90 -30 50 H I C CNN
+F3 "https://www.nichicon.co.jp/english/products/pdfs/e-uhd.pdf"  10 70 50 H I C CNN
+F4 "6.3 V" 310 370 50 H I C CNN "Voltage"
+F5 "±20%" 410 470 50 H I C CNN "Tolerance"
+F6 "493-15178-ND" 110 170 50 H I C CNN "Digi-Key_PN"
+F7 "UHD0J332MHD" 210 270 50 H I C CNN "MPN"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+S -60 -12 60 -27 0 1 0 F
+S -60 27 60 12 0 1 0 N
+P 2 0 1 0 -50 60 -30 60 N
+P 2 0 1 0 -40 50 -40 70 N
+X ~ 1 0 100 73 D 50 50 1 1 P
+X ~ 2 0 -100 73 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 4700uF
+#
+DEF 4700uF CP 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN	
+F1 "4700uF" 10 -80 50 H V L CNN
+F2 "Capacitor_THT:CP_Radial_D12.5mm_P5.00mm" -90 -30 50 H I C CNN
+F3 "https://www.nichicon.co.jp/english/products/pdfs/e-uhd.pdf"  10 70 50 H I C CNN
+F4 "6.3 V" 310 370 50 H I C CNN "Voltage"
+F5 "±20%" 410 470 50 H I C CNN "Tolerance"
+F6 "493-15180-ND" 110 170 50 H I C CNN "Digi-Key_PN"
+F7 "UHD0J472MHD" 210 270 50 H I C CNN "MPN"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+S -60 -12 60 -27 0 1 0 F
+S -60 27 60 12 0 1 0 N
+P 2 0 1 0 -50 60 -30 60 N
+P 2 0 1 0 -40 50 -40 70 N
+X ~ 1 0 100 73 D 50 50 1 1 P
+X ~ 2 0 -100 73 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 2200uF
+#
+DEF 2200uF CP 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN	
+F1 "2200uF" 10 -80 50 H V L CNN
+F2 "Capacitor_THT:CP_Radial_D10.0mm_P5.00mm" -90 -30 50 H I C CNN
+F3 "https://www.nichicon.co.jp/english/products/pdfs/e-uhe.pdf"  10 70 50 H I C CNN
+F4 "6.3 V" 310 370 50 H I C CNN "Voltage"
+F5 "±20%" 410 470 50 H I C CNN "Tolerance"
+F6 "493-1472-ND" 110 170 50 H I C CNN "Digi-Key_PN"
+F7 "UHE0J222MPD" 210 270 50 H I C CNN "MPN"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+S -60 -12 60 -27 0 1 0 F
+S -60 27 60 12 0 1 0 N
+P 2 0 1 0 -50 60 -30 60 N
+P 2 0 1 0 -40 50 -40 70 N
+X ~ 1 0 100 73 D 50 50 1 1 P
+X ~ 2 0 -100 73 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 1800uF
+#
+DEF 1800uF CP 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN	
+F1 "1800uF" 10 -80 50 H V L CNN
+F2 "Capacitor_THT:CP_Radial_D10.0mm_P5.00mm" -90 -30 50 H I C CNN
+F3 "https://www.nichicon.co.jp/english/products/pdfs/e-uhw.pdf"  10 70 50 H I C CNN
+F4 "6.3 V" 310 370 50 H I C CNN "Voltage"
+F5 "±20%" 410 470 50 H I C CNN "Tolerance"
+F6 "493-6974-ND" 110 170 50 H I C CNN "Digi-Key_PN"
+F7 "UHW0J182MPD" 210 270 50 H I C CNN "MPN"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+S -60 -12 60 -27 0 1 0 F
+S -60 27 60 12 0 1 0 N
+P 2 0 1 0 -50 60 -30 60 N
+P 2 0 1 0 -40 50 -40 70 N
+X ~ 1 0 100 73 D 50 50 1 1 P
+X ~ 2 0 -100 73 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 4700uF
+#
+DEF 4700uF CP 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN	
+F1 "4700uF" 10 -80 50 H V L CNN
+F2 "Capacitor_THT:CP_Radial_D12.5mm_P5.00mm" -90 -30 50 H I C CNN
+F3 "https://www.nichicon.co.jp/english/products/pdfs/e-uhw.pdf"  10 70 50 H I C CNN
+F4 "6.3 V" 310 370 50 H I C CNN "Voltage"
+F5 "±20%" 410 470 50 H I C CNN "Tolerance"
+F6 "493-6932-ND" 110 170 50 H I C CNN "Digi-Key_PN"
+F7 "UHW0J472MHD" 210 270 50 H I C CNN "MPN"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+S -60 -12 60 -27 0 1 0 F
+S -60 27 60 12 0 1 0 N
+P 2 0 1 0 -50 60 -30 60 N
+P 2 0 1 0 -40 50 -40 70 N
+X ~ 1 0 100 73 D 50 50 1 1 P
+X ~ 2 0 -100 73 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 1800uF
+#
+DEF 1800uF CP 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN	
+F1 "1800uF" 10 -80 50 H V L CNN
+F2 "Capacitor_THT:CP_Radial_D12.5mm_P5.00mm" -90 -30 50 H I C CNN
+F3 "https://www.nichicon.co.jp/english/products/pdfs/e-uhe.pdf"  10 70 50 H I C CNN
+F4 "6.3 V" 310 370 50 H I C CNN "Voltage"
+F5 "±20%" 410 470 50 H I C CNN "Tolerance"
+F6 "493-1471-ND" 110 170 50 H I C CNN "Digi-Key_PN"
+F7 "UHE0J182MHD" 210 270 50 H I C CNN "MPN"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+S -60 -12 60 -27 0 1 0 F
+S -60 27 60 12 0 1 0 N
+P 2 0 1 0 -50 60 -30 60 N
+P 2 0 1 0 -40 50 -40 70 N
+X ~ 1 0 100 73 D 50 50 1 1 P
+X ~ 2 0 -100 73 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 3900uF
+#
+DEF 3900uF CP 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN	
+F1 "3900uF" 10 -80 50 H V L CNN
+F2 "Capacitor_THT:CP_Radial_D12.5mm_P5.00mm" -90 -30 50 H I C CNN
+F3 "https://www.nichicon.co.jp/english/products/pdfs/e-uhd.pdf"  10 70 50 H I C CNN
+F4 "6.3 V" 310 370 50 H I C CNN "Voltage"
+F5 "±20%" 410 470 50 H I C CNN "Tolerance"
+F6 "493-15179-ND" 110 170 50 H I C CNN "Digi-Key_PN"
+F7 "UHD0J392MHD" 210 270 50 H I C CNN "MPN"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+S -60 -12 60 -27 0 1 0 F
+S -60 27 60 12 0 1 0 N
+P 2 0 1 0 -50 60 -30 60 N
+P 2 0 1 0 -40 50 -40 70 N
+X ~ 1 0 100 73 D 50 50 1 1 P
+X ~ 2 0 -100 73 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 1800uF
+#
+DEF 1800uF CP 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN	
+F1 "1800uF" 10 -80 50 H V L CNN
+F2 "Capacitor_THT:CP_Radial_D10.0mm_P5.00mm" -90 -30 50 H I C CNN
+F3 "https://www.nichicon.co.jp/english/products/pdfs/e-upj.pdf"  10 70 50 H I C CNN
+F4 "6.3 V" 310 370 50 H I C CNN "Voltage"
+F5 "±20%" 410 470 50 H I C CNN "Tolerance"
+F6 "493-11067-ND" 110 170 50 H I C CNN "Digi-Key_PN"
+F7 "UPJ0J182MPD" 210 270 50 H I C CNN "MPN"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+S -60 -12 60 -27 0 1 0 F
+S -60 27 60 12 0 1 0 N
+P 2 0 1 0 -50 60 -30 60 N
+P 2 0 1 0 -40 50 -40 70 N
+X ~ 1 0 100 73 D 50 50 1 1 P
+X ~ 2 0 -100 73 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 2200uF
+#
+DEF 2200uF CP 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN	
+F1 "2200uF" 10 -80 50 H V L CNN
+F2 "Capacitor_THT:CP_Radial_D10.0mm_P5.00mm" -90 -30 50 H I C CNN
+F3 "https://www.nichicon.co.jp/english/products/pdfs/e-ukt.pdf"  10 70 50 H I C CNN
+F4 "6.3 V" 310 370 50 H I C CNN "Voltage"
+F5 "±20%" 410 470 50 H I C CNN "Tolerance"
+F6 "493-16895-ND" 110 170 50 H I C CNN "Digi-Key_PN"
+F7 "UKT0J222MPD" 210 270 50 H I C CNN "MPN"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+S -60 -12 60 -27 0 1 0 F
+S -60 27 60 12 0 1 0 N
+P 2 0 1 0 -50 60 -30 60 N
+P 2 0 1 0 -40 50 -40 70 N
+X ~ 1 0 100 73 D 50 50 1 1 P
+X ~ 2 0 -100 73 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 1200uF
+#
+DEF 1200uF CP 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN	
+F1 "1200uF" 10 -80 50 H V L CNN
+F2 "Capacitor_THT:CP_Radial_D10.0mm_P5.00mm" -90 -30 50 H I C CNN
+F3 "https://www.nichicon.co.jp/english/products/pdfs/e-uhd.pdf"  10 70 50 H I C CNN
+F4 "6.3 V" 310 370 50 H I C CNN "Voltage"
+F5 "±20%" 410 470 50 H I C CNN "Tolerance"
+F6 "493-16771-ND" 110 170 50 H I C CNN "Digi-Key_PN"
+F7 "UHD0J122MPD6" 210 270 50 H I C CNN "MPN"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+S -60 -12 60 -27 0 1 0 F
+S -60 27 60 12 0 1 0 N
+P 2 0 1 0 -50 60 -30 60 N
+P 2 0 1 0 -40 50 -40 70 N
+X ~ 1 0 100 73 D 50 50 1 1 P
+X ~ 2 0 -100 73 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 820uF
+#
+DEF 820uF CP 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN	
+F1 "820uF" 10 -80 50 H V L CNN
+F2 "Capacitor_THT:CP_Radial_D10.0mm_P5.00mm" -90 -30 50 H I C CNN
+F3 "https://www.nichicon.co.jp/english/products/pdfs/e-uhe.pdf"  10 70 50 H I C CNN
+F4 "6.3 V" 310 370 50 H I C CNN "Voltage"
+F5 "±20%" 410 470 50 H I C CNN "Tolerance"
+F6 "493-1466-ND" 110 170 50 H I C CNN "Digi-Key_PN"
+F7 "UHE0J821MPD" 210 270 50 H I C CNN "MPN"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+S -60 -12 60 -27 0 1 0 F
+S -60 27 60 12 0 1 0 N
+P 2 0 1 0 -50 60 -30 60 N
+P 2 0 1 0 -40 50 -40 70 N
+X ~ 1 0 100 73 D 50 50 1 1 P
+X ~ 2 0 -100 73 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 820uF
+#
+DEF 820uF CP 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN	
+F1 "820uF" 10 -80 50 H V L CNN
+F2 "Capacitor_THT:CP_Radial_D10.0mm_P5.00mm" -90 -30 50 H I C CNN
+F3 "https://www.nichicon.co.jp/english/products/pdfs/e-upw.pdf"  10 70 50 H I C CNN
+F4 "6.3 V" 310 370 50 H I C CNN "Voltage"
+F5 "±20%" 410 470 50 H I C CNN "Tolerance"
+F6 "493-1706-ND" 110 170 50 H I C CNN "Digi-Key_PN"
+F7 "UPW0J821MPD6" 210 270 50 H I C CNN "MPN"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+S -60 -12 60 -27 0 1 0 F
+S -60 27 60 12 0 1 0 N
+P 2 0 1 0 -50 60 -30 60 N
+P 2 0 1 0 -40 50 -40 70 N
+X ~ 1 0 100 73 D 50 50 1 1 P
+X ~ 2 0 -100 73 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 3900uF
+#
+DEF 3900uF CP 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN	
+F1 "3900uF" 10 -80 50 H V L CNN
+F2 "Capacitor_THT:CP_Radial_D12.5mm_P5.00mm" -90 -30 50 H I C CNN
+F3 "https://www.nichicon.co.jp/english/products/pdfs/e-uhw.pdf"  10 70 50 H I C CNN
+F4 "6.3 V" 310 370 50 H I C CNN "Voltage"
+F5 "±20%" 410 470 50 H I C CNN "Tolerance"
+F6 "493-6828-ND" 110 170 50 H I C CNN "Digi-Key_PN"
+F7 "UHW0J392MHD" 210 270 50 H I C CNN "MPN"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+S -60 -12 60 -27 0 1 0 F
+S -60 27 60 12 0 1 0 N
+P 2 0 1 0 -50 60 -30 60 N
+P 2 0 1 0 -40 50 -40 70 N
+X ~ 1 0 100 73 D 50 50 1 1 P
+X ~ 2 0 -100 73 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 3300uF
+#
+DEF 3300uF CP 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN	
+F1 "3300uF" 10 -80 50 H V L CNN
+F2 "Capacitor_THT:CP_Radial_D10.0mm_P5.00mm" -90 -30 50 H I C CNN
+F3 "https://www.nichicon.co.jp/english/products/pdfs/e-uhw.pdf"  10 70 50 H I C CNN
+F4 "6.3 V" 310 370 50 H I C CNN "Voltage"
+F5 "±20%" 410 470 50 H I C CNN "Tolerance"
+F6 "493-6884-ND" 110 170 50 H I C CNN "Digi-Key_PN"
+F7 "UHW0J332MPD" 210 270 50 H I C CNN "MPN"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+S -60 -12 60 -27 0 1 0 F
+S -60 27 60 12 0 1 0 N
+P 2 0 1 0 -50 60 -30 60 N
+P 2 0 1 0 -40 50 -40 70 N
+X ~ 1 0 100 73 D 50 50 1 1 P
+X ~ 2 0 -100 73 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 3900uF
+#
+DEF 3900uF CP 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN	
+F1 "3900uF" 10 -80 50 H V L CNN
+F2 "Capacitor_THT:CP_Radial_D12.5mm_P5.00mm" -90 -30 50 H I C CNN
+F3 "https://www.nichicon.co.jp/english/products/pdfs/e-upm.pdf"  10 70 50 H I C CNN
+F4 "6.3 V" 310 370 50 H I C CNN "Voltage"
+F5 "±20%" 410 470 50 H I C CNN "Tolerance"
+F6 "493-5582-ND" 110 170 50 H I C CNN "Digi-Key_PN"
+F7 "UPM0J392MHD" 210 270 50 H I C CNN "MPN"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+S -60 -12 60 -27 0 1 0 F
+S -60 27 60 12 0 1 0 N
+P 2 0 1 0 -50 60 -30 60 N
+P 2 0 1 0 -40 50 -40 70 N
+X ~ 1 0 100 73 D 50 50 1 1 P
+X ~ 2 0 -100 73 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 2700uF
+#
+DEF 2700uF CP 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN	
+F1 "2700uF" 10 -80 50 H V L CNN
+F2 "Capacitor_THT:CP_Radial_D12.5mm_P5.00mm" -90 -30 50 H I C CNN
+F3 "https://www.nichicon.co.jp/english/products/pdfs/e-upm.pdf"  10 70 50 H I C CNN
+F4 "6.3 V" 310 370 50 H I C CNN "Voltage"
+F5 "±20%" 410 470 50 H I C CNN "Tolerance"
+F6 "493-17083-ND" 110 170 50 H I C CNN "Digi-Key_PN"
+F7 "UPM0J272MHD" 210 270 50 H I C CNN "MPN"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+S -60 -12 60 -27 0 1 0 F
+S -60 27 60 12 0 1 0 N
+P 2 0 1 0 -50 60 -30 60 N
+P 2 0 1 0 -40 50 -40 70 N
+X ~ 1 0 100 73 D 50 50 1 1 P
+X ~ 2 0 -100 73 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 2200uF
+#
+DEF 2200uF CP 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN	
+F1 "2200uF" 10 -80 50 H V L CNN
+F2 "Capacitor_THT:CP_Radial_D10.0mm_P5.00mm" -90 -30 50 H I C CNN
+F3 "https://www.nichicon.co.jp/english/products/pdfs/e-upj.pdf"  10 70 50 H I C CNN
+F4 "6.3 V" 310 370 50 H I C CNN "Voltage"
+F5 "±20%" 410 470 50 H I C CNN "Tolerance"
+F6 "493-11068-ND" 110 170 50 H I C CNN "Digi-Key_PN"
+F7 "UPJ0J222MPD" 210 270 50 H I C CNN "MPN"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+S -60 -12 60 -27 0 1 0 F
+S -60 27 60 12 0 1 0 N
+P 2 0 1 0 -50 60 -30 60 N
+P 2 0 1 0 -40 50 -40 70 N
+X ~ 1 0 100 73 D 50 50 1 1 P
+X ~ 2 0 -100 73 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 1500uF
+#
+DEF 1500uF CP 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN	
+F1 "1500uF" 10 -80 50 H V L CNN
+F2 "Capacitor_THT:CP_Radial_D10.0mm_P5.00mm" -90 -30 50 H I C CNN
+F3 "https://www.nichicon.co.jp/english/products/pdfs/e-uhe.pdf"  10 70 50 H I C CNN
+F4 "6.3 V" 310 370 50 H I C CNN "Voltage"
+F5 "±20%" 410 470 50 H I C CNN "Tolerance"
+F6 "493-1470-ND" 110 170 50 H I C CNN "Digi-Key_PN"
+F7 "UHE0J152MPD" 210 270 50 H I C CNN "MPN"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+S -60 -12 60 -27 0 1 0 F
+S -60 27 60 12 0 1 0 N
+P 2 0 1 0 -50 60 -30 60 N
+P 2 0 1 0 -40 50 -40 70 N
+X ~ 1 0 100 73 D 50 50 1 1 P
+X ~ 2 0 -100 73 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 680uF
+#
+DEF 680uF CP 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN	
+F1 "680uF" 10 -80 50 H V L CNN
+F2 "Capacitor_THT:CP_Radial_D10.0mm_P5.00mm" -90 -30 50 H I C CNN
+F3 "https://www.nichicon.co.jp/english/products/pdfs/e-upw.pdf"  10 70 50 H I C CNN
+F4 "6.3 V" 310 370 50 H I C CNN "Voltage"
+F5 "±20%" 410 470 50 H I C CNN "Tolerance"
+F6 "493-1704-ND" 110 170 50 H I C CNN "Digi-Key_PN"
+F7 "UPW0J681MPD" 210 270 50 H I C CNN "MPN"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+S -60 -12 60 -27 0 1 0 F
+S -60 27 60 12 0 1 0 N
+P 2 0 1 0 -50 60 -30 60 N
+P 2 0 1 0 -40 50 -40 70 N
+X ~ 1 0 100 73 D 50 50 1 1 P
+X ~ 2 0 -100 73 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 2200uF
+#
+DEF 2200uF CP 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN	
+F1 "2200uF" 10 -80 50 H V L CNN
+F2 "Capacitor_THT:CP_Radial_D10.0mm_P5.00mm" -90 -30 50 H I C CNN
+F3 "https://www.nichicon.co.jp/english/products/pdfs/e-ufw.pdf"  10 70 50 H I C CNN
+F4 "6.3 V" 310 370 50 H I C CNN "Voltage"
+F5 "±20%" 410 470 50 H I C CNN "Tolerance"
+F6 "493-15111-ND" 110 170 50 H I C CNN "Digi-Key_PN"
+F7 "UFW0J222MPD" 210 270 50 H I C CNN "MPN"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+S -60 -12 60 -27 0 1 0 F
+S -60 27 60 12 0 1 0 N
+P 2 0 1 0 -50 60 -30 60 N
+P 2 0 1 0 -40 50 -40 70 N
+X ~ 1 0 100 73 D 50 50 1 1 P
+X ~ 2 0 -100 73 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 4700uF
+#
+DEF 4700uF CP 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN	
+F1 "4700uF" 10 -80 50 H V L CNN
+F2 "Capacitor_THT:CP_Radial_D12.5mm_P5.00mm" -90 -30 50 H I C CNN
+F3 "https://www.nichicon.co.jp/english/products/pdfs/e-ukw.pdf"  10 70 50 H I C CNN
+F4 "6.3 V" 310 370 50 H I C CNN "Voltage"
+F5 "±20%" 410 470 50 H I C CNN "Tolerance"
+F6 "493-16904-ND" 110 170 50 H I C CNN "Digi-Key_PN"
+F7 "UKW0J472MHD" 210 270 50 H I C CNN "MPN"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+S -60 -12 60 -27 0 1 0 F
+S -60 27 60 12 0 1 0 N
+P 2 0 1 0 -50 60 -30 60 N
+P 2 0 1 0 -40 50 -40 70 N
+X ~ 1 0 100 73 D 50 50 1 1 P
+X ~ 2 0 -100 73 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 2200uF
+#
+DEF 2200uF CP 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN	
+F1 "2200uF" 10 -80 50 H V L CNN
+F2 "Capacitor_THT:CP_Radial_D12.5mm_P5.00mm" -90 -30 50 H I C CNN
+F3 "https://www.nichicon.co.jp/english/products/pdfs/e-urz.pdf"  10 70 50 H I C CNN
+F4 "6.3 V" 310 370 50 H I C CNN "Voltage"
+F5 "±20%" 410 470 50 H I C CNN "Tolerance"
+F6 "493-17219-ND" 110 170 50 H I C CNN "Digi-Key_PN"
+F7 "URZ0J222MHD" 210 270 50 H I C CNN "MPN"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+S -60 -12 60 -27 0 1 0 F
+S -60 27 60 12 0 1 0 N
+P 2 0 1 0 -50 60 -30 60 N
+P 2 0 1 0 -40 50 -40 70 N
+X ~ 1 0 100 73 D 50 50 1 1 P
+X ~ 2 0 -100 73 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 1800uF
+#
+DEF 1800uF CP 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN	
+F1 "1800uF" 10 -80 50 H V L CNN
+F2 "Capacitor_THT:CP_Radial_D10.0mm_P5.00mm" -90 -30 50 H I C CNN
+F3 "https://www.nichicon.co.jp/english/products/pdfs/e-upm.pdf"  10 70 50 H I C CNN
+F4 "6.3 V" 310 370 50 H I C CNN "Voltage"
+F5 "±20%" 410 470 50 H I C CNN "Tolerance"
+F6 "493-11111-ND" 110 170 50 H I C CNN "Digi-Key_PN"
+F7 "UPM0J182MPD" 210 270 50 H I C CNN "MPN"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+S -60 -12 60 -27 0 1 0 F
+S -60 27 60 12 0 1 0 N
+P 2 0 1 0 -50 60 -30 60 N
+P 2 0 1 0 -40 50 -40 70 N
+X ~ 1 0 100 73 D 50 50 1 1 P
+X ~ 2 0 -100 73 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 5600uF
+#
+DEF 5600uF CP 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN	
+F1 "5600uF" 10 -80 50 H V L CNN
+F2 "Capacitor_THT:CP_Radial_D12.5mm_P5.00mm" -90 -30 50 H I C CNN
+F3 "https://www.nichicon.co.jp/english/products/pdfs/e-uhw.pdf"  10 70 50 H I C CNN
+F4 "6.3 V" 310 370 50 H I C CNN "Voltage"
+F5 "±20%" 410 470 50 H I C CNN "Tolerance"
+F6 "493-6825-ND" 110 170 50 H I C CNN "Digi-Key_PN"
+F7 "UHW0J562MHD6" 210 270 50 H I C CNN "MPN"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+S -60 -12 60 -27 0 1 0 F
+S -60 27 60 12 0 1 0 N
+P 2 0 1 0 -50 60 -30 60 N
+P 2 0 1 0 -40 50 -40 70 N
+X ~ 1 0 100 73 D 50 50 1 1 P
+X ~ 2 0 -100 73 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 2200uF
+#
+DEF 2200uF CP 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN	
+F1 "2200uF" 10 -80 50 H V L CNN
+F2 "Capacitor_THT:CP_Radial_D10.0mm_P5.00mm" -90 -30 50 H I C CNN
+F3 "https://www.nichicon.co.jp/english/products/pdfs/e-uhd.pdf"  10 70 50 H I C CNN
+F4 "6.3 V" 310 370 50 H I C CNN "Voltage"
+F5 "±20%" 410 470 50 H I C CNN "Tolerance"
+F6 "493-15176-ND" 110 170 50 H I C CNN "Digi-Key_PN"
+F7 "UHD0J222MPD" 210 270 50 H I C CNN "MPN"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+S -60 -12 60 -27 0 1 0 F
+S -60 27 60 12 0 1 0 N
+P 2 0 1 0 -50 60 -30 60 N
+P 2 0 1 0 -40 50 -40 70 N
+X ~ 1 0 100 73 D 50 50 1 1 P
+X ~ 2 0 -100 73 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 4700uF
+#
+DEF 4700uF CP 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN	
+F1 "4700uF" 10 -80 50 H V L CNN
+F2 "Capacitor_THT:CP_Radial_D12.5mm_P5.00mm" -90 -30 50 H I C CNN
+F3 "https://www.nichicon.co.jp/english/products/pdfs/e-uvz.pdf"  10 70 50 H I C CNN
+F4 "6.3 V" 310 370 50 H I C CNN "Voltage"
+F5 "±20%" 410 470 50 H I C CNN "Tolerance"
+F6 "493-1257-ND" 110 170 50 H I C CNN "Digi-Key_PN"
+F7 "UVZ0J472MHD" 210 270 50 H I C CNN "MPN"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+S -60 -12 60 -27 0 1 0 F
+S -60 27 60 12 0 1 0 N
+P 2 0 1 0 -50 60 -30 60 N
+P 2 0 1 0 -40 50 -40 70 N
+X ~ 1 0 100 73 D 50 50 1 1 P
+X ~ 2 0 -100 73 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 4700uF
+#
+DEF 4700uF CP 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN	
+F1 "4700uF" 10 -80 50 H V L CNN
+F2 "Capacitor_THT:CP_Radial_D12.5mm_P5.00mm" -90 -30 50 H I C CNN
+F3 "https://www.nichicon.co.jp/english/products/pdfs/e-upm.pdf"  10 70 50 H I C CNN
+F4 "6.3 V" 310 370 50 H I C CNN "Voltage"
+F5 "±20%" 410 470 50 H I C CNN "Tolerance"
+F6 "493-5583-ND" 110 170 50 H I C CNN "Digi-Key_PN"
+F7 "UPM0J472MHD" 210 270 50 H I C CNN "MPN"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+S -60 -12 60 -27 0 1 0 F
+S -60 27 60 12 0 1 0 N
+P 2 0 1 0 -50 60 -30 60 N
+P 2 0 1 0 -40 50 -40 70 N
+X ~ 1 0 100 73 D 50 50 1 1 P
+X ~ 2 0 -100 73 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 4700uF
+#
+DEF 4700uF CP 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN	
+F1 "4700uF" 10 -80 50 H V L CNN
+F2 "Capacitor_THT:CP_Radial_D12.5mm_P5.00mm" -90 -30 50 H I C CNN
+F3 "https://www.nichicon.co.jp/english/products/pdfs/e-uvr.pdf"  10 70 50 H I C CNN
+F4 "6.3 V" 310 370 50 H I C CNN "Voltage"
+F5 "±20%" 410 470 50 H I C CNN "Tolerance"
+F6 "493-1010-ND" 110 170 50 H I C CNN "Digi-Key_PN"
+F7 "UVR0J472MHD" 210 270 50 H I C CNN "MPN"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+S -60 -12 60 -27 0 1 0 F
+S -60 27 60 12 0 1 0 N
+P 2 0 1 0 -50 60 -30 60 N
+P 2 0 1 0 -40 50 -40 70 N
+X ~ 1 0 100 73 D 50 50 1 1 P
+X ~ 2 0 -100 73 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 1800uF
+#
+DEF 1800uF CP 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN	
+F1 "1800uF" 10 -80 50 H V L CNN
+F2 "Capacitor_THT:CP_Radial_D10.0mm_P5.00mm" -90 -30 50 H I C CNN
+F3 "https://www.nichicon.co.jp/english/products/pdfs/e-uhv.pdf"  10 70 50 H I C CNN
+F4 "6.3 V" 310 370 50 H I C CNN "Voltage"
+F5 "±20%" 410 470 50 H I C CNN "Tolerance"
+F6 "493-15273-ND" 110 170 50 H I C CNN "Digi-Key_PN"
+F7 "UHV0J182MPD" 210 270 50 H I C CNN "MPN"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+S -60 -12 60 -27 0 1 0 F
+S -60 27 60 12 0 1 0 N
+P 2 0 1 0 -50 60 -30 60 N
+P 2 0 1 0 -40 50 -40 70 N
+X ~ 1 0 100 73 D 50 50 1 1 P
+X ~ 2 0 -100 73 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 470uF
+#
+DEF 470uF CP 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN	
+F1 "470uF" 10 -80 50 H V L CNN
+F2 "Capacitor_THT:CP_Radial_D10.0mm_P5.00mm" -90 -30 50 H I C CNN
+F3 "https://www.nichicon.co.jp/english/products/pdfs/e-ukl.pdf"  10 70 50 H I C CNN
+F4 "6.3 V" 310 370 50 H I C CNN "Voltage"
+F5 "±20%" 410 470 50 H I C CNN "Tolerance"
+F6 "493-15342-ND" 110 170 50 H I C CNN "Digi-Key_PN"
+F7 "UKL0J471MPD" 210 270 50 H I C CNN "MPN"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+S -60 -12 60 -27 0 1 0 F
+S -60 27 60 12 0 1 0 N
+P 2 0 1 0 -50 60 -30 60 N
+P 2 0 1 0 -40 50 -40 70 N
+X ~ 1 0 100 73 D 50 50 1 1 P
+X ~ 2 0 -100 73 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 2700uF
+#
+DEF 2700uF CP 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN	
+F1 "2700uF" 10 -80 50 H V L CNN
+F2 "Capacitor_THT:CP_Radial_D10.0mm_P5.00mm" -90 -30 50 H I C CNN
+F3 "https://www.nichicon.co.jp/english/products/pdfs/e-upw.pdf"  10 70 50 H I C CNN
+F4 "6.3 V" 310 370 50 H I C CNN "Voltage"
+F5 "±20%" 410 470 50 H I C CNN "Tolerance"
+F6 "493-1713-ND" 110 170 50 H I C CNN "Digi-Key_PN"
+F7 "UPW0J272MPD" 210 270 50 H I C CNN "MPN"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+S -60 -12 60 -27 0 1 0 F
+S -60 27 60 12 0 1 0 N
+P 2 0 1 0 -50 60 -30 60 N
+P 2 0 1 0 -40 50 -40 70 N
+X ~ 1 0 100 73 D 50 50 1 1 P
+X ~ 2 0 -100 73 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 6800uF
+#
+DEF 6800uF CP 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN	
+F1 "6800uF" 10 -80 50 H V L CNN
+F2 "Capacitor_THT:CP_Radial_D12.5mm_P5.00mm" -90 -30 50 H I C CNN
+F3 "https://www.nichicon.co.jp/english/products/pdfs/e-ufw.pdf"  10 70 50 H I C CNN
+F4 "6.3 V" 310 370 50 H I C CNN "Voltage"
+F5 "±20%" 410 470 50 H I C CNN "Tolerance"
+F6 "493-16762-ND" 110 170 50 H I C CNN "Digi-Key_PN"
+F7 "UFW0J682MHD" 210 270 50 H I C CNN "MPN"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+S -60 -12 60 -27 0 1 0 F
+S -60 27 60 12 0 1 0 N
+P 2 0 1 0 -50 60 -30 60 N
+P 2 0 1 0 -40 50 -40 70 N
+X ~ 1 0 100 73 D 50 50 1 1 P
+X ~ 2 0 -100 73 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 4700uF
+#
+DEF 4700uF CP 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN	
+F1 "4700uF" 10 -80 50 H V L CNN
+F2 "Capacitor_THT:CP_Radial_D12.5mm_P5.00mm" -90 -30 50 H I C CNN
+F3 "https://www.nichicon.co.jp/english/products/pdfs/e-upw.pdf"  10 70 50 H I C CNN
+F4 "6.3 V" 310 370 50 H I C CNN "Voltage"
+F5 "±20%" 410 470 50 H I C CNN "Tolerance"
+F6 "493-1717-ND" 110 170 50 H I C CNN "Digi-Key_PN"
+F7 "UPW0J472MHD6" 210 270 50 H I C CNN "MPN"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+S -60 -12 60 -27 0 1 0 F
+S -60 27 60 12 0 1 0 N
+P 2 0 1 0 -50 60 -30 60 N
+P 2 0 1 0 -40 50 -40 70 N
+X ~ 1 0 100 73 D 50 50 1 1 P
+X ~ 2 0 -100 73 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 1000uF
+#
+DEF 1000uF CP 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN	
+F1 "1000uF" 10 -80 50 H V L CNN
+F2 "Capacitor_THT:CP_Radial_D10.0mm_P5.00mm" -90 -30 50 H I C CNN
+F3 "https://www.nichicon.co.jp/english/products/pdfs/e-ufg.pdf"  10 70 50 H I C CNN
+F4 "6.3 V" 310 370 50 H I C CNN "Voltage"
+F5 "±20%" 410 470 50 H I C CNN "Tolerance"
+F6 "493-15050-ND" 110 170 50 H I C CNN "Digi-Key_PN"
+F7 "UFG0J102MPM" 210 270 50 H I C CNN "MPN"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+S -60 -12 60 -27 0 1 0 F
+S -60 27 60 12 0 1 0 N
+P 2 0 1 0 -50 60 -30 60 N
+P 2 0 1 0 -40 50 -40 70 N
+X ~ 1 0 100 73 D 50 50 1 1 P
+X ~ 2 0 -100 73 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 3300uF
+#
+DEF 3300uF CP 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN	
+F1 "3300uF" 10 -80 50 H V L CNN
+F2 "Capacitor_THT:CP_Radial_D12.5mm_P5.00mm" -90 -30 50 H I C CNN
+F3 "https://www.nichicon.co.jp/english/products/pdfs/e-upw.pdf"  10 70 50 H I C CNN
+F4 "6.3 V" 310 370 50 H I C CNN "Voltage"
+F5 "±20%" 410 470 50 H I C CNN "Tolerance"
+F6 "493-1714-ND" 110 170 50 H I C CNN "Digi-Key_PN"
+F7 "UPW0J332MHD" 210 270 50 H I C CNN "MPN"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+S -60 -12 60 -27 0 1 0 F
+S -60 27 60 12 0 1 0 N
+P 2 0 1 0 -50 60 -30 60 N
+P 2 0 1 0 -40 50 -40 70 N
+X ~ 1 0 100 73 D 50 50 1 1 P
+X ~ 2 0 -100 73 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 2200uF
+#
+DEF 2200uF CP 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN	
+F1 "2200uF" 10 -80 50 H V L CNN
+F2 "Capacitor_THT:CP_Radial_D10.0mm_P5.00mm" -90 -30 50 H I C CNN
+F3 "https://www.nichicon.co.jp/english/products/pdfs/e-uvz.pdf"  10 70 50 H I C CNN
+F4 "6.3 V" 310 370 50 H I C CNN "Voltage"
+F5 "±20%" 410 470 50 H I C CNN "Tolerance"
+F6 "493-1255-ND" 110 170 50 H I C CNN "Digi-Key_PN"
+F7 "UVZ0J222MPD" 210 270 50 H I C CNN "MPN"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+S -60 -12 60 -27 0 1 0 F
+S -60 27 60 12 0 1 0 N
+P 2 0 1 0 -50 60 -30 60 N
+P 2 0 1 0 -40 50 -40 70 N
+X ~ 1 0 100 73 D 50 50 1 1 P
+X ~ 2 0 -100 73 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 3300uF
+#
+DEF 3300uF CP 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN	
+F1 "3300uF" 10 -80 50 H V L CNN
+F2 "Capacitor_THT:CP_Radial_D12.5mm_P5.00mm" -90 -30 50 H I C CNN
+F3 "https://www.nichicon.co.jp/english/products/pdfs/e-uvy.pdf"  10 70 50 H I C CNN
+F4 "6.3 V" 310 370 50 H I C CNN "Voltage"
+F5 "±20%" 410 470 50 H I C CNN "Tolerance"
+F6 "493-16155-ND" 110 170 50 H I C CNN "Digi-Key_PN"
+F7 "UVY0J332MPD" 210 270 50 H I C CNN "MPN"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+S -60 -12 60 -27 0 1 0 F
+S -60 27 60 12 0 1 0 N
+P 2 0 1 0 -50 60 -30 60 N
+P 2 0 1 0 -40 50 -40 70 N
+X ~ 1 0 100 73 D 50 50 1 1 P
+X ~ 2 0 -100 73 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 2200uF
+#
+DEF 2200uF CP 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN	
+F1 "2200uF" 10 -80 50 H V L CNN
+F2 "Capacitor_THT:CP_Radial_D12.5mm_P5.00mm" -90 -30 50 H I C CNN
+F3 "https://www.nichicon.co.jp/english/products/pdfs/e-ury.pdf"  10 70 50 H I C CNN
+F4 "6.3 V" 310 370 50 H I C CNN "Voltage"
+F5 "±20%" 410 470 50 H I C CNN "Tolerance"
+F6 "493-17209-ND" 110 170 50 H I C CNN "Digi-Key_PN"
+F7 "URY0J222MHD" 210 270 50 H I C CNN "MPN"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+S -60 -12 60 -27 0 1 0 F
+S -60 27 60 12 0 1 0 N
+P 2 0 1 0 -50 60 -30 60 N
+P 2 0 1 0 -40 50 -40 70 N
+X ~ 1 0 100 73 D 50 50 1 1 P
+X ~ 2 0 -100 73 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 2200uF
+#
+DEF 2200uF CP 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN	
+F1 "2200uF" 10 -80 50 H V L CNN
+F2 "Capacitor_THT:CP_Radial_D10.0mm_P5.00mm" -90 -30 50 H I C CNN
+F3 "https://www.nichicon.co.jp/english/products/pdfs/e-uvr.pdf"  10 70 50 H I C CNN
+F4 "6.3 V" 310 370 50 H I C CNN "Voltage"
+F5 "±20%" 410 470 50 H I C CNN "Tolerance"
+F6 "493-1008-ND" 110 170 50 H I C CNN "Digi-Key_PN"
+F7 "UVR0J222MPD" 210 270 50 H I C CNN "MPN"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+S -60 -12 60 -27 0 1 0 F
+S -60 27 60 12 0 1 0 N
+P 2 0 1 0 -50 60 -30 60 N
+P 2 0 1 0 -40 50 -40 70 N
+X ~ 1 0 100 73 D 50 50 1 1 P
+X ~ 2 0 -100 73 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 6800uF
+#
+DEF 6800uF CP 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN	
+F1 "6800uF" 10 -80 50 H V L CNN
+F2 "Capacitor_THT:CP_Radial_D12.5mm_P5.00mm" -90 -30 50 H I C CNN
+F3 "https://www.nichicon.co.jp/english/products/pdfs/e-uka.pdf"  10 70 50 H I C CNN
+F4 "6.3 V" 310 370 50 H I C CNN "Voltage"
+F5 "±20%" 410 470 50 H I C CNN "Tolerance"
+F6 "493-4598-ND" 110 170 50 H I C CNN "Digi-Key_PN"
+F7 "UKA0J682MHD" 210 270 50 H I C CNN "MPN"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+S -60 -12 60 -27 0 1 0 F
+S -60 27 60 12 0 1 0 N
+P 2 0 1 0 -50 60 -30 60 N
+P 2 0 1 0 -40 50 -40 70 N
+X ~ 1 0 100 73 D 50 50 1 1 P
+X ~ 2 0 -100 73 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 470uF
+#
+DEF 470uF CP 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN	
+F1 "470uF" 10 -80 50 H V L CNN
+F2 "Capacitor_THT:CP_Radial_D10.0mm_P5.00mm" -90 -30 50 H I C CNN
+F3 "https://www.nichicon.co.jp/english/products/pdfs/e-ufg.pdf"  10 70 50 H I C CNN
+F4 "6.3 V" 310 370 50 H I C CNN "Voltage"
+F5 "±20%" 410 470 50 H I C CNN "Tolerance"
+F6 "493-15052-ND" 110 170 50 H I C CNN "Digi-Key_PN"
+F7 "UFG0J471MPM" 210 270 50 H I C CNN "MPN"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+S -60 -12 60 -27 0 1 0 F
+S -60 27 60 12 0 1 0 N
+P 2 0 1 0 -50 60 -30 60 N
+P 2 0 1 0 -40 50 -40 70 N
+X ~ 1 0 100 73 D 50 50 1 1 P
+X ~ 2 0 -100 73 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 2700uF
+#
+DEF 2700uF CP 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN	
+F1 "2700uF" 10 -80 50 H V L CNN
+F2 "Capacitor_THT:CP_Radial_D10.0mm_P5.00mm" -90 -30 50 H I C CNN
+F3 "https://www.nichicon.co.jp/english/products/pdfs/e-uhv.pdf"  10 70 50 H I C CNN
+F4 "6.3 V" 310 370 50 H I C CNN "Voltage"
+F5 "±20%" 410 470 50 H I C CNN "Tolerance"
+F6 "493-15276-ND" 110 170 50 H I C CNN "Digi-Key_PN"
+F7 "UHV0J272MPD" 210 270 50 H I C CNN "MPN"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+S -60 -12 60 -27 0 1 0 F
+S -60 27 60 12 0 1 0 N
+P 2 0 1 0 -50 60 -30 60 N
+P 2 0 1 0 -40 50 -40 70 N
+X ~ 1 0 100 73 D 50 50 1 1 P
+X ~ 2 0 -100 73 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 2200uF
+#
+DEF 2200uF CP 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN	
+F1 "2200uF" 10 -80 50 H V L CNN
+F2 "Capacitor_THT:CP_Radial_D10.0mm_P5.00mm" -90 -30 50 H I C CNN
+F3 "https://www.nichicon.co.jp/english/products/pdfs/e-uka.pdf"  10 70 50 H I C CNN
+F4 "6.3 V" 310 370 50 H I C CNN "Voltage"
+F5 "±20%" 410 470 50 H I C CNN "Tolerance"
+F6 "493-16807-ND" 110 170 50 H I C CNN "Digi-Key_PN"
+F7 "UKA0J222MPD" 210 270 50 H I C CNN "MPN"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+S -60 -12 60 -27 0 1 0 F
+S -60 27 60 12 0 1 0 N
+P 2 0 1 0 -50 60 -30 60 N
+P 2 0 1 0 -40 50 -40 70 N
+X ~ 1 0 100 73 D 50 50 1 1 P
+X ~ 2 0 -100 73 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 2200uF
+#
+DEF 2200uF CP 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN	
+F1 "2200uF" 10 -80 50 H V L CNN
+F2 "Capacitor_THT:CP_Radial_D10.0mm_P5.00mm" -90 -30 50 H I C CNN
+F3 "https://www.nichicon.co.jp/english/products/pdfs/e-uvk.pdf"  10 70 50 H I C CNN
+F4 "6.3 V" 310 370 50 H I C CNN "Voltage"
+F5 "±20%" 410 470 50 H I C CNN "Tolerance"
+F6 "493-6058-ND" 110 170 50 H I C CNN "Digi-Key_PN"
+F7 "UVK0J222MPD" 210 270 50 H I C CNN "MPN"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+S -60 -12 60 -27 0 1 0 F
+S -60 27 60 12 0 1 0 N
+P 2 0 1 0 -50 60 -30 60 N
+P 2 0 1 0 -40 50 -40 70 N
+X ~ 1 0 100 73 D 50 50 1 1 P
+X ~ 2 0 -100 73 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 2200uF
+#
+DEF 2200uF CP 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN	
+F1 "2200uF" 10 -80 50 H V L CNN
+F2 "Capacitor_THT:CP_Radial_D12.5mm_P5.00mm" -90 -30 50 H I C CNN
+F3 "https://www.nichicon.co.jp/english/products/pdfs/e-ufg.pdf"  10 70 50 H I C CNN
+F4 "6.3 V" 310 370 50 H I C CNN "Voltage"
+F5 "±20%" 410 470 50 H I C CNN "Tolerance"
+F6 "493-15051-ND" 110 170 50 H I C CNN "Digi-Key_PN"
+F7 "UFG0J222MHM" 210 270 50 H I C CNN "MPN"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+S -60 -12 60 -27 0 1 0 F
+S -60 27 60 12 0 1 0 N
+P 2 0 1 0 -50 60 -30 60 N
+P 2 0 1 0 -40 50 -40 70 N
+X ~ 1 0 100 73 D 50 50 1 1 P
+X ~ 2 0 -100 73 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 3300uF
+#
+DEF 3300uF CP 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN	
+F1 "3300uF" 10 -80 50 H V L CNN
+F2 "Capacitor_THT:CP_Radial_D10.0mm_P5.00mm" -90 -30 50 H I C CNN
+F3 "https://www.nichicon.co.jp/english/products/pdfs/e-uvr.pdf"  10 70 50 H I C CNN
+F4 "6.3 V" 310 370 50 H I C CNN "Voltage"
+F5 "±20%" 410 470 50 H I C CNN "Tolerance"
+F6 "493-1009-ND" 110 170 50 H I C CNN "Digi-Key_PN"
+F7 "UVR0J332MPD" 210 270 50 H I C CNN "MPN"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+S -60 -12 60 -27 0 1 0 F
+S -60 27 60 12 0 1 0 N
+P 2 0 1 0 -50 60 -30 60 N
+P 2 0 1 0 -40 50 -40 70 N
+X ~ 1 0 100 73 D 50 50 1 1 P
+X ~ 2 0 -100 73 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 4700uF
+#
+DEF 4700uF CP 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN	
+F1 "4700uF" 10 -80 50 H V L CNN
+F2 "Capacitor_THT:CP_Radial_D12.5mm_P5.00mm" -90 -30 50 H I C CNN
+F3 "https://www.nichicon.co.jp/english/products/pdfs/e-uka.pdf"  10 70 50 H I C CNN
+F4 "6.3 V" 310 370 50 H I C CNN "Voltage"
+F5 "±20%" 410 470 50 H I C CNN "Tolerance"
+F6 "493-16812-ND" 110 170 50 H I C CNN "Digi-Key_PN"
+F7 "UKA0J472MHD" 210 270 50 H I C CNN "MPN"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+S -60 -12 60 -27 0 1 0 F
+S -60 27 60 12 0 1 0 N
+P 2 0 1 0 -50 60 -30 60 N
+P 2 0 1 0 -40 50 -40 70 N
+X ~ 1 0 100 73 D 50 50 1 1 P
+X ~ 2 0 -100 73 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 2200uF
+#
+DEF 2200uF CP 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN	
+F1 "2200uF" 10 -80 50 H V L CNN
+F2 "Capacitor_THT:CP_Radial_D10.0mm_P5.00mm" -90 -30 50 H I C CNN
+F3 "https://www.nichicon.co.jp/english/products/pdfs/e-uvy.pdf"  10 70 50 H I C CNN
+F4 "6.3 V" 310 370 50 H I C CNN "Voltage"
+F5 "±20%" 410 470 50 H I C CNN "Tolerance"
+F6 "493-16154-ND" 110 170 50 H I C CNN "Digi-Key_PN"
+F7 "UVY0J222MPD" 210 270 50 H I C CNN "MPN"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+S -60 -12 60 -27 0 1 0 F
+S -60 27 60 12 0 1 0 N
+P 2 0 1 0 -50 60 -30 60 N
+P 2 0 1 0 -40 50 -40 70 N
+X ~ 1 0 100 73 D 50 50 1 1 P
+X ~ 2 0 -100 73 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 1500uF
+#
+DEF 1500uF CP 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN	
+F1 "1500uF" 10 -80 50 H V L CNN
+F2 "Capacitor_THT:CP_Radial_D12.5mm_P5.00mm" -90 -30 50 H I C CNN
+F3 "https://www.nichicon.co.jp/english/products/pdfs/e-ukl.pdf"  10 70 50 H I C CNN
+F4 "6.3 V" 310 370 50 H I C CNN "Voltage"
+F5 "±20%" 410 470 50 H I C CNN "Tolerance"
+F6 "493-16831-ND" 110 170 50 H I C CNN "Digi-Key_PN"
+F7 "UKL0J152MHD" 210 270 50 H I C CNN "MPN"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+S -60 -12 60 -27 0 1 0 F
+S -60 27 60 12 0 1 0 N
+P 2 0 1 0 -50 60 -30 60 N
+P 2 0 1 0 -40 50 -40 70 N
+X ~ 1 0 100 73 D 50 50 1 1 P
+X ~ 2 0 -100 73 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 10000uF
+#
+DEF 10000uF CP 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN	
+F1 "10000uF" 10 -80 50 H V L CNN
+F2 "Capacitor_THT:CP_Radial_D12.5mm_P5.00mm" -90 -30 50 H I C CNN
+F3 "https://www.nichicon.co.jp/english/products/pdfs/e-uka.pdf"  10 70 50 H I C CNN
+F4 "6.3 V" 310 370 50 H I C CNN "Voltage"
+F5 "±20%" 410 470 50 H I C CNN "Tolerance"
+F6 "493-4595-ND" 110 170 50 H I C CNN "Digi-Key_PN"
+F7 "UKA0J103MHD" 210 270 50 H I C CNN "MPN"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+S -60 -12 60 -27 0 1 0 F
+S -60 27 60 12 0 1 0 N
+P 2 0 1 0 -50 60 -30 60 N
+P 2 0 1 0 -40 50 -40 70 N
+X ~ 1 0 100 73 D 50 50 1 1 P
+X ~ 2 0 -100 73 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 1000uF
+#
+DEF 1000uF CP 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN	
+F1 "1000uF" 10 -80 50 H V L CNN
+F2 "Capacitor_THT:CP_Radial_D10.0mm_P5.00mm" -90 -30 50 H I C CNN
+F3 "https://www.nichicon.co.jp/english/products/pdfs/e-uka.pdf"  10 70 50 H I C CNN
+F4 "6.3 V" 310 370 50 H I C CNN "Voltage"
+F5 "±20%" 410 470 50 H I C CNN "Tolerance"
+F6 "493-16805-ND" 110 170 50 H I C CNN "Digi-Key_PN"
+F7 "UKA0J102MPD" 210 270 50 H I C CNN "MPN"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+S -60 -12 60 -27 0 1 0 F
+S -60 27 60 12 0 1 0 N
+P 2 0 1 0 -50 60 -30 60 N
+P 2 0 1 0 -40 50 -40 70 N
+X ~ 1 0 100 73 D 50 50 1 1 P
+X ~ 2 0 -100 73 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 2200uF
+#
+DEF 2200uF CP 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN	
+F1 "2200uF" 10 -80 50 H V L CNN
+F2 "Capacitor_THT:CP_Radial_D10.0mm_P5.00mm" -90 -30 50 H I C CNN
+F3 "https://www.nichicon.co.jp/english/products/pdfs/e-uhv.pdf"  10 70 50 H I C CNN
+F4 "6.3 V" 310 370 50 H I C CNN "Voltage"
+F5 "±20%" 410 470 50 H I C CNN "Tolerance"
+F6 "493-15275-ND" 110 170 50 H I C CNN "Digi-Key_PN"
+F7 "UHV0J222MPD" 210 270 50 H I C CNN "MPN"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+S -60 -12 60 -27 0 1 0 F
+S -60 27 60 12 0 1 0 N
+P 2 0 1 0 -50 60 -30 60 N
+P 2 0 1 0 -40 50 -40 70 N
+X ~ 1 0 100 73 D 50 50 1 1 P
+X ~ 2 0 -100 73 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 1000uF
+#
+DEF 1000uF CP 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN	
+F1 "1000uF" 10 -80 50 H V L CNN
+F2 "Capacitor_THT:CP_Radial_D10.0mm_P5.00mm" -90 -30 50 H I C CNN
+F3 "https://www.nichicon.co.jp/english/products/pdfs/e-uhv.pdf"  10 70 50 H I C CNN
+F4 "6.3 V" 310 370 50 H I C CNN "Voltage"
+F5 "±20%" 410 470 50 H I C CNN "Tolerance"
+F6 "493-15270-ND" 110 170 50 H I C CNN "Digi-Key_PN"
+F7 "UHV0J102MPD" 210 270 50 H I C CNN "MPN"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+S -60 -12 60 -27 0 1 0 F
+S -60 27 60 12 0 1 0 N
+P 2 0 1 0 -50 60 -30 60 N
+P 2 0 1 0 -40 50 -40 70 N
+X ~ 1 0 100 73 D 50 50 1 1 P
+X ~ 2 0 -100 73 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 6800uF
+#
+DEF 6800uF CP 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN	
+F1 "6800uF" 10 -80 50 H V L CNN
+F2 "Capacitor_THT:CP_Radial_D12.5mm_P5.00mm" -90 -30 50 H I C CNN
+F3 "https://www.nichicon.co.jp/english/products/pdfs/e-uhe.pdf"  10 70 50 H I C CNN
+F4 "6.3 V" 310 370 50 H I C CNN "Voltage"
+F5 "±20%" 410 470 50 H I C CNN "Tolerance"
+F6 "493-1481-ND" 110 170 50 H I C CNN "Digi-Key_PN"
+F7 "UHE0J682MHD" 210 270 50 H I C CNN "MPN"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+S -60 -12 60 -27 0 1 0 F
+S -60 27 60 12 0 1 0 N
+P 2 0 1 0 -50 60 -30 60 N
+P 2 0 1 0 -40 50 -40 70 N
+X ~ 1 0 100 73 D 50 50 1 1 P
+X ~ 2 0 -100 73 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 3300uF
+#
+DEF 3300uF CP 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN	
+F1 "3300uF" 10 -80 50 H V L CNN
+F2 "Capacitor_THT:CP_Radial_D12.5mm_P5.00mm" -90 -30 50 H I C CNN
+F3 "https://www.nichicon.co.jp/english/products/pdfs/e-uhe.pdf"  10 70 50 H I C CNN
+F4 "6.3 V" 310 370 50 H I C CNN "Voltage"
+F5 "±20%" 410 470 50 H I C CNN "Tolerance"
+F6 "493-1475-ND" 110 170 50 H I C CNN "Digi-Key_PN"
+F7 "UHE0J332MHD" 210 270 50 H I C CNN "MPN"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+S -60 -12 60 -27 0 1 0 F
+S -60 27 60 12 0 1 0 N
+P 2 0 1 0 -50 60 -30 60 N
+P 2 0 1 0 -40 50 -40 70 N
+X ~ 1 0 100 73 D 50 50 1 1 P
+X ~ 2 0 -100 73 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 2200uF
+#
+DEF 2200uF CP 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN	
+F1 "2200uF" 10 -80 50 H V L CNN
+F2 "Capacitor_THT:CP_Radial_D10.0mm_P5.00mm" -90 -30 50 H I C CNN
+F3 "https://www.nichicon.co.jp/english/products/pdfs/e-upw.pdf"  10 70 50 H I C CNN
+F4 "6.3 V" 310 370 50 H I C CNN "Voltage"
+F5 "±20%" 410 470 50 H I C CNN "Tolerance"
+F6 "493-1712-ND" 110 170 50 H I C CNN "Digi-Key_PN"
+F7 "UPW0J222MPD6" 210 270 50 H I C CNN "MPN"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+S -60 -12 60 -27 0 1 0 F
+S -60 27 60 12 0 1 0 N
+P 2 0 1 0 -50 60 -30 60 N
+P 2 0 1 0 -40 50 -40 70 N
+X ~ 1 0 100 73 D 50 50 1 1 P
+X ~ 2 0 -100 73 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 1200uF
+#
+DEF 1200uF CP 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN	
+F1 "1200uF" 10 -80 50 H V L CNN
+F2 "Capacitor_THT:CP_Radial_D10.0mm_P5.00mm" -90 -30 50 H I C CNN
+F3 "https://www.nichicon.co.jp/english/products/pdfs/e-uhv.pdf"  10 70 50 H I C CNN
+F4 "6.3 V" 310 370 50 H I C CNN "Voltage"
+F5 "±20%" 410 470 50 H I C CNN "Tolerance"
+F6 "493-15271-ND" 110 170 50 H I C CNN "Digi-Key_PN"
+F7 "UHV0J122MPD" 210 270 50 H I C CNN "MPN"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+S -60 -12 60 -27 0 1 0 F
+S -60 27 60 12 0 1 0 N
+P 2 0 1 0 -50 60 -30 60 N
+P 2 0 1 0 -40 50 -40 70 N
+X ~ 1 0 100 73 D 50 50 1 1 P
+X ~ 2 0 -100 73 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 2200uF
+#
+DEF 2200uF CP 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN	
+F1 "2200uF" 10 -80 50 H V L CNN
+F2 "Capacitor_THT:CP_Radial_D10.0mm_P5.00mm" -90 -30 50 H I C CNN
+F3 "https://www.nichicon.co.jp/english/products/pdfs/e-uhw.pdf"  10 70 50 H I C CNN
+F4 "6.3 V" 310 370 50 H I C CNN "Voltage"
+F5 "±20%" 410 470 50 H I C CNN "Tolerance"
+F6 "493-6805-ND" 110 170 50 H I C CNN "Digi-Key_PN"
+F7 "UHW0J222MPD" 210 270 50 H I C CNN "MPN"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+S -60 -12 60 -27 0 1 0 F
+S -60 27 60 12 0 1 0 N
+P 2 0 1 0 -50 60 -30 60 N
+P 2 0 1 0 -40 50 -40 70 N
+X ~ 1 0 100 73 D 50 50 1 1 P
+X ~ 2 0 -100 73 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 1000uF
+#
+DEF 1000uF CP 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN	
+F1 "1000uF" 10 -80 50 H V L CNN
+F2 "Capacitor_THT:CP_Radial_D10.0mm_P5.00mm" -90 -30 50 H I C CNN
+F3 "https://www.nichicon.co.jp/english/products/pdfs/e-upw.pdf"  10 70 50 H I C CNN
+F4 "6.3 V" 310 370 50 H I C CNN "Voltage"
+F5 "±20%" 410 470 50 H I C CNN "Tolerance"
+F6 "493-1707-ND" 110 170 50 H I C CNN "Digi-Key_PN"
+F7 "UPW0J102MPD" 210 270 50 H I C CNN "MPN"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+S -60 -12 60 -27 0 1 0 F
+S -60 27 60 12 0 1 0 N
+P 2 0 1 0 -50 60 -30 60 N
+P 2 0 1 0 -40 50 -40 70 N
+X ~ 1 0 100 73 D 50 50 1 1 P
+X ~ 2 0 -100 73 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 1500uF
+#
+DEF 1500uF CP 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN	
+F1 "1500uF" 10 -80 50 H V L CNN
+F2 "Capacitor_THT:CP_Radial_D10.0mm_P5.00mm" -90 -30 50 H I C CNN
+F3 "https://www.nichicon.co.jp/english/products/pdfs/e-upw.pdf"  10 70 50 H I C CNN
+F4 "6.3 V" 310 370 50 H I C CNN "Voltage"
+F5 "±20%" 410 470 50 H I C CNN "Tolerance"
+F6 "493-1710-ND" 110 170 50 H I C CNN "Digi-Key_PN"
+F7 "UPW0J152MPD" 210 270 50 H I C CNN "MPN"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+S -60 -12 60 -27 0 1 0 F
+S -60 27 60 12 0 1 0 N
+P 2 0 1 0 -50 60 -30 60 N
+P 2 0 1 0 -40 50 -40 70 N
+X ~ 1 0 100 73 D 50 50 1 1 P
+X ~ 2 0 -100 73 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 3300uF
+#
+DEF 3300uF CP 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN	
+F1 "3300uF" 10 -80 50 H V L CNN
+F2 "Capacitor_THT:CP_Radial_D12.5mm_P5.00mm" -90 -30 50 H I C CNN
+F3 "https://www.nichicon.co.jp/english/products/pdfs/e-uhv.pdf"  10 70 50 H I C CNN
+F4 "6.3 V" 310 370 50 H I C CNN "Voltage"
+F5 "±20%" 410 470 50 H I C CNN "Tolerance"
+F6 "493-15278-ND" 110 170 50 H I C CNN "Digi-Key_PN"
+F7 "UHV0J332MHD" 210 270 50 H I C CNN "MPN"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+S -60 -12 60 -27 0 1 0 F
+S -60 27 60 12 0 1 0 N
+P 2 0 1 0 -50 60 -30 60 N
+P 2 0 1 0 -40 50 -40 70 N
+X ~ 1 0 100 73 D 50 50 1 1 P
+X ~ 2 0 -100 73 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 3300uF
+#
+DEF 3300uF CP 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN	
+F1 "3300uF" 10 -80 50 H V L CNN
+F2 "Capacitor_THT:CP_Radial_D10.0mm_P5.00mm" -90 -30 50 H I C CNN
+F3 "https://www.nichicon.co.jp/english/products/pdfs/e-ufw.pdf"  10 70 50 H I C CNN
+F4 "6.3 V" 310 370 50 H I C CNN "Voltage"
+F5 "±20%" 410 470 50 H I C CNN "Tolerance"
+F6 "493-15112-ND" 110 170 50 H I C CNN "Digi-Key_PN"
+F7 "UFW0J332MPD" 210 270 50 H I C CNN "MPN"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+S -60 -12 60 -27 0 1 0 F
+S -60 27 60 12 0 1 0 N
+P 2 0 1 0 -50 60 -30 60 N
+P 2 0 1 0 -40 50 -40 70 N
+X ~ 1 0 100 73 D 50 50 1 1 P
+X ~ 2 0 -100 73 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 3300uF
+#
+DEF 3300uF CP 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN	
+F1 "3300uF" 10 -80 50 H V L CNN
+F2 "Capacitor_THT:CP_Radial_D10.0mm_P5.00mm" -90 -30 50 H I C CNN
+F3 "https://www.nichicon.co.jp/english/products/pdfs/e-uvz.pdf"  10 70 50 H I C CNN
+F4 "6.3 V" 310 370 50 H I C CNN "Voltage"
+F5 "±20%" 410 470 50 H I C CNN "Tolerance"
+F6 "493-1256-ND" 110 170 50 H I C CNN "Digi-Key_PN"
+F7 "UVZ0J332MPD" 210 270 50 H I C CNN "MPN"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+S -60 -12 60 -27 0 1 0 F
+S -60 27 60 12 0 1 0 N
+P 2 0 1 0 -50 60 -30 60 N
+P 2 0 1 0 -40 50 -40 70 N
+X ~ 1 0 100 73 D 50 50 1 1 P
+X ~ 2 0 -100 73 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 6800uF
+#
+DEF 6800uF CP 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN	
+F1 "6800uF" 10 -80 50 H V L CNN
+F2 "Capacitor_THT:CP_Radial_D12.5mm_P5.00mm" -90 -30 50 H I C CNN
+F3 "https://www.nichicon.co.jp/english/products/pdfs/e-uvz.pdf"  10 70 50 H I C CNN
+F4 "6.3 V" 310 370 50 H I C CNN "Voltage"
+F5 "±20%" 410 470 50 H I C CNN "Tolerance"
+F6 "493-1258-ND" 110 170 50 H I C CNN "Digi-Key_PN"
+F7 "UVZ0J682MHD" 210 270 50 H I C CNN "MPN"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+S -60 -12 60 -27 0 1 0 F
+S -60 27 60 12 0 1 0 N
+P 2 0 1 0 -50 60 -30 60 N
+P 2 0 1 0 -40 50 -40 70 N
+X ~ 1 0 100 73 D 50 50 1 1 P
+X ~ 2 0 -100 73 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 6800uF
+#
+DEF 6800uF CP 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN	
+F1 "6800uF" 10 -80 50 H V L CNN
+F2 "Capacitor_THT:CP_Radial_D12.5mm_P5.00mm" -90 -30 50 H I C CNN
+F3 "https://www.nichicon.co.jp/english/products/pdfs/e-uvr.pdf"  10 70 50 H I C CNN
+F4 "6.3 V" 310 370 50 H I C CNN "Voltage"
+F5 "±20%" 410 470 50 H I C CNN "Tolerance"
+F6 "493-1011-ND" 110 170 50 H I C CNN "Digi-Key_PN"
+F7 "UVR0J682MHD" 210 270 50 H I C CNN "MPN"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+S -60 -12 60 -27 0 1 0 F
+S -60 27 60 12 0 1 0 N
+P 2 0 1 0 -50 60 -30 60 N
+P 2 0 1 0 -40 50 -40 70 N
+X ~ 1 0 100 73 D 50 50 1 1 P
+X ~ 2 0 -100 73 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 2200uF
+#
+DEF 2200uF CP 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN	
+F1 "2200uF" 10 -80 50 H V L CNN
+F2 "Capacitor_THT:CP_Radial_D12.5mm_P5.00mm" -90 -30 50 H I C CNN
+F3 "https://www.nichicon.co.jp/english/products/pdfs/e-upw.pdf"  10 70 50 H I C CNN
+F4 "6.3 V" 310 370 50 H I C CNN "Voltage"
+F5 "±20%" 410 470 50 H I C CNN "Tolerance"
+F6 "493-1711-ND" 110 170 50 H I C CNN "Digi-Key_PN"
+F7 "UPW0J222MHD" 210 270 50 H I C CNN "MPN"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+S -60 -12 60 -27 0 1 0 F
+S -60 27 60 12 0 1 0 N
+P 2 0 1 0 -50 60 -30 60 N
+P 2 0 1 0 -40 50 -40 70 N
+X ~ 1 0 100 73 D 50 50 1 1 P
+X ~ 2 0 -100 73 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 2200uF
+#
+DEF 2200uF CP 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN	
+F1 "2200uF" 10 -80 50 H V L CNN
+F2 "Capacitor_THT:CP_Radial_D12.5mm_P5.00mm" -90 -30 50 H I C CNN
+F3 "https://www.nichicon.co.jp/english/products/pdfs/e-ukl.pdf"  10 70 50 H I C CNN
+F4 "6.3 V" 310 370 50 H I C CNN "Voltage"
+F5 "±20%" 410 470 50 H I C CNN "Tolerance"
+F6 "493-16226-ND" 110 170 50 H I C CNN "Digi-Key_PN"
+F7 "UKL0J222MHD" 210 270 50 H I C CNN "MPN"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+S -60 -12 60 -27 0 1 0 F
+S -60 27 60 12 0 1 0 N
+P 2 0 1 0 -50 60 -30 60 N
+P 2 0 1 0 -40 50 -40 70 N
+X ~ 1 0 100 73 D 50 50 1 1 P
+X ~ 2 0 -100 73 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 10000uF
+#
+DEF 10000uF CP 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN	
+F1 "10000uF" 10 -80 50 H V L CNN
+F2 "Capacitor_THT:CP_Radial_D18.0mm_P7.50mm" -90 -30 50 H I C CNN
+F3 "https://www.nichicon.co.jp/english/products/pdfs/e-ukl.pdf"  10 70 50 H I C CNN
+F4 "6.3 V" 310 370 50 H I C CNN "Voltage"
+F5 "±10%" 410 470 50 H I C CNN "Tolerance"
+F6 "493-17637-ND" 110 170 50 H I C CNN "Digi-Key_PN"
+F7 "UKL0J103KHD" 210 270 50 H I C CNN "MPN"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+S -60 -12 60 -27 0 1 0 F
+S -60 27 60 12 0 1 0 N
+P 2 0 1 0 -50 60 -30 60 N
+P 2 0 1 0 -40 50 -40 70 N
+X ~ 1 0 100 73 D 50 50 1 1 P
+X ~ 2 0 -100 73 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 3300uF
+#
+DEF 3300uF CP 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN	
+F1 "3300uF" 10 -80 50 H V L CNN
+F2 "Capacitor_THT:CP_Radial_D16.0mm_P7.50mm" -90 -30 50 H I C CNN
+F3 "https://www.nichicon.co.jp/english/products/pdfs/e-ukl.pdf"  10 70 50 H I C CNN
+F4 "6.3 V" 310 370 50 H I C CNN "Voltage"
+F5 "±10%" 410 470 50 H I C CNN "Tolerance"
+F6 "493-16833-ND" 110 170 50 H I C CNN "Digi-Key_PN"
+F7 "UKL0J332KHD" 210 270 50 H I C CNN "MPN"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+S -60 -12 60 -27 0 1 0 F
+S -60 27 60 12 0 1 0 N
+P 2 0 1 0 -50 60 -30 60 N
+P 2 0 1 0 -40 50 -40 70 N
+X ~ 1 0 100 73 D 50 50 1 1 P
+X ~ 2 0 -100 73 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 4700uF
+#
+DEF 4700uF CP 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN	
+F1 "4700uF" 10 -80 50 H V L CNN
+F2 "Capacitor_THT:CP_Radial_D16.0mm_P7.50mm" -90 -30 50 H I C CNN
+F3 "https://www.nichicon.co.jp/english/products/pdfs/e-ukl.pdf"  10 70 50 H I C CNN
+F4 "6.3 V" 310 370 50 H I C CNN "Voltage"
+F5 "±10%" 410 470 50 H I C CNN "Tolerance"
+F6 "493-16834-ND" 110 170 50 H I C CNN "Digi-Key_PN"
+F7 "UKL0J472KHD" 210 270 50 H I C CNN "MPN"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+S -60 -12 60 -27 0 1 0 F
+S -60 27 60 12 0 1 0 N
+P 2 0 1 0 -50 60 -30 60 N
+P 2 0 1 0 -40 50 -40 70 N
+X ~ 1 0 100 73 D 50 50 1 1 P
+X ~ 2 0 -100 73 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 5600uF
+#
+DEF 5600uF CP 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN	
+F1 "5600uF" 10 -80 50 H V L CNN
+F2 "Capacitor_THT:CP_Radial_D16.0mm_P7.50mm" -90 -30 50 H I C CNN
+F3 "https://www.nichicon.co.jp/english/products/pdfs/e-upw.pdf"  10 70 50 H I C CNN
+F4 "6.3 V" 310 370 50 H I C CNN "Voltage"
+F5 "±20%" 410 470 50 H I C CNN "Tolerance"
+F6 "493-1719-ND" 110 170 50 H I C CNN "Digi-Key_PN"
+F7 "UPW0J562MHD6" 210 270 50 H I C CNN "MPN"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+S -60 -12 60 -27 0 1 0 F
+S -60 27 60 12 0 1 0 N
+P 2 0 1 0 -50 60 -30 60 N
+P 2 0 1 0 -40 50 -40 70 N
+X ~ 1 0 100 73 D 50 50 1 1 P
+X ~ 2 0 -100 73 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 8200uF
+#
+DEF 8200uF CP 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN	
+F1 "8200uF" 10 -80 50 H V L CNN
+F2 "Capacitor_THT:CP_Radial_D16.0mm_P7.50mm" -90 -30 50 H I C CNN
+F3 "https://www.nichicon.co.jp/english/products/pdfs/e-upm.pdf"  10 70 50 H I C CNN
+F4 "6.3 V" 310 370 50 H I C CNN "Voltage"
+F5 "±20%" 410 470 50 H I C CNN "Tolerance"
+F6 "493-11113-ND" 110 170 50 H I C CNN "Digi-Key_PN"
+F7 "UPM0J822MHD" 210 270 50 H I C CNN "MPN"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+S -60 -12 60 -27 0 1 0 F
+S -60 27 60 12 0 1 0 N
+P 2 0 1 0 -50 60 -30 60 N
+P 2 0 1 0 -40 50 -40 70 N
+X ~ 1 0 100 73 D 50 50 1 1 P
+X ~ 2 0 -100 73 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 8200uF
+#
+DEF 8200uF CP 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN	
+F1 "8200uF" 10 -80 50 H V L CNN
+F2 "Capacitor_THT:CP_Radial_D16.0mm_P7.50mm" -90 -30 50 H I C CNN
+F3 "https://www.nichicon.co.jp/english/products/pdfs/e-upw.pdf"  10 70 50 H I C CNN
+F4 "6.3 V" 310 370 50 H I C CNN "Voltage"
+F5 "±20%" 410 470 50 H I C CNN "Tolerance"
+F6 "493-1722-ND" 110 170 50 H I C CNN "Digi-Key_PN"
+F7 "UPW0J822MHD" 210 270 50 H I C CNN "MPN"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+S -60 -12 60 -27 0 1 0 F
+S -60 27 60 12 0 1 0 N
+P 2 0 1 0 -50 60 -30 60 N
+P 2 0 1 0 -40 50 -40 70 N
+X ~ 1 0 100 73 D 50 50 1 1 P
+X ~ 2 0 -100 73 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 15000uF
+#
+DEF 15000uF CP 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN	
+F1 "15000uF" 10 -80 50 H V L CNN
+F2 "Capacitor_THT:CP_Radial_D18.0mm_P7.50mm" -90 -30 50 H I C CNN
+F3 "https://www.nichicon.co.jp/english/products/pdfs/e-uhe.pdf"  10 70 50 H I C CNN
+F4 "6.3 V" 310 370 50 H I C CNN "Voltage"
+F5 "±20%" 410 470 50 H I C CNN "Tolerance"
+F6 "493-1489-ND" 110 170 50 H I C CNN "Digi-Key_PN"
+F7 "UHE0J153MHD" 210 270 50 H I C CNN "MPN"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+S -60 -12 60 -27 0 1 0 F
+S -60 27 60 12 0 1 0 N
+P 2 0 1 0 -50 60 -30 60 N
+P 2 0 1 0 -40 50 -40 70 N
+X ~ 1 0 100 73 D 50 50 1 1 P
+X ~ 2 0 -100 73 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 6800uF
+#
+DEF 6800uF CP 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN	
+F1 "6800uF" 10 -80 50 H V L CNN
+F2 "Capacitor_THT:CP_Radial_D16.0mm_P7.50mm" -90 -30 50 H I C CNN
+F3 "https://www.nichicon.co.jp/english/products/pdfs/e-upj.pdf"  10 70 50 H I C CNN
+F4 "6.3 V" 310 370 50 H I C CNN "Voltage"
+F5 "±20%" 410 470 50 H I C CNN "Tolerance"
+F6 "493-5516-ND" 110 170 50 H I C CNN "Digi-Key_PN"
+F7 "UPJ0J682MHD" 210 270 50 H I C CNN "MPN"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+S -60 -12 60 -27 0 1 0 F
+S -60 27 60 12 0 1 0 N
+P 2 0 1 0 -50 60 -30 60 N
+P 2 0 1 0 -40 50 -40 70 N
+X ~ 1 0 100 73 D 50 50 1 1 P
+X ~ 2 0 -100 73 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 12000uF
+#
+DEF 12000uF CP 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN	
+F1 "12000uF" 10 -80 50 H V L CNN
+F2 "Capacitor_THT:CP_Radial_D18.0mm_P7.50mm" -90 -30 50 H I C CNN
+F3 "https://www.nichicon.co.jp/english/products/pdfs/e-uhe.pdf"  10 70 50 H I C CNN
+F4 "6.3 V" 310 370 50 H I C CNN "Voltage"
+F5 "±20%" 410 470 50 H I C CNN "Tolerance"
+F6 "493-1488-ND" 110 170 50 H I C CNN "Digi-Key_PN"
+F7 "UHE0J123MHD6" 210 270 50 H I C CNN "MPN"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+S -60 -12 60 -27 0 1 0 F
+S -60 27 60 12 0 1 0 N
+P 2 0 1 0 -50 60 -30 60 N
+P 2 0 1 0 -40 50 -40 70 N
+X ~ 1 0 100 73 D 50 50 1 1 P
+X ~ 2 0 -100 73 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 8200uF
+#
+DEF 8200uF CP 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN	
+F1 "8200uF" 10 -80 50 H V L CNN
+F2 "Capacitor_THT:CP_Radial_D16.0mm_P7.50mm" -90 -30 50 H I C CNN
+F3 "https://www.nichicon.co.jp/english/products/pdfs/e-uhw.pdf"  10 70 50 H I C CNN
+F4 "6.3 V" 310 370 50 H I C CNN "Voltage"
+F5 "±20%" 410 470 50 H I C CNN "Tolerance"
+F6 "493-6823-ND" 110 170 50 H I C CNN "Digi-Key_PN"
+F7 "UHW0J822MHD" 210 270 50 H I C CNN "MPN"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+S -60 -12 60 -27 0 1 0 F
+S -60 27 60 12 0 1 0 N
+P 2 0 1 0 -50 60 -30 60 N
+P 2 0 1 0 -40 50 -40 70 N
+X ~ 1 0 100 73 D 50 50 1 1 P
+X ~ 2 0 -100 73 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 15000uF
+#
+DEF 15000uF CP 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN	
+F1 "15000uF" 10 -80 50 H V L CNN
+F2 "Capacitor_THT:CP_Radial_D18.0mm_P7.50mm" -90 -30 50 H I C CNN
+F3 "https://www.nichicon.co.jp/english/products/pdfs/e-upw.pdf"  10 70 50 H I C CNN
+F4 "6.3 V" 310 370 50 H I C CNN "Voltage"
+F5 "±20%" 410 470 50 H I C CNN "Tolerance"
+F6 "493-1726-ND" 110 170 50 H I C CNN "Digi-Key_PN"
+F7 "UPW0J153MHD" 210 270 50 H I C CNN "MPN"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+S -60 -12 60 -27 0 1 0 F
+S -60 27 60 12 0 1 0 N
+P 2 0 1 0 -50 60 -30 60 N
+P 2 0 1 0 -40 50 -40 70 N
+X ~ 1 0 100 73 D 50 50 1 1 P
+X ~ 2 0 -100 73 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 15000uF
+#
+DEF 15000uF CP 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN	
+F1 "15000uF" 10 -80 50 H V L CNN
+F2 "Capacitor_THT:CP_Radial_D18.0mm_P7.50mm" -90 -30 50 H I C CNN
+F3 "https://www.nichicon.co.jp/english/products/pdfs/e-upj.pdf"  10 70 50 H I C CNN
+F4 "6.3 V" 310 370 50 H I C CNN "Voltage"
+F5 "±20%" 410 470 50 H I C CNN "Tolerance"
+F6 "493-5513-ND" 110 170 50 H I C CNN "Digi-Key_PN"
+F7 "UPJ0J153MHD" 210 270 50 H I C CNN "MPN"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+S -60 -12 60 -27 0 1 0 F
+S -60 27 60 12 0 1 0 N
+P 2 0 1 0 -50 60 -30 60 N
+P 2 0 1 0 -40 50 -40 70 N
+X ~ 1 0 100 73 D 50 50 1 1 P
+X ~ 2 0 -100 73 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 10000uF
+#
+DEF 10000uF CP 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN	
+F1 "10000uF" 10 -80 50 H V L CNN
+F2 "Capacitor_THT:CP_Radial_D16.0mm_P7.50mm" -90 -30 50 H I C CNN
+F3 "https://www.nichicon.co.jp/english/products/pdfs/e-uhe.pdf"  10 70 50 H I C CNN
+F4 "6.3 V" 310 370 50 H I C CNN "Voltage"
+F5 "±20%" 410 470 50 H I C CNN "Tolerance"
+F6 "493-1485-ND" 110 170 50 H I C CNN "Digi-Key_PN"
+F7 "UHE0J103MHD" 210 270 50 H I C CNN "MPN"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+S -60 -12 60 -27 0 1 0 F
+S -60 27 60 12 0 1 0 N
+P 2 0 1 0 -50 60 -30 60 N
+P 2 0 1 0 -40 50 -40 70 N
+X ~ 1 0 100 73 D 50 50 1 1 P
+X ~ 2 0 -100 73 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 8200uF
+#
+DEF 8200uF CP 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN	
+F1 "8200uF" 10 -80 50 H V L CNN
+F2 "Capacitor_THT:CP_Radial_D18.0mm_P7.50mm" -90 -30 50 H I C CNN
+F3 "https://www.nichicon.co.jp/english/products/pdfs/e-upj.pdf"  10 70 50 H I C CNN
+F4 "6.3 V" 310 370 50 H I C CNN "Voltage"
+F5 "±20%" 410 470 50 H I C CNN "Tolerance"
+F6 "493-5518-ND" 110 170 50 H I C CNN "Digi-Key_PN"
+F7 "UPJ0J822MHD6" 210 270 50 H I C CNN "MPN"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+S -60 -12 60 -27 0 1 0 F
+S -60 27 60 12 0 1 0 N
+P 2 0 1 0 -50 60 -30 60 N
+P 2 0 1 0 -40 50 -40 70 N
+X ~ 1 0 100 73 D 50 50 1 1 P
+X ~ 2 0 -100 73 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 10000uF
+#
+DEF 10000uF CP 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN	
+F1 "10000uF" 10 -80 50 H V L CNN
+F2 "Capacitor_THT:CP_Radial_D18.0mm_P7.50mm" -90 -30 50 H I C CNN
+F3 "https://www.nichicon.co.jp/english/products/pdfs/e-upw.pdf"  10 70 50 H I C CNN
+F4 "6.3 V" 310 370 50 H I C CNN "Voltage"
+F5 "±20%" 410 470 50 H I C CNN "Tolerance"
+F6 "493-1724-ND" 110 170 50 H I C CNN "Digi-Key_PN"
+F7 "UPW0J103MHD6" 210 270 50 H I C CNN "MPN"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+S -60 -12 60 -27 0 1 0 F
+S -60 27 60 12 0 1 0 N
+P 2 0 1 0 -50 60 -30 60 N
+P 2 0 1 0 -40 50 -40 70 N
+X ~ 1 0 100 73 D 50 50 1 1 P
+X ~ 2 0 -100 73 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 2200uF
+#
+DEF 2200uF CP 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN	
+F1 "2200uF" 10 -80 50 H V L CNN
+F2 "Capacitor_THT:CP_Radial_D16.0mm_P7.50mm" -90 -30 50 H I C CNN
+F3 "https://www.nichicon.co.jp/english/products/pdfs/e-upm.pdf"  10 70 50 H I C CNN
+F4 "6.3 V" 310 370 50 H I C CNN "Voltage"
+F5 "±20%" 410 470 50 H I C CNN "Tolerance"
+F6 "493-17082-ND" 110 170 50 H I C CNN "Digi-Key_PN"
+F7 "UPM0J222MHD6" 210 270 50 H I C CNN "MPN"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+S -60 -12 60 -27 0 1 0 F
+S -60 27 60 12 0 1 0 N
+P 2 0 1 0 -50 60 -30 60 N
+P 2 0 1 0 -40 50 -40 70 N
+X ~ 1 0 100 73 D 50 50 1 1 P
+X ~ 2 0 -100 73 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 10000uF
+#
+DEF 10000uF CP 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN	
+F1 "10000uF" 10 -80 50 H V L CNN
+F2 "Capacitor_THT:CP_Radial_D16.0mm_P7.50mm" -90 -30 50 H I C CNN
+F3 "https://www.nichicon.co.jp/english/products/pdfs/e-uhw.pdf"  10 70 50 H I C CNN
+F4 "6.3 V" 310 370 50 H I C CNN "Voltage"
+F5 "±20%" 410 470 50 H I C CNN "Tolerance"
+F6 "493-6911-ND" 110 170 50 H I C CNN "Digi-Key_PN"
+F7 "UHW0J103MHD" 210 270 50 H I C CNN "MPN"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+S -60 -12 60 -27 0 1 0 F
+S -60 27 60 12 0 1 0 N
+P 2 0 1 0 -50 60 -30 60 N
+P 2 0 1 0 -40 50 -40 70 N
+X ~ 1 0 100 73 D 50 50 1 1 P
+X ~ 2 0 -100 73 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 15000uF
+#
+DEF 15000uF CP 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN	
+F1 "15000uF" 10 -80 50 H V L CNN
+F2 "Capacitor_THT:CP_Radial_D16.0mm_P7.50mm" -90 -30 50 H I C CNN
+F3 "https://www.nichicon.co.jp/english/products/pdfs/e-uhw.pdf"  10 70 50 H I C CNN
+F4 "6.3 V" 310 370 50 H I C CNN "Voltage"
+F5 "±20%" 410 470 50 H I C CNN "Tolerance"
+F6 "493-6820-ND" 110 170 50 H I C CNN "Digi-Key_PN"
+F7 "UHW0J153MHD" 210 270 50 H I C CNN "MPN"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+S -60 -12 60 -27 0 1 0 F
+S -60 27 60 12 0 1 0 N
+P 2 0 1 0 -50 60 -30 60 N
+P 2 0 1 0 -40 50 -40 70 N
+X ~ 1 0 100 73 D 50 50 1 1 P
+X ~ 2 0 -100 73 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 4700uF
+#
+DEF 4700uF CP 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN	
+F1 "4700uF" 10 -80 50 H V L CNN
+F2 "Capacitor_THT:CP_Radial_D16.0mm_P7.50mm" -90 -30 50 H I C CNN
+F3 "https://www.nichicon.co.jp/english/products/pdfs/e-urs.pdf"  10 70 50 H I C CNN
+F4 "6.3 V" 310 370 50 H I C CNN "Voltage"
+F5 "±20%" 410 470 50 H I C CNN "Tolerance"
+F6 "493-17195-ND" 110 170 50 H I C CNN "Digi-Key_PN"
+F7 "URS0J472MHD" 210 270 50 H I C CNN "MPN"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+S -60 -12 60 -27 0 1 0 F
+S -60 27 60 12 0 1 0 N
+P 2 0 1 0 -50 60 -30 60 N
+P 2 0 1 0 -40 50 -40 70 N
+X ~ 1 0 100 73 D 50 50 1 1 P
+X ~ 2 0 -100 73 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 10000uF
+#
+DEF 10000uF CP 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN	
+F1 "10000uF" 10 -80 50 H V L CNN
+F2 "Capacitor_THT:CP_Radial_D18.0mm_P7.50mm" -90 -30 50 H I C CNN
+F3 "https://www.nichicon.co.jp/english/products/pdfs/e-ufg.pdf"  10 70 50 H I C CNN
+F4 "6.3 V" 310 370 50 H I C CNN "Voltage"
+F5 "±20%" 410 470 50 H I C CNN "Tolerance"
+F6 "493-10890-ND" 110 170 50 H I C CNN "Digi-Key_PN"
+F7 "UFG0J103MHM" 210 270 50 H I C CNN "MPN"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+S -60 -12 60 -27 0 1 0 F
+S -60 27 60 12 0 1 0 N
+P 2 0 1 0 -50 60 -30 60 N
+P 2 0 1 0 -40 50 -40 70 N
+X ~ 1 0 100 73 D 50 50 1 1 P
+X ~ 2 0 -100 73 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 4700uF
+#
+DEF 4700uF CP 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN	
+F1 "4700uF" 10 -80 50 H V L CNN
+F2 "Capacitor_THT:CP_Radial_D16.0mm_P7.50mm" -90 -30 50 H I C CNN
+F3 "https://www.nichicon.co.jp/english/products/pdfs/e-ufg.pdf"  10 70 50 H I C CNN
+F4 "6.3 V" 310 370 50 H I C CNN "Voltage"
+F5 "±20%" 410 470 50 H I C CNN "Tolerance"
+F6 "493-10902-ND" 110 170 50 H I C CNN "Digi-Key_PN"
+F7 "UFG0J472MHM" 210 270 50 H I C CNN "MPN"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+S -60 -12 60 -27 0 1 0 F
+S -60 27 60 12 0 1 0 N
+P 2 0 1 0 -50 60 -30 60 N
+P 2 0 1 0 -40 50 -40 70 N
+X ~ 1 0 100 73 D 50 50 1 1 P
+X ~ 2 0 -100 73 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 10000uF
+#
+DEF 10000uF CP 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN	
+F1 "10000uF" 10 -80 50 H V L CNN
+F2 "Capacitor_THT:CP_Radial_D16.0mm_P7.50mm" -90 -30 50 H I C CNN
+F3 "https://www.nichicon.co.jp/english/products/pdfs/e-ups.pdf"  10 70 50 H I C CNN
+F4 "6.3 V" 310 370 50 H I C CNN "Voltage"
+F5 "±20%" 410 470 50 H I C CNN "Tolerance"
+F6 "493-5648-ND" 110 170 50 H I C CNN "Digi-Key_PN"
+F7 "UPS0J103MHD" 210 270 50 H I C CNN "MPN"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+S -60 -12 60 -27 0 1 0 F
+S -60 27 60 12 0 1 0 N
+P 2 0 1 0 -50 60 -30 60 N
+P 2 0 1 0 -40 50 -40 70 N
+X ~ 1 0 100 73 D 50 50 1 1 P
+X ~ 2 0 -100 73 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 3300uF
+#
+DEF 3300uF CP 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN	
+F1 "3300uF" 10 -80 50 H V L CNN
+F2 "Capacitor_THT:CP_Radial_D18.0mm_P7.50mm" -90 -30 50 H I C CNN
+F3 "https://www.nichicon.co.jp/english/products/pdfs/e-upm.pdf"  10 70 50 H I C CNN
+F4 "6.3 V" 310 370 50 H I C CNN "Voltage"
+F5 "±20%" 410 470 50 H I C CNN "Tolerance"
+F6 "493-17084-ND" 110 170 50 H I C CNN "Digi-Key_PN"
+F7 "UPM0J332MHD6" 210 270 50 H I C CNN "MPN"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+S -60 -12 60 -27 0 1 0 F
+S -60 27 60 12 0 1 0 N
+P 2 0 1 0 -50 60 -30 60 N
+P 2 0 1 0 -40 50 -40 70 N
+X ~ 1 0 100 73 D 50 50 1 1 P
+X ~ 2 0 -100 73 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 18000uF
+#
+DEF 18000uF CP 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN	
+F1 "18000uF" 10 -80 50 H V L CNN
+F2 "Capacitor_THT:CP_Radial_D18.0mm_P7.50mm" -90 -30 50 H I C CNN
+F3 "https://www.nichicon.co.jp/english/products/pdfs/e-uhe.pdf"  10 70 50 H I C CNN
+F4 "6.3 V" 310 370 50 H I C CNN "Voltage"
+F5 "±20%" 410 470 50 H I C CNN "Tolerance"
+F6 "493-1490-ND" 110 170 50 H I C CNN "Digi-Key_PN"
+F7 "UHE0J183MHD" 210 270 50 H I C CNN "MPN"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+S -60 -12 60 -27 0 1 0 F
+S -60 27 60 12 0 1 0 N
+P 2 0 1 0 -50 60 -30 60 N
+P 2 0 1 0 -40 50 -40 70 N
+X ~ 1 0 100 73 D 50 50 1 1 P
+X ~ 2 0 -100 73 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 22000uF
+#
+DEF 22000uF CP 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN	
+F1 "22000uF" 10 -80 50 H V L CNN
+F2 "Capacitor_THT:CP_Radial_D18.0mm_P7.50mm" -90 -30 50 H I C CNN
+F3 "https://www.nichicon.co.jp/english/products/pdfs/e-uvz.pdf"  10 70 50 H I C CNN
+F4 "6.3 V" 310 370 50 H I C CNN "Voltage"
+F5 "±20%" 410 470 50 H I C CNN "Tolerance"
+F6 "493-1261-ND" 110 170 50 H I C CNN "Digi-Key_PN"
+F7 "UVZ0J223MHD" 210 270 50 H I C CNN "MPN"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+S -60 -12 60 -27 0 1 0 F
+S -60 27 60 12 0 1 0 N
+P 2 0 1 0 -50 60 -30 60 N
+P 2 0 1 0 -40 50 -40 70 N
+X ~ 1 0 100 73 D 50 50 1 1 P
+X ~ 2 0 -100 73 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 5600uF
+#
+DEF 5600uF CP 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN	
+F1 "5600uF" 10 -80 50 H V L CNN
+F2 "Capacitor_THT:CP_Radial_D16.0mm_P7.50mm" -90 -30 50 H I C CNN
+F3 "https://www.nichicon.co.jp/english/products/pdfs/e-uhe.pdf"  10 70 50 H I C CNN
+F4 "6.3 V" 310 370 50 H I C CNN "Voltage"
+F5 "±20%" 410 470 50 H I C CNN "Tolerance"
+F6 "493-1480-ND" 110 170 50 H I C CNN "Digi-Key_PN"
+F7 "UHE0J562MHD6" 210 270 50 H I C CNN "MPN"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+S -60 -12 60 -27 0 1 0 F
+S -60 27 60 12 0 1 0 N
+P 2 0 1 0 -50 60 -30 60 N
+P 2 0 1 0 -40 50 -40 70 N
+X ~ 1 0 100 73 D 50 50 1 1 P
+X ~ 2 0 -100 73 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 6800uF
+#
+DEF 6800uF CP 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN	
+F1 "6800uF" 10 -80 50 H V L CNN
+F2 "Capacitor_THT:CP_Radial_D16.0mm_P7.50mm" -90 -30 50 H I C CNN
+F3 "https://www.nichicon.co.jp/english/products/pdfs/e-uhw.pdf"  10 70 50 H I C CNN
+F4 "6.3 V" 310 370 50 H I C CNN "Voltage"
+F5 "±20%" 410 470 50 H I C CNN "Tolerance"
+F6 "493-6881-ND" 110 170 50 H I C CNN "Digi-Key_PN"
+F7 "UHW0J682MHD6" 210 270 50 H I C CNN "MPN"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+S -60 -12 60 -27 0 1 0 F
+S -60 27 60 12 0 1 0 N
+P 2 0 1 0 -50 60 -30 60 N
+P 2 0 1 0 -40 50 -40 70 N
+X ~ 1 0 100 73 D 50 50 1 1 P
+X ~ 2 0 -100 73 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 10000uF
+#
+DEF 10000uF CP 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN	
+F1 "10000uF" 10 -80 50 H V L CNN
+F2 "Capacitor_THT:CP_Radial_D16.0mm_P7.50mm" -90 -30 50 H I C CNN
+F3 "https://www.nichicon.co.jp/english/products/pdfs/e-upj.pdf"  10 70 50 H I C CNN
+F4 "6.3 V" 310 370 50 H I C CNN "Voltage"
+F5 "±20%" 410 470 50 H I C CNN "Tolerance"
+F6 "493-5510-ND" 110 170 50 H I C CNN "Digi-Key_PN"
+F7 "UPJ0J103MHD" 210 270 50 H I C CNN "MPN"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+S -60 -12 60 -27 0 1 0 F
+S -60 27 60 12 0 1 0 N
+P 2 0 1 0 -50 60 -30 60 N
+P 2 0 1 0 -40 50 -40 70 N
+X ~ 1 0 100 73 D 50 50 1 1 P
+X ~ 2 0 -100 73 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 6800uF
+#
+DEF 6800uF CP 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN	
+F1 "6800uF" 10 -80 50 H V L CNN
+F2 "Capacitor_THT:CP_Radial_D18.0mm_P7.50mm" -90 -30 50 H I C CNN
+F3 "https://www.nichicon.co.jp/english/products/pdfs/e-ufg.pdf"  10 70 50 H I C CNN
+F4 "6.3 V" 310 370 50 H I C CNN "Voltage"
+F5 "±20%" 410 470 50 H I C CNN "Tolerance"
+F6 "493-10896-ND" 110 170 50 H I C CNN "Digi-Key_PN"
+F7 "UFG0J682MHM" 210 270 50 H I C CNN "MPN"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+S -60 -12 60 -27 0 1 0 F
+S -60 27 60 12 0 1 0 N
+P 2 0 1 0 -50 60 -30 60 N
+P 2 0 1 0 -40 50 -40 70 N
+X ~ 1 0 100 73 D 50 50 1 1 P
+X ~ 2 0 -100 73 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 15000uF
+#
+DEF 15000uF CP 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN	
+F1 "15000uF" 10 -80 50 H V L CNN
+F2 "Capacitor_THT:CP_Radial_D16.0mm_P7.50mm" -90 -30 50 H I C CNN
+F3 "https://www.nichicon.co.jp/english/products/pdfs/e-uvr.pdf"  10 70 50 H I C CNN
+F4 "6.3 V" 310 370 50 H I C CNN "Voltage"
+F5 "±20%" 410 470 50 H I C CNN "Tolerance"
+F6 "493-1013-ND" 110 170 50 H I C CNN "Digi-Key_PN"
+F7 "UVR0J153MHD" 210 270 50 H I C CNN "MPN"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+S -60 -12 60 -27 0 1 0 F
+S -60 27 60 12 0 1 0 N
+P 2 0 1 0 -50 60 -30 60 N
+P 2 0 1 0 -40 50 -40 70 N
+X ~ 1 0 100 73 D 50 50 1 1 P
+X ~ 2 0 -100 73 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 15000uF
+#
+DEF 15000uF CP 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN	
+F1 "15000uF" 10 -80 50 H V L CNN
+F2 "Capacitor_THT:CP_Radial_D16.0mm_P7.50mm" -90 -30 50 H I C CNN
+F3 "https://www.nichicon.co.jp/english/products/pdfs/e-uvy.pdf"  10 70 50 H I C CNN
+F4 "6.3 V" 310 370 50 H I C CNN "Voltage"
+F5 "±20%" 410 470 50 H I C CNN "Tolerance"
+F6 "493-12453-ND" 110 170 50 H I C CNN "Digi-Key_PN"
+F7 "UVY0J153MHD" 210 270 50 H I C CNN "MPN"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+S -60 -12 60 -27 0 1 0 F
+S -60 27 60 12 0 1 0 N
+P 2 0 1 0 -50 60 -30 60 N
+P 2 0 1 0 -40 50 -40 70 N
+X ~ 1 0 100 73 D 50 50 1 1 P
+X ~ 2 0 -100 73 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 15000uF
+#
+DEF 15000uF CP 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN	
+F1 "15000uF" 10 -80 50 H V L CNN
+F2 "Capacitor_THT:CP_Radial_D16.0mm_P7.50mm" -90 -30 50 H I C CNN
+F3 "https://www.nichicon.co.jp/english/products/pdfs/e-ufw.pdf"  10 70 50 H I C CNN
+F4 "6.3 V" 310 370 50 H I C CNN "Voltage"
+F5 "±20%" 410 470 50 H I C CNN "Tolerance"
+F6 "493-10953-ND" 110 170 50 H I C CNN "Digi-Key_PN"
+F7 "UFW0J153MHD" 210 270 50 H I C CNN "MPN"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+S -60 -12 60 -27 0 1 0 F
+S -60 27 60 12 0 1 0 N
+P 2 0 1 0 -50 60 -30 60 N
+P 2 0 1 0 -40 50 -40 70 N
+X ~ 1 0 100 73 D 50 50 1 1 P
+X ~ 2 0 -100 73 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 15000uF
+#
+DEF 15000uF CP 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN	
+F1 "15000uF" 10 -80 50 H V L CNN
+F2 "Capacitor_THT:CP_Radial_D16.0mm_P7.50mm" -90 -30 50 H I C CNN
+F3 "https://www.nichicon.co.jp/english/products/pdfs/e-ukt.pdf"  10 70 50 H I C CNN
+F4 "6.3 V" 310 370 50 H I C CNN "Voltage"
+F5 "±20%" 410 470 50 H I C CNN "Tolerance"
+F6 "493-17856-ND" 110 170 50 H I C CNN "Digi-Key_PN"
+F7 "UKT0J153MHD" 210 270 50 H I C CNN "MPN"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+S -60 -12 60 -27 0 1 0 F
+S -60 27 60 12 0 1 0 N
+P 2 0 1 0 -50 60 -30 60 N
+P 2 0 1 0 -40 50 -40 70 N
+X ~ 1 0 100 73 D 50 50 1 1 P
+X ~ 2 0 -100 73 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 3300uF
+#
+DEF 3300uF CP 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN	
+F1 "3300uF" 10 -80 50 H V L CNN
+F2 "Capacitor_THT:CP_Radial_D16.0mm_P7.50mm" -90 -30 50 H I C CNN
+F3 "https://www.nichicon.co.jp/english/products/pdfs/e-ufg.pdf"  10 70 50 H I C CNN
+F4 "6.3 V" 310 370 50 H I C CNN "Voltage"
+F5 "±20%" 410 470 50 H I C CNN "Tolerance"
+F6 "493-16756-ND" 110 170 50 H I C CNN "Digi-Key_PN"
+F7 "UFG0J332MHM" 210 270 50 H I C CNN "MPN"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+S -60 -12 60 -27 0 1 0 F
+S -60 27 60 12 0 1 0 N
+P 2 0 1 0 -50 60 -30 60 N
+P 2 0 1 0 -40 50 -40 70 N
+X ~ 1 0 100 73 D 50 50 1 1 P
+X ~ 2 0 -100 73 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 15000uF
+#
+DEF 15000uF CP 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN	
+F1 "15000uF" 10 -80 50 H V L CNN
+F2 "Capacitor_THT:CP_Radial_D16.0mm_P7.50mm" -90 -30 50 H I C CNN
+F3 "https://www.nichicon.co.jp/english/products/pdfs/e-uvz.pdf"  10 70 50 H I C CNN
+F4 "6.3 V" 310 370 50 H I C CNN "Voltage"
+F5 "±20%" 410 470 50 H I C CNN "Tolerance"
+F6 "493-1260-ND" 110 170 50 H I C CNN "Digi-Key_PN"
+F7 "UVZ0J153MHD" 210 270 50 H I C CNN "MPN"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+S -60 -12 60 -27 0 1 0 F
+S -60 27 60 12 0 1 0 N
+P 2 0 1 0 -50 60 -30 60 N
+P 2 0 1 0 -40 50 -40 70 N
+X ~ 1 0 100 73 D 50 50 1 1 P
+X ~ 2 0 -100 73 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 10000uF
+#
+DEF 10000uF CP 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN	
+F1 "10000uF" 10 -80 50 H V L CNN
+F2 "Capacitor_THT:CP_Radial_D16.0mm_P7.50mm" -90 -30 50 H I C CNN
+F3 "https://www.nichicon.co.jp/english/products/pdfs/e-uvr.pdf"  10 70 50 H I C CNN
+F4 "6.3 V" 310 370 50 H I C CNN "Voltage"
+F5 "±20%" 410 470 50 H I C CNN "Tolerance"
+F6 "493-1012-ND" 110 170 50 H I C CNN "Digi-Key_PN"
+F7 "UVR0J103MHD" 210 270 50 H I C CNN "MPN"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+S -60 -12 60 -27 0 1 0 F
+S -60 27 60 12 0 1 0 N
+P 2 0 1 0 -50 60 -30 60 N
+P 2 0 1 0 -40 50 -40 70 N
+X ~ 1 0 100 73 D 50 50 1 1 P
+X ~ 2 0 -100 73 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 4700uF
+#
+DEF 4700uF CP 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN	
+F1 "4700uF" 10 -80 50 H V L CNN
+F2 "Capacitor_THT:CP_Radial_D16.0mm_P7.50mm" -90 -30 50 H I C CNN
+F3 "https://www.nichicon.co.jp/english/products/pdfs/e-upw.pdf"  10 70 50 H I C CNN
+F4 "6.3 V" 310 370 50 H I C CNN "Voltage"
+F5 "±20%" 410 470 50 H I C CNN "Tolerance"
+F6 "493-1716-ND" 110 170 50 H I C CNN "Digi-Key_PN"
+F7 "UPW0J472MHD" 210 270 50 H I C CNN "MPN"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+S -60 -12 60 -27 0 1 0 F
+S -60 27 60 12 0 1 0 N
+P 2 0 1 0 -50 60 -30 60 N
+P 2 0 1 0 -40 50 -40 70 N
+X ~ 1 0 100 73 D 50 50 1 1 P
+X ~ 2 0 -100 73 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 22000uF
+#
+DEF 22000uF CP 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN	
+F1 "22000uF" 10 -80 50 H V L CNN
+F2 "Capacitor_THT:CP_Radial_D18.0mm_P7.50mm" -90 -30 50 H I C CNN
+F3 "https://www.nichicon.co.jp/english/products/pdfs/e-ukt.pdf"  10 70 50 H I C CNN
+F4 "6.3 V" 310 370 50 H I C CNN "Voltage"
+F5 "±20%" 410 470 50 H I C CNN "Tolerance"
+F6 "493-17857-ND" 110 170 50 H I C CNN "Digi-Key_PN"
+F7 "UKT0J223MHD" 210 270 50 H I C CNN "MPN"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+S -60 -12 60 -27 0 1 0 F
+S -60 27 60 12 0 1 0 N
+P 2 0 1 0 -50 60 -30 60 N
+P 2 0 1 0 -40 50 -40 70 N
+X ~ 1 0 100 73 D 50 50 1 1 P
+X ~ 2 0 -100 73 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 22000uF
+#
+DEF 22000uF CP 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN	
+F1 "22000uF" 10 -80 50 H V L CNN
+F2 "Capacitor_THT:CP_Radial_D18.0mm_P7.50mm" -90 -30 50 H I C CNN
+F3 "https://www.nichicon.co.jp/english/products/pdfs/e-uvr.pdf"  10 70 50 H I C CNN
+F4 "6.3 V" 310 370 50 H I C CNN "Voltage"
+F5 "±20%" 410 470 50 H I C CNN "Tolerance"
+F6 "493-1014-ND" 110 170 50 H I C CNN "Digi-Key_PN"
+F7 "UVR0J223MHD" 210 270 50 H I C CNN "MPN"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+S -60 -12 60 -27 0 1 0 F
+S -60 27 60 12 0 1 0 N
+P 2 0 1 0 -50 60 -30 60 N
+P 2 0 1 0 -40 50 -40 70 N
+X ~ 1 0 100 73 D 50 50 1 1 P
+X ~ 2 0 -100 73 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 22000uF
+#
+DEF 22000uF CP 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN	
+F1 "22000uF" 10 -80 50 H V L CNN
+F2 "Capacitor_THT:CP_Radial_D18.0mm_P7.50mm" -90 -30 50 H I C CNN
+F3 "https://www.nichicon.co.jp/english/products/pdfs/e-ukw.pdf"  10 70 50 H I C CNN
+F4 "6.3 V" 310 370 50 H I C CNN "Voltage"
+F5 "±20%" 410 470 50 H I C CNN "Tolerance"
+F6 "493-10706-ND" 110 170 50 H I C CNN "Digi-Key_PN"
+F7 "UKW0J223MHD" 210 270 50 H I C CNN "MPN"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+S -60 -12 60 -27 0 1 0 F
+S -60 27 60 12 0 1 0 N
+P 2 0 1 0 -50 60 -30 60 N
+P 2 0 1 0 -40 50 -40 70 N
+X ~ 1 0 100 73 D 50 50 1 1 P
+X ~ 2 0 -100 73 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 22000uF
+#
+DEF 22000uF CP 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN	
+F1 "22000uF" 10 -80 50 H V L CNN
+F2 "Capacitor_THT:CP_Radial_D18.0mm_P7.50mm" -90 -30 50 H I C CNN
+F3 "https://www.nichicon.co.jp/english/products/pdfs/e-ufw.pdf"  10 70 50 H I C CNN
+F4 "6.3 V" 310 370 50 H I C CNN "Voltage"
+F5 "±20%" 410 470 50 H I C CNN "Tolerance"
+F6 "493-10955-ND" 110 170 50 H I C CNN "Digi-Key_PN"
+F7 "UFW0J223MHD" 210 270 50 H I C CNN "MPN"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+S -60 -12 60 -27 0 1 0 F
+S -60 27 60 12 0 1 0 N
+P 2 0 1 0 -50 60 -30 60 N
+P 2 0 1 0 -40 50 -40 70 N
+X ~ 1 0 100 73 D 50 50 1 1 P
+X ~ 2 0 -100 73 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 22000uF
+#
+DEF 22000uF CP 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN	
+F1 "22000uF" 10 -80 50 H V L CNN
+F2 "Capacitor_THT:CP_Radial_D18.0mm_P7.50mm" -90 -30 50 H I C CNN
+F3 "https://www.nichicon.co.jp/english/products/pdfs/e-uvy.pdf"  10 70 50 H I C CNN
+F4 "6.3 V" 310 370 50 H I C CNN "Voltage"
+F5 "±20%" 410 470 50 H I C CNN "Tolerance"
+F6 "493-12454-ND" 110 170 50 H I C CNN "Digi-Key_PN"
+F7 "UVY0J223MHD" 210 270 50 H I C CNN "MPN"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+S -60 -12 60 -27 0 1 0 F
+S -60 27 60 12 0 1 0 N
+P 2 0 1 0 -50 60 -30 60 N
+P 2 0 1 0 -40 50 -40 70 N
+X ~ 1 0 100 73 D 50 50 1 1 P
+X ~ 2 0 -100 73 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 6800uF
+#
+DEF 6800uF CP 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN	
+F1 "6800uF" 10 -80 50 H V L CNN
+F2 "Capacitor_THT:CP_Radial_D18.0mm_P7.50mm" -90 -30 50 H I C CNN
+F3 "https://www.nichicon.co.jp/english/products/pdfs/e-ukl.pdf"  10 70 50 H I C CNN
+F4 "6.3 V" 310 370 50 H I C CNN "Voltage"
+F5 "±20%" 410 470 50 H I C CNN "Tolerance"
+F6 "493-10529-ND" 110 170 50 H I C CNN "Digi-Key_PN"
+F7 "UKL0J682MHD" 210 270 50 H I C CNN "MPN"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+S -60 -12 60 -27 0 1 0 F
+S -60 27 60 12 0 1 0 N
+P 2 0 1 0 -50 60 -30 60 N
+P 2 0 1 0 -40 50 -40 70 N
+X ~ 1 0 100 73 D 50 50 1 1 P
+X ~ 2 0 -100 73 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 4700uF
+#
+DEF 4700uF CP 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN	
+F1 "4700uF" 10 -80 50 H V L CNN
+F2 "Capacitor_THT:CP_Radial_D16.0mm_P7.50mm" -90 -30 50 H I C CNN
+F3 "https://www.nichicon.co.jp/english/products/pdfs/e-ukl.pdf"  10 70 50 H I C CNN
+F4 "6.3 V" 310 370 50 H I C CNN "Voltage"
+F5 "±20%" 410 470 50 H I C CNN "Tolerance"
+F6 "493-10536-ND" 110 170 50 H I C CNN "Digi-Key_PN"
+F7 "UKL0J472MHD" 210 270 50 H I C CNN "MPN"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+S -60 -12 60 -27 0 1 0 F
+S -60 27 60 12 0 1 0 N
+P 2 0 1 0 -50 60 -30 60 N
+P 2 0 1 0 -40 50 -40 70 N
+X ~ 1 0 100 73 D 50 50 1 1 P
+X ~ 2 0 -100 73 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 6800uF
+#
+DEF 6800uF CP 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN	
+F1 "6800uF" 10 -80 50 H V L CNN
+F2 "Capacitor_THT:CP_Radial_D16.0mm_P7.50mm" -90 -30 50 H I C CNN
+F3 "https://www.nichicon.co.jp/english/products/pdfs/e-upw.pdf"  10 70 50 H I C CNN
+F4 "6.3 V" 310 370 50 H I C CNN "Voltage"
+F5 "±20%" 410 470 50 H I C CNN "Tolerance"
+F6 "493-1720-ND" 110 170 50 H I C CNN "Digi-Key_PN"
+F7 "UPW0J682MHD" 210 270 50 H I C CNN "MPN"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+S -60 -12 60 -27 0 1 0 F
+S -60 27 60 12 0 1 0 N
+P 2 0 1 0 -50 60 -30 60 N
+P 2 0 1 0 -40 50 -40 70 N
+X ~ 1 0 100 73 D 50 50 1 1 P
+X ~ 2 0 -100 73 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 12000uF
+#
+DEF 12000uF CP 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN	
+F1 "12000uF" 10 -80 50 H V L CNN
+F2 "Capacitor_THT:CP_Radial_D16.0mm_P7.50mm" -90 -30 50 H I C CNN
+F3 "https://www.nichicon.co.jp/english/products/pdfs/e-uhw.pdf"  10 70 50 H I C CNN
+F4 "6.3 V" 310 370 50 H I C CNN "Voltage"
+F5 "±20%" 410 470 50 H I C CNN "Tolerance"
+F6 "493-6876-ND" 110 170 50 H I C CNN "Digi-Key_PN"
+F7 "UHW0J123MHD" 210 270 50 H I C CNN "MPN"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+S -60 -12 60 -27 0 1 0 F
+S -60 27 60 12 0 1 0 N
+P 2 0 1 0 -50 60 -30 60 N
+P 2 0 1 0 -40 50 -40 70 N
+X ~ 1 0 100 73 D 50 50 1 1 P
+X ~ 2 0 -100 73 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 10000uF
+#
+DEF 10000uF CP 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN	
+F1 "10000uF" 10 -80 50 H V L CNN
+F2 "Capacitor_THT:CP_Radial_D16.0mm_P7.50mm" -90 -30 50 H I C CNN
+F3 "https://www.nichicon.co.jp/english/products/pdfs/e-upw.pdf"  10 70 50 H I C CNN
+F4 "6.3 V" 310 370 50 H I C CNN "Voltage"
+F5 "±20%" 410 470 50 H I C CNN "Tolerance"
+F6 "493-1723-ND" 110 170 50 H I C CNN "Digi-Key_PN"
+F7 "UPW0J103MHD" 210 270 50 H I C CNN "MPN"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+S -60 -12 60 -27 0 1 0 F
+S -60 27 60 12 0 1 0 N
+P 2 0 1 0 -50 60 -30 60 N
+P 2 0 1 0 -40 50 -40 70 N
+X ~ 1 0 100 73 D 50 50 1 1 P
+X ~ 2 0 -100 73 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 10000uF
+#
+DEF 10000uF CP 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN	
+F1 "10000uF" 10 -80 50 H V L CNN
+F2 "Capacitor_THT:CP_Radial_D16.0mm_P7.50mm" -90 -30 50 H I C CNN
+F3 "https://www.nichicon.co.jp/english/products/pdfs/e-uvz.pdf"  10 70 50 H I C CNN
+F4 "6.3 V" 310 370 50 H I C CNN "Voltage"
+F5 "±20%" 410 470 50 H I C CNN "Tolerance"
+F6 "493-1259-ND" 110 170 50 H I C CNN "Digi-Key_PN"
+F7 "UVZ0J103MHD" 210 270 50 H I C CNN "MPN"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+S -60 -12 60 -27 0 1 0 F
+S -60 27 60 12 0 1 0 N
+P 2 0 1 0 -50 60 -30 60 N
+P 2 0 1 0 -40 50 -40 70 N
+X ~ 1 0 100 73 D 50 50 1 1 P
+X ~ 2 0 -100 73 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 10000uF
+#
+DEF 10000uF CP 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN	
+F1 "10000uF" 10 -80 50 H V L CNN
+F2 "Capacitor_THT:CP_Radial_D18.0mm_P7.50mm" -90 -30 50 H I C CNN
+F3 "https://www.nichicon.co.jp/english/products/pdfs/e-ukl.pdf"  10 70 50 H I C CNN
+F4 "6.3 V" 310 370 50 H I C CNN "Voltage"
+F5 "±20%" 410 470 50 H I C CNN "Tolerance"
+F6 "493-10522-ND" 110 170 50 H I C CNN "Digi-Key_PN"
+F7 "UKL0J103MHD" 210 270 50 H I C CNN "MPN"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+S -60 -12 60 -27 0 1 0 F
+S -60 27 60 12 0 1 0 N
+P 2 0 1 0 -50 60 -30 60 N
+P 2 0 1 0 -40 50 -40 70 N
+X ~ 1 0 100 73 D 50 50 1 1 P
+X ~ 2 0 -100 73 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 2700uF
+#
+DEF 2700uF CP 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN	
+F1 "2700uF" 10 -80 50 H V L CNN
+F2 "Capacitor_THT:CP_Radial_D16.0mm_P7.50mm" -90 -30 50 H I C CNN
+F3 "https://www.nichicon.co.jp/english/products/pdfs/e-uhe.pdf"  10 70 50 H I C CNN
+F4 "6.3 V" 310 370 50 H I C CNN "Voltage"
+F5 "±20%" 410 470 50 H I C CNN "Tolerance"
+F6 "493-1474-ND" 110 170 50 H I C CNN "Digi-Key_PN"
+F7 "UHE0J272MHD" 210 270 50 H I C CNN "MPN"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+S -60 -12 60 -27 0 1 0 F
+S -60 27 60 12 0 1 0 N
+P 2 0 1 0 -50 60 -30 60 N
+P 2 0 1 0 -40 50 -40 70 N
+X ~ 1 0 100 73 D 50 50 1 1 P
+X ~ 2 0 -100 73 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 3900uF
+#
+DEF 3900uF CP 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN	
+F1 "3900uF" 10 -80 50 H V L CNN
+F2 "Capacitor_THT:CP_Radial_D18.0mm_P7.50mm" -90 -30 50 H I C CNN
+F3 "https://www.nichicon.co.jp/english/products/pdfs/e-uhe.pdf"  10 70 50 H I C CNN
+F4 "6.3 V" 310 370 50 H I C CNN "Voltage"
+F5 "±20%" 410 470 50 H I C CNN "Tolerance"
+F6 "493-1477-ND" 110 170 50 H I C CNN "Digi-Key_PN"
+F7 "UHE0J392MHD6" 210 270 50 H I C CNN "MPN"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+S -60 -12 60 -27 0 1 0 F
+S -60 27 60 12 0 1 0 N
+P 2 0 1 0 -50 60 -30 60 N
+P 2 0 1 0 -40 50 -40 70 N
+X ~ 1 0 100 73 D 50 50 1 1 P
+X ~ 2 0 -100 73 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 10000uF
+#
+DEF 10000uF CP 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN	
+F1 "10000uF" 10 -80 50 H V L CNN
+F2 "Capacitor_THT:CP_Radial_D18.0mm_P7.50mm" -90 -30 50 H I C CNN
+F3 "https://www.nichicon.co.jp/english/products/pdfs/e-uhe.pdf"  10 70 50 H I C CNN
+F4 "6.3 V" 310 370 50 H I C CNN "Voltage"
+F5 "±20%" 410 470 50 H I C CNN "Tolerance"
+F6 "493-1486-ND" 110 170 50 H I C CNN "Digi-Key_PN"
+F7 "UHE0J103MHD6" 210 270 50 H I C CNN "MPN"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+S -60 -12 60 -27 0 1 0 F
+S -60 27 60 12 0 1 0 N
+P 2 0 1 0 -50 60 -30 60 N
+P 2 0 1 0 -40 50 -40 70 N
+X ~ 1 0 100 73 D 50 50 1 1 P
+X ~ 2 0 -100 73 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 12000uF
+#
+DEF 12000uF CP 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN	
+F1 "12000uF" 10 -80 50 H V L CNN
+F2 "Capacitor_THT:CP_Radial_D18.0mm_P7.50mm" -90 -30 50 H I C CNN
+F3 "https://www.nichicon.co.jp/english/products/pdfs/e-upw.pdf"  10 70 50 H I C CNN
+F4 "6.3 V" 310 370 50 H I C CNN "Voltage"
+F5 "±20%" 410 470 50 H I C CNN "Tolerance"
+F6 "493-1725-ND" 110 170 50 H I C CNN "Digi-Key_PN"
+F7 "UPW0J123MHD" 210 270 50 H I C CNN "MPN"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+S -60 -12 60 -27 0 1 0 F
+S -60 27 60 12 0 1 0 N
+P 2 0 1 0 -50 60 -30 60 N
+P 2 0 1 0 -40 50 -40 70 N
+X ~ 1 0 100 73 D 50 50 1 1 P
+X ~ 2 0 -100 73 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 15000uF
+#
+DEF 15000uF CP 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN	
+F1 "15000uF" 10 -80 50 H V L CNN
+F2 "Capacitor_THT:CP_Radial_D16.0mm_P7.50mm" -90 -30 50 H I C CNN
+F3 "https://www.nichicon.co.jp/english/products/pdfs/e-uvk.pdf"  10 70 50 H I C CNN
+F4 "6.3 V" 310 370 50 H I C CNN "Voltage"
+F5 "±20%" 410 470 50 H I C CNN "Tolerance"
+F6 "493-12390-ND" 110 170 50 H I C CNN "Digi-Key_PN"
+F7 "UVK0J153MHD" 210 270 50 H I C CNN "MPN"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+S -60 -12 60 -27 0 1 0 F
+S -60 27 60 12 0 1 0 N
+P 2 0 1 0 -50 60 -30 60 N
+P 2 0 1 0 -40 50 -40 70 N
+X ~ 1 0 100 73 D 50 50 1 1 P
+X ~ 2 0 -100 73 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 22000uF
+#
+DEF 22000uF CP 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN	
+F1 "22000uF" 10 -80 50 H V L CNN
+F2 "Capacitor_THT:CP_Radial_D18.0mm_P7.50mm" -90 -30 50 H I C CNN
+F3 "https://www.nichicon.co.jp/english/products/pdfs/e-uka.pdf"  10 70 50 H I C CNN
+F4 "6.3 V" 310 370 50 H I C CNN "Voltage"
+F5 "±20%" 410 470 50 H I C CNN "Tolerance"
+F6 "493-4597-ND" 110 170 50 H I C CNN "Digi-Key_PN"
+F7 "UKA0J223MHD" 210 270 50 H I C CNN "MPN"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+S -60 -12 60 -27 0 1 0 F
+S -60 27 60 12 0 1 0 N
+P 2 0 1 0 -50 60 -30 60 N
+P 2 0 1 0 -40 50 -40 70 N
+X ~ 1 0 100 73 D 50 50 1 1 P
+X ~ 2 0 -100 73 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 22000uF
+#
+DEF 22000uF CP 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN	
+F1 "22000uF" 10 -80 50 H V L CNN
+F2 "Capacitor_THT:CP_Radial_D18.0mm_P7.50mm" -90 -30 50 H I C CNN
+F3 "https://www.nichicon.co.jp/english/products/pdfs/e-uvk.pdf"  10 70 50 H I C CNN
+F4 "6.3 V" 310 370 50 H I C CNN "Voltage"
+F5 "±20%" 410 470 50 H I C CNN "Tolerance"
+F6 "493-12391-ND" 110 170 50 H I C CNN "Digi-Key_PN"
+F7 "UVK0J223MHD" 210 270 50 H I C CNN "MPN"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+S -60 -12 60 -27 0 1 0 F
+S -60 27 60 12 0 1 0 N
+P 2 0 1 0 -50 60 -30 60 N
+P 2 0 1 0 -40 50 -40 70 N
+X ~ 1 0 100 73 D 50 50 1 1 P
+X ~ 2 0 -100 73 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 10000uF
+#
+DEF 10000uF CP 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN	
+F1 "10000uF" 10 -80 50 H V L CNN
+F2 "Capacitor_THT:CP_Radial_D16.0mm_P7.50mm" -90 -30 50 H I C CNN
+F3 "https://www.nichicon.co.jp/english/products/pdfs/e-ufw.pdf"  10 70 50 H I C CNN
+F4 "6.3 V" 310 370 50 H I C CNN "Voltage"
+F5 "±20%" 410 470 50 H I C CNN "Tolerance"
+F6 "493-15110-ND" 110 170 50 H I C CNN "Digi-Key_PN"
+F7 "UFW0J103MHD" 210 270 50 H I C CNN "MPN"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+S -60 -12 60 -27 0 1 0 F
+S -60 27 60 12 0 1 0 N
+P 2 0 1 0 -50 60 -30 60 N
+P 2 0 1 0 -40 50 -40 70 N
+X ~ 1 0 100 73 D 50 50 1 1 P
+X ~ 2 0 -100 73 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 33000uF
+#
+DEF 33000uF CP 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN	
+F1 "33000uF" 10 -80 50 H V L CNN
+F2 "Capacitor_THT:CP_Radial_D22.0mm_P10.00mm_SnapIn" -90 -30 50 H I C CNN
+F3 "https://www.nichicon.co.jp/english/products/pdfs/e-uvz.pdf"  10 70 50 H I C CNN
+F4 "6.3 V" 310 370 50 H I C CNN "Voltage"
+F5 "±20%" 410 470 50 H I C CNN "Tolerance"
+F6 "493-1262-ND" 110 170 50 H I C CNN "Digi-Key_PN"
+F7 "UVZ0J333MRD" 210 270 50 H I C CNN "MPN"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+S -60 -12 60 -27 0 1 0 F
+S -60 27 60 12 0 1 0 N
+P 2 0 1 0 -50 60 -30 60 N
+P 2 0 1 0 -40 50 -40 70 N
+X ~ 1 0 100 73 D 50 50 1 1 P
+X ~ 2 0 -100 73 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 33000uF
+#
+DEF 33000uF CP 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN	
+F1 "33000uF" 10 -80 50 H V L CNN
+F2 "Capacitor_THT:CP_Radial_D22.0mm_P10.00mm_SnapIn" -90 -30 50 H I C CNN
+F3 "https://www.nichicon.co.jp/english/products/pdfs/e-uvr.pdf"  10 70 50 H I C CNN
+F4 "6.3 V" 310 370 50 H I C CNN "Voltage"
+F5 "±20%" 410 470 50 H I C CNN "Tolerance"
+F6 "493-1016-ND" 110 170 50 H I C CNN "Digi-Key_PN"
+F7 "UVR0J333MRD" 210 270 50 H I C CNN "MPN"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+S -60 -12 60 -27 0 1 0 F
+S -60 27 60 12 0 1 0 N
+P 2 0 1 0 -50 60 -30 60 N
+P 2 0 1 0 -40 50 -40 70 N
+X ~ 1 0 100 73 D 50 50 1 1 P
+X ~ 2 0 -100 73 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 33000uF
+#
+DEF 33000uF CP 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN	
+F1 "33000uF" 10 -80 50 H V L CNN
+F2 "Capacitor_THT:CP_Radial_D22.0mm_P10.00mm_SnapIn" -90 -30 50 H I C CNN
+F3 "https://www.nichicon.co.jp/english/products/pdfs/e-uvy.pdf"  10 70 50 H I C CNN
+F4 "6.3 V" 310 370 50 H I C CNN "Voltage"
+F5 "±20%" 410 470 50 H I C CNN "Tolerance"
+F6 "493-12455-ND" 110 170 50 H I C CNN "Digi-Key_PN"
+F7 "UVY0J333MRD" 210 270 50 H I C CNN "MPN"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+S -60 -12 60 -27 0 1 0 F
+S -60 27 60 12 0 1 0 N
+P 2 0 1 0 -50 60 -30 60 N
+P 2 0 1 0 -40 50 -40 70 N
+X ~ 1 0 100 73 D 50 50 1 1 P
+X ~ 2 0 -100 73 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 33000uF
+#
+DEF 33000uF CP 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN	
+F1 "33000uF" 10 -80 50 H V L CNN
+F2 "Capacitor_THT:CP_Radial_D22.0mm_P10.00mm_SnapIn" -90 -30 50 H I C CNN
+F3 "https://www.nichicon.co.jp/english/products/pdfs/e-uvk.pdf"  10 70 50 H I C CNN
+F4 "6.3 V" 310 370 50 H I C CNN "Voltage"
+F5 "±20%" 410 470 50 H I C CNN "Tolerance"
+F6 "493-12392-ND" 110 170 50 H I C CNN "Digi-Key_PN"
+F7 "UVK0J333MRD" 210 270 50 H I C CNN "MPN"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+S -60 -12 60 -27 0 1 0 F
+S -60 27 60 12 0 1 0 N
+P 2 0 1 0 -50 60 -30 60 N
+P 2 0 1 0 -40 50 -40 70 N
+X ~ 1 0 100 73 D 50 50 1 1 P
+X ~ 2 0 -100 73 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 33000uF
+#
+DEF 33000uF CP 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN	
+F1 "33000uF" 10 -80 50 H V L CNN
+F2 "Capacitor_THT:CP_Radial_D22.0mm_P10.00mm_SnapIn" -90 -30 50 H I C CNN
+F3 "https://www.nichicon.co.jp/english/products/pdfs/e-ufw.pdf"  10 70 50 H I C CNN
+F4 "6.3 V" 310 370 50 H I C CNN "Voltage"
+F5 "±20%" 410 470 50 H I C CNN "Tolerance"
+F6 "493-10958-ND" 110 170 50 H I C CNN "Digi-Key_PN"
+F7 "UFW0J333MRD" 210 270 50 H I C CNN "MPN"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+S -60 -12 60 -27 0 1 0 F
+S -60 27 60 12 0 1 0 N
+P 2 0 1 0 -50 60 -30 60 N
+P 2 0 1 0 -40 50 -40 70 N
+X ~ 1 0 100 73 D 50 50 1 1 P
+X ~ 2 0 -100 73 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 33000uF
+#
+DEF 33000uF CP 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN	
+F1 "33000uF" 10 -80 50 H V L CNN
+F2 "Capacitor_THT:CP_Radial_D22.0mm_P10.00mm_SnapIn" -90 -30 50 H I C CNN
+F3 "https://www.nichicon.co.jp/english/products/pdfs/e-ukt.pdf"  10 70 50 H I C CNN
+F4 "6.3 V" 310 370 50 H I C CNN "Voltage"
+F5 "±20%" 410 470 50 H I C CNN "Tolerance"
+F6 "493-17858-ND" 110 170 50 H I C CNN "Digi-Key_PN"
+F7 "UKT0J333MRD" 210 270 50 H I C CNN "MPN"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+S -60 -12 60 -27 0 1 0 F
+S -60 27 60 12 0 1 0 N
+P 2 0 1 0 -50 60 -30 60 N
+P 2 0 1 0 -40 50 -40 70 N
+X ~ 1 0 100 73 D 50 50 1 1 P
+X ~ 2 0 -100 73 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 22000uF
+#
+DEF 22000uF CP 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN	
+F1 "22000uF" 10 -80 50 H V L CNN
+F2 "Capacitor_THT:CP_Radial_D22.0mm_P10.00mm_SnapIn" -90 -30 50 H I C CNN
+F3 "https://www.nichicon.co.jp/english/products/pdfs/e-uvr.pdf"  10 70 50 H I C CNN
+F4 "6.3 V" 310 370 50 H I C CNN "Voltage"
+F5 "±20%" 410 470 50 H I C CNN "Tolerance"
+F6 "493-1015-ND" 110 170 50 H I C CNN "Digi-Key_PN"
+F7 "UVR0J223MRD6" 210 270 50 H I C CNN "MPN"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+S -60 -12 60 -27 0 1 0 F
+S -60 27 60 12 0 1 0 N
+P 2 0 1 0 -50 60 -30 60 N
+P 2 0 1 0 -40 50 -40 70 N
+X ~ 1 0 100 73 D 50 50 1 1 P
+X ~ 2 0 -100 73 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 33000uF
+#
+DEF 33000uF CP 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN	
+F1 "33000uF" 10 -80 50 H V L CNN
+F2 "" -90 -30 50 H I C CNN
+F3 "https://www.nichicon.co.jp/english/products/pdfs/e-uvr.pdf"  10 70 50 H I C CNN
+F4 "6.3 V" 310 370 50 H I C CNN "Voltage"
+F5 "±20%" 410 470 50 H I C CNN "Tolerance"
+F6 "493-1017-ND" 110 170 50 H I C CNN "Digi-Key_PN"
+F7 "UVR0J333MRD6" 210 270 50 H I C CNN "MPN"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+S -60 -12 60 -27 0 1 0 F
+S -60 27 60 12 0 1 0 N
+P 2 0 1 0 -50 60 -30 60 N
+P 2 0 1 0 -40 50 -40 70 N
+X ~ 1 0 100 73 D 50 50 1 1 P
+X ~ 2 0 -100 73 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
